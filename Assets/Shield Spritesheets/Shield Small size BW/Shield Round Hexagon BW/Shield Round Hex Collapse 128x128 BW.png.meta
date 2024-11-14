@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: a009a25622dcf2349b85fb85fc48871f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 739177958211057412
+    second: Shield Round Hex Collapse 128x128 BW_0
+  - first:
+      213: 6849110545085137503
+    second: Shield Round Hex Collapse 128x128 BW_1
+  - first:
+      213: 7230312260433023394
+    second: Shield Round Hex Collapse 128x128 BW_2
+  - first:
+      213: -1944659593001104195
+    second: Shield Round Hex Collapse 128x128 BW_3
+  - first:
+      213: -2106929545805279815
+    second: Shield Round Hex Collapse 128x128 BW_4
+  - first:
+      213: 8444087857775555867
+    second: Shield Round Hex Collapse 128x128 BW_5
+  - first:
+      213: 3801866949933298891
+    second: Shield Round Hex Collapse 128x128 BW_6
+  - first:
+      213: 5771516452244652153
+    second: Shield Round Hex Collapse 128x128 BW_7
+  - first:
+      213: 6423897909809658502
+    second: Shield Round Hex Collapse 128x128 BW_8
+  - first:
+      213: -76558162032395019
+    second: Shield Round Hex Collapse 128x128 BW_9
+  - first:
+      213: 4941188460043169829
+    second: Shield Round Hex Collapse 128x128 BW_10
+  - first:
+      213: 6169438863002290895
+    second: Shield Round Hex Collapse 128x128 BW_11
+  - first:
+      213: -8836231911475515990
+    second: Shield Round Hex Collapse 128x128 BW_12
+  - first:
+      213: 4818505938011708624
+    second: Shield Round Hex Collapse 128x128 BW_13
+  - first:
+      213: -2902719572317726147
+    second: Shield Round Hex Collapse 128x128 BW_14
+  - first:
+      213: 8394031321493402304
+    second: Shield Round Hex Collapse 128x128 BW_15
+  - first:
+      213: 2313094492256083639
+    second: Shield Round Hex Collapse 128x128 BW_16
+  - first:
+      213: -7874356724197453505
+    second: Shield Round Hex Collapse 128x128 BW_17
+  - first:
+      213: 1322007145688583580
+    second: Shield Round Hex Collapse 128x128 BW_18
+  - first:
+      213: -4237450681805607208
+    second: Shield Round Hex Collapse 128x128 BW_19
+  - first:
+      213: -5270000807186612722
+    second: Shield Round Hex Collapse 128x128 BW_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f7f8cf66124a00800000000000000
+      internalID: 739177958211057412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 400
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528e2ba0cdec0f50800000000000000
+      internalID: 6849110545085137503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 399
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1134a61ba375460800000000000000
+      internalID: 7230312260433023394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 399
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0d16476e2305e0800000000000000
+      internalID: -1944659593001104195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 267
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4087bdbea2c2e0800000000000000
+      internalID: -2106929545805279815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 320
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15b6eefa2d6f2570800000000000000
+      internalID: 8444087857775555867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 286
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4721a09d1f2c430800000000000000
+      internalID: 3801866949933298891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9708d5f62ab881050800000000000000
+      internalID: 5771516452244652153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 289
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a349b1d15462950800000000000000
+      internalID: 6423897909809658502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 343
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcf66bd1c200fef0800000000000000
+      internalID: -76558162032395019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 331
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520f12199b0a29440800000000000000
+      internalID: 4941188460043169829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcacdb475ff3e9550800000000000000
+      internalID: 6169438863002290895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 338
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade78394e56f5580800000000000000
+      internalID: -8836231911475515990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 321
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5c4ffe95ced240800000000000000
+      internalID: 4818505938011708624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 291
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9d61ade777b7d0800000000000000
+      internalID: -2902719572317726147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 291
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fd1f63079d7470800000000000000
+      internalID: 8394031321493402304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 291
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be16d67f23c91020800000000000000
+      internalID: 2313094492256083639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 307
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31908b874aa8b290800000000000000
+      internalID: -7874356724197453505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 296
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dcb45ae76b85210800000000000000
+      internalID: 1322007145688583580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 273
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6dbd4e0d8135c0800000000000000
+      internalID: -4237450681805607208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse 128x128 BW_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 269
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ebe9100323dd6b0800000000000000
+      internalID: -5270000807186612722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Hex Collapse 128x128 BW_0: 739177958211057412
+      Shield Round Hex Collapse 128x128 BW_1: 6849110545085137503
+      Shield Round Hex Collapse 128x128 BW_10: 4941188460043169829
+      Shield Round Hex Collapse 128x128 BW_11: 6169438863002290895
+      Shield Round Hex Collapse 128x128 BW_12: -8836231911475515990
+      Shield Round Hex Collapse 128x128 BW_13: 4818505938011708624
+      Shield Round Hex Collapse 128x128 BW_14: -2902719572317726147
+      Shield Round Hex Collapse 128x128 BW_15: 8394031321493402304
+      Shield Round Hex Collapse 128x128 BW_16: 2313094492256083639
+      Shield Round Hex Collapse 128x128 BW_17: -7874356724197453505
+      Shield Round Hex Collapse 128x128 BW_18: 1322007145688583580
+      Shield Round Hex Collapse 128x128 BW_19: -4237450681805607208
+      Shield Round Hex Collapse 128x128 BW_2: 7230312260433023394
+      Shield Round Hex Collapse 128x128 BW_20: -5270000807186612722
+      Shield Round Hex Collapse 128x128 BW_3: -1944659593001104195
+      Shield Round Hex Collapse 128x128 BW_4: -2106929545805279815
+      Shield Round Hex Collapse 128x128 BW_5: 8444087857775555867
+      Shield Round Hex Collapse 128x128 BW_6: 3801866949933298891
+      Shield Round Hex Collapse 128x128 BW_7: 5771516452244652153
+      Shield Round Hex Collapse 128x128 BW_8: 6423897909809658502
+      Shield Round Hex Collapse 128x128 BW_9: -76558162032395019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

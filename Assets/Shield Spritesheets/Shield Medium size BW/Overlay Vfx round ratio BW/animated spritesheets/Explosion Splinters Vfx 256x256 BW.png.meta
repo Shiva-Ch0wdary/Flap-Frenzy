@@ -1,0 +1,5213 @@
+fileFormatVersion: 2
+guid: 8b302dde10b37fd4b8b8f32c1a5de0ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4533436929178492626
+    second: Explosion Splinters Vfx 256x256 BW_0
+  - first:
+      213: -7077805912068101842
+    second: Explosion Splinters Vfx 256x256 BW_1
+  - first:
+      213: -1981194356311953125
+    second: Explosion Splinters Vfx 256x256 BW_2
+  - first:
+      213: 7249842360523206624
+    second: Explosion Splinters Vfx 256x256 BW_3
+  - first:
+      213: -7801137824823542657
+    second: Explosion Splinters Vfx 256x256 BW_4
+  - first:
+      213: -8000854591240864736
+    second: Explosion Splinters Vfx 256x256 BW_5
+  - first:
+      213: 7946691834446364936
+    second: Explosion Splinters Vfx 256x256 BW_6
+  - first:
+      213: 6441640038767536197
+    second: Explosion Splinters Vfx 256x256 BW_7
+  - first:
+      213: 4588624477428542513
+    second: Explosion Splinters Vfx 256x256 BW_8
+  - first:
+      213: -8119181312143901919
+    second: Explosion Splinters Vfx 256x256 BW_9
+  - first:
+      213: -2415088896738809350
+    second: Explosion Splinters Vfx 256x256 BW_10
+  - first:
+      213: 4217103972601169625
+    second: Explosion Splinters Vfx 256x256 BW_11
+  - first:
+      213: -3004107386809699639
+    second: Explosion Splinters Vfx 256x256 BW_12
+  - first:
+      213: -164805425100579248
+    second: Explosion Splinters Vfx 256x256 BW_13
+  - first:
+      213: 6402020462931357601
+    second: Explosion Splinters Vfx 256x256 BW_14
+  - first:
+      213: 6343731973629358446
+    second: Explosion Splinters Vfx 256x256 BW_15
+  - first:
+      213: 4461219318396805930
+    second: Explosion Splinters Vfx 256x256 BW_16
+  - first:
+      213: -5307979594662153745
+    second: Explosion Splinters Vfx 256x256 BW_17
+  - first:
+      213: -2289377462262645589
+    second: Explosion Splinters Vfx 256x256 BW_18
+  - first:
+      213: -8904288025327758357
+    second: Explosion Splinters Vfx 256x256 BW_19
+  - first:
+      213: -6751933051632314131
+    second: Explosion Splinters Vfx 256x256 BW_20
+  - first:
+      213: 1567478848776676561
+    second: Explosion Splinters Vfx 256x256 BW_21
+  - first:
+      213: -2484296977241341013
+    second: Explosion Splinters Vfx 256x256 BW_22
+  - first:
+      213: -354509094175641437
+    second: Explosion Splinters Vfx 256x256 BW_23
+  - first:
+      213: -8832849986585372509
+    second: Explosion Splinters Vfx 256x256 BW_24
+  - first:
+      213: -1487009387743591792
+    second: Explosion Splinters Vfx 256x256 BW_25
+  - first:
+      213: -849954793858784071
+    second: Explosion Splinters Vfx 256x256 BW_26
+  - first:
+      213: -4246366775432815009
+    second: Explosion Splinters Vfx 256x256 BW_27
+  - first:
+      213: 5878500019763401075
+    second: Explosion Splinters Vfx 256x256 BW_28
+  - first:
+      213: -1975801386555373002
+    second: Explosion Splinters Vfx 256x256 BW_29
+  - first:
+      213: 4566572540557617748
+    second: Explosion Splinters Vfx 256x256 BW_30
+  - first:
+      213: -968850777247457064
+    second: Explosion Splinters Vfx 256x256 BW_31
+  - first:
+      213: -6420212196877737509
+    second: Explosion Splinters Vfx 256x256 BW_32
+  - first:
+      213: -2092632461016156472
+    second: Explosion Splinters Vfx 256x256 BW_33
+  - first:
+      213: -4966760798083809880
+    second: Explosion Splinters Vfx 256x256 BW_34
+  - first:
+      213: -7475907053206602163
+    second: Explosion Splinters Vfx 256x256 BW_35
+  - first:
+      213: 7046736649461079150
+    second: Explosion Splinters Vfx 256x256 BW_36
+  - first:
+      213: 814771070574171646
+    second: Explosion Splinters Vfx 256x256 BW_37
+  - first:
+      213: -7793912371047061513
+    second: Explosion Splinters Vfx 256x256 BW_38
+  - first:
+      213: 8329273008328510703
+    second: Explosion Splinters Vfx 256x256 BW_39
+  - first:
+      213: 6247244299247325274
+    second: Explosion Splinters Vfx 256x256 BW_40
+  - first:
+      213: 3150166850191972414
+    second: Explosion Splinters Vfx 256x256 BW_41
+  - first:
+      213: 7825740851563334085
+    second: Explosion Splinters Vfx 256x256 BW_42
+  - first:
+      213: -1487235974512477471
+    second: Explosion Splinters Vfx 256x256 BW_43
+  - first:
+      213: -2160695220912448572
+    second: Explosion Splinters Vfx 256x256 BW_44
+  - first:
+      213: -7688322189210324388
+    second: Explosion Splinters Vfx 256x256 BW_45
+  - first:
+      213: 5571859010148200146
+    second: Explosion Splinters Vfx 256x256 BW_46
+  - first:
+      213: 97119411897255333
+    second: Explosion Splinters Vfx 256x256 BW_47
+  - first:
+      213: 7209484934743074608
+    second: Explosion Splinters Vfx 256x256 BW_48
+  - first:
+      213: 1016068639648023271
+    second: Explosion Splinters Vfx 256x256 BW_49
+  - first:
+      213: 4628155487371308107
+    second: Explosion Splinters Vfx 256x256 BW_50
+  - first:
+      213: 7502489916407060438
+    second: Explosion Splinters Vfx 256x256 BW_51
+  - first:
+      213: -4262436210499397033
+    second: Explosion Splinters Vfx 256x256 BW_52
+  - first:
+      213: 6975008845081946571
+    second: Explosion Splinters Vfx 256x256 BW_53
+  - first:
+      213: 7807349470428491122
+    second: Explosion Splinters Vfx 256x256 BW_54
+  - first:
+      213: 1049563475475808553
+    second: Explosion Splinters Vfx 256x256 BW_55
+  - first:
+      213: 6785905274182453125
+    second: Explosion Splinters Vfx 256x256 BW_56
+  - first:
+      213: 4361725344267904173
+    second: Explosion Splinters Vfx 256x256 BW_57
+  - first:
+      213: 2972175093886255946
+    second: Explosion Splinters Vfx 256x256 BW_58
+  - first:
+      213: 5568670750283078381
+    second: Explosion Splinters Vfx 256x256 BW_59
+  - first:
+      213: -6103399659889851668
+    second: Explosion Splinters Vfx 256x256 BW_60
+  - first:
+      213: 1729496052471113387
+    second: Explosion Splinters Vfx 256x256 BW_61
+  - first:
+      213: -7014927449874024983
+    second: Explosion Splinters Vfx 256x256 BW_62
+  - first:
+      213: 5707158061230099009
+    second: Explosion Splinters Vfx 256x256 BW_63
+  - first:
+      213: -6543290329103806140
+    second: Explosion Splinters Vfx 256x256 BW_64
+  - first:
+      213: 223235697566739611
+    second: Explosion Splinters Vfx 256x256 BW_65
+  - first:
+      213: 8747673326649984836
+    second: Explosion Splinters Vfx 256x256 BW_66
+  - first:
+      213: -4757039203852981081
+    second: Explosion Splinters Vfx 256x256 BW_67
+  - first:
+      213: 9081116900405878676
+    second: Explosion Splinters Vfx 256x256 BW_68
+  - first:
+      213: 2466381901323033557
+    second: Explosion Splinters Vfx 256x256 BW_69
+  - first:
+      213: -6894330722269291834
+    second: Explosion Splinters Vfx 256x256 BW_70
+  - first:
+      213: 4747130724778531806
+    second: Explosion Splinters Vfx 256x256 BW_71
+  - first:
+      213: 5324534093503168227
+    second: Explosion Splinters Vfx 256x256 BW_72
+  - first:
+      213: 8588507859376049586
+    second: Explosion Splinters Vfx 256x256 BW_73
+  - first:
+      213: 3518491390482185848
+    second: Explosion Splinters Vfx 256x256 BW_74
+  - first:
+      213: -5119217202658623600
+    second: Explosion Splinters Vfx 256x256 BW_75
+  - first:
+      213: -6917248374215647872
+    second: Explosion Splinters Vfx 256x256 BW_76
+  - first:
+      213: 6745654801562002144
+    second: Explosion Splinters Vfx 256x256 BW_77
+  - first:
+      213: -6654093316115589451
+    second: Explosion Splinters Vfx 256x256 BW_78
+  - first:
+      213: 1997531271792820824
+    second: Explosion Splinters Vfx 256x256 BW_79
+  - first:
+      213: -4924790747507636389
+    second: Explosion Splinters Vfx 256x256 BW_80
+  - first:
+      213: -1378214545186169102
+    second: Explosion Splinters Vfx 256x256 BW_81
+  - first:
+      213: 3683863891501296593
+    second: Explosion Splinters Vfx 256x256 BW_82
+  - first:
+      213: -1876989054032801850
+    second: Explosion Splinters Vfx 256x256 BW_83
+  - first:
+      213: -1862982536758242068
+    second: Explosion Splinters Vfx 256x256 BW_84
+  - first:
+      213: 9087964726550487809
+    second: Explosion Splinters Vfx 256x256 BW_85
+  - first:
+      213: -2317098783769565327
+    second: Explosion Splinters Vfx 256x256 BW_86
+  - first:
+      213: -6200274211153930772
+    second: Explosion Splinters Vfx 256x256 BW_87
+  - first:
+      213: 2542160853955827687
+    second: Explosion Splinters Vfx 256x256 BW_88
+  - first:
+      213: -7818300556801077954
+    second: Explosion Splinters Vfx 256x256 BW_89
+  - first:
+      213: 883173320579961267
+    second: Explosion Splinters Vfx 256x256 BW_90
+  - first:
+      213: -8887509025722168608
+    second: Explosion Splinters Vfx 256x256 BW_91
+  - first:
+      213: -3927996212174999634
+    second: Explosion Splinters Vfx 256x256 BW_92
+  - first:
+      213: 6612941155622020940
+    second: Explosion Splinters Vfx 256x256 BW_93
+  - first:
+      213: 5598517246994830732
+    second: Explosion Splinters Vfx 256x256 BW_94
+  - first:
+      213: 617275254396242058
+    second: Explosion Splinters Vfx 256x256 BW_95
+  - first:
+      213: 8717509401437546805
+    second: Explosion Splinters Vfx 256x256 BW_96
+  - first:
+      213: 849102879025029704
+    second: Explosion Splinters Vfx 256x256 BW_97
+  - first:
+      213: 5704743033560805800
+    second: Explosion Splinters Vfx 256x256 BW_98
+  - first:
+      213: -5125941035769790130
+    second: Explosion Splinters Vfx 256x256 BW_99
+  - first:
+      213: 4144939440114756747
+    second: Explosion Splinters Vfx 256x256 BW_100
+  - first:
+      213: -5718482507690379054
+    second: Explosion Splinters Vfx 256x256 BW_101
+  - first:
+      213: 3225310167097303272
+    second: Explosion Splinters Vfx 256x256 BW_102
+  - first:
+      213: -3394243868451865713
+    second: Explosion Splinters Vfx 256x256 BW_103
+  - first:
+      213: -1392579194241550517
+    second: Explosion Splinters Vfx 256x256 BW_104
+  - first:
+      213: -8658280807718478724
+    second: Explosion Splinters Vfx 256x256 BW_105
+  - first:
+      213: -7335786659681240579
+    second: Explosion Splinters Vfx 256x256 BW_106
+  - first:
+      213: -2097754951334935596
+    second: Explosion Splinters Vfx 256x256 BW_107
+  - first:
+      213: -4475013761554465532
+    second: Explosion Splinters Vfx 256x256 BW_108
+  - first:
+      213: 3364921889910077165
+    second: Explosion Splinters Vfx 256x256 BW_109
+  - first:
+      213: 919243080687914543
+    second: Explosion Splinters Vfx 256x256 BW_110
+  - first:
+      213: -4848171661444632218
+    second: Explosion Splinters Vfx 256x256 BW_111
+  - first:
+      213: 5375018654953148060
+    second: Explosion Splinters Vfx 256x256 BW_112
+  - first:
+      213: -7967098125487864493
+    second: Explosion Splinters Vfx 256x256 BW_113
+  - first:
+      213: 5585231310421788833
+    second: Explosion Splinters Vfx 256x256 BW_114
+  - first:
+      213: 4189044917486948015
+    second: Explosion Splinters Vfx 256x256 BW_115
+  - first:
+      213: -9146601280608090348
+    second: Explosion Splinters Vfx 256x256 BW_116
+  - first:
+      213: -3315935501436052862
+    second: Explosion Splinters Vfx 256x256 BW_117
+  - first:
+      213: 5891108825168032630
+    second: Explosion Splinters Vfx 256x256 BW_118
+  - first:
+      213: 5097194961593110701
+    second: Explosion Splinters Vfx 256x256 BW_119
+  - first:
+      213: -3416949184993504633
+    second: Explosion Splinters Vfx 256x256 BW_120
+  - first:
+      213: 4325611063077520358
+    second: Explosion Splinters Vfx 256x256 BW_121
+  - first:
+      213: 6143150106250369163
+    second: Explosion Splinters Vfx 256x256 BW_122
+  - first:
+      213: 1321407271109543391
+    second: Explosion Splinters Vfx 256x256 BW_123
+  - first:
+      213: -5483201763291804544
+    second: Explosion Splinters Vfx 256x256 BW_124
+  - first:
+      213: 3069473657153910836
+    second: Explosion Splinters Vfx 256x256 BW_125
+  - first:
+      213: 3906927602816628065
+    second: Explosion Splinters Vfx 256x256 BW_126
+  - first:
+      213: 2528096515726756598
+    second: Explosion Splinters Vfx 256x256 BW_127
+  - first:
+      213: 3785972553164249054
+    second: Explosion Splinters Vfx 256x256 BW_128
+  - first:
+      213: -4490951456461954380
+    second: Explosion Splinters Vfx 256x256 BW_129
+  - first:
+      213: 8152141535281985075
+    second: Explosion Splinters Vfx 256x256 BW_130
+  - first:
+      213: -688047065973991743
+    second: Explosion Splinters Vfx 256x256 BW_131
+  - first:
+      213: -3033833688154249512
+    second: Explosion Splinters Vfx 256x256 BW_132
+  - first:
+      213: 7674924120810086411
+    second: Explosion Splinters Vfx 256x256 BW_133
+  - first:
+      213: 2879356934906787208
+    second: Explosion Splinters Vfx 256x256 BW_134
+  - first:
+      213: 5344378237967280039
+    second: Explosion Splinters Vfx 256x256 BW_135
+  - first:
+      213: -4932042426783161658
+    second: Explosion Splinters Vfx 256x256 BW_136
+  - first:
+      213: 4524082998689572279
+    second: Explosion Splinters Vfx 256x256 BW_137
+  - first:
+      213: -3248773706672614239
+    second: Explosion Splinters Vfx 256x256 BW_138
+  - first:
+      213: -791438865225071946
+    second: Explosion Splinters Vfx 256x256 BW_139
+  - first:
+      213: -6239713929286948482
+    second: Explosion Splinters Vfx 256x256 BW_140
+  - first:
+      213: 1503531282224144794
+    second: Explosion Splinters Vfx 256x256 BW_141
+  - first:
+      213: 2238531250621693017
+    second: Explosion Splinters Vfx 256x256 BW_142
+  - first:
+      213: -4102634373936332618
+    second: Explosion Splinters Vfx 256x256 BW_143
+  - first:
+      213: 1441354667365408087
+    second: Explosion Splinters Vfx 256x256 BW_144
+  - first:
+      213: -1026512591233882227
+    second: Explosion Splinters Vfx 256x256 BW_145
+  - first:
+      213: 4908915938248264799
+    second: Explosion Splinters Vfx 256x256 BW_146
+  - first:
+      213: 601013376772624975
+    second: Explosion Splinters Vfx 256x256 BW_147
+  - first:
+      213: 4931941551485644331
+    second: Explosion Splinters Vfx 256x256 BW_148
+  - first:
+      213: 4892900473394954713
+    second: Explosion Splinters Vfx 256x256 BW_149
+  - first:
+      213: -5865473773632432573
+    second: Explosion Splinters Vfx 256x256 BW_150
+  - first:
+      213: -8584609520720688484
+    second: Explosion Splinters Vfx 256x256 BW_151
+  - first:
+      213: 9092714247085204266
+    second: Explosion Splinters Vfx 256x256 BW_152
+  - first:
+      213: -1076921297324918375
+    second: Explosion Splinters Vfx 256x256 BW_153
+  - first:
+      213: 7447923851533520189
+    second: Explosion Splinters Vfx 256x256 BW_154
+  - first:
+      213: 9055394586174715782
+    second: Explosion Splinters Vfx 256x256 BW_155
+  - first:
+      213: 5760211400103572788
+    second: Explosion Splinters Vfx 256x256 BW_156
+  - first:
+      213: -8143624515225812336
+    second: Explosion Splinters Vfx 256x256 BW_157
+  - first:
+      213: 5113293398091554322
+    second: Explosion Splinters Vfx 256x256 BW_158
+  - first:
+      213: -4809657271329592826
+    second: Explosion Splinters Vfx 256x256 BW_159
+  - first:
+      213: -6103901628677137320
+    second: Explosion Splinters Vfx 256x256 BW_160
+  - first:
+      213: 7160451940100066409
+    second: Explosion Splinters Vfx 256x256 BW_161
+  - first:
+      213: -58121885610885326
+    second: Explosion Splinters Vfx 256x256 BW_162
+  - first:
+      213: -142779944176939303
+    second: Explosion Splinters Vfx 256x256 BW_163
+  - first:
+      213: 2109407868055055856
+    second: Explosion Splinters Vfx 256x256 BW_164
+  - first:
+      213: -4121707434581293403
+    second: Explosion Splinters Vfx 256x256 BW_165
+  - first:
+      213: -8269075346006263902
+    second: Explosion Splinters Vfx 256x256 BW_166
+  - first:
+      213: 2698116729772498980
+    second: Explosion Splinters Vfx 256x256 BW_167
+  - first:
+      213: 3793402285911596468
+    second: Explosion Splinters Vfx 256x256 BW_168
+  - first:
+      213: 7466302027805779822
+    second: Explosion Splinters Vfx 256x256 BW_169
+  - first:
+      213: -1033813104207855404
+    second: Explosion Splinters Vfx 256x256 BW_170
+  - first:
+      213: -8297196044303894515
+    second: Explosion Splinters Vfx 256x256 BW_171
+  - first:
+      213: 5335131809883195739
+    second: Explosion Splinters Vfx 256x256 BW_172
+  - first:
+      213: 8010302806368662591
+    second: Explosion Splinters Vfx 256x256 BW_173
+  - first:
+      213: -3596757913798634172
+    second: Explosion Splinters Vfx 256x256 BW_174
+  - first:
+      213: -2960166692858373758
+    second: Explosion Splinters Vfx 256x256 BW_175
+  - first:
+      213: -6441711370470782758
+    second: Explosion Splinters Vfx 256x256 BW_176
+  - first:
+      213: -365022738369164089
+    second: Explosion Splinters Vfx 256x256 BW_177
+  - first:
+      213: 6451737922307699470
+    second: Explosion Splinters Vfx 256x256 BW_178
+  - first:
+      213: -1104042798261363794
+    second: Explosion Splinters Vfx 256x256 BW_179
+  - first:
+      213: -3238771133045647261
+    second: Explosion Splinters Vfx 256x256 BW_180
+  - first:
+      213: -6049829432379537388
+    second: Explosion Splinters Vfx 256x256 BW_181
+  - first:
+      213: -223045962676391142
+    second: Explosion Splinters Vfx 256x256 BW_182
+  - first:
+      213: -2264930226210729522
+    second: Explosion Splinters Vfx 256x256 BW_183
+  - first:
+      213: 4549737062419515982
+    second: Explosion Splinters Vfx 256x256 BW_184
+  - first:
+      213: -96338268851001330
+    second: Explosion Splinters Vfx 256x256 BW_185
+  - first:
+      213: 2457385290545070655
+    second: Explosion Splinters Vfx 256x256 BW_186
+  - first:
+      213: -3902772533347093249
+    second: Explosion Splinters Vfx 256x256 BW_187
+  - first:
+      213: 3342528272199767684
+    second: Explosion Splinters Vfx 256x256 BW_188
+  - first:
+      213: -5968256235341439659
+    second: Explosion Splinters Vfx 256x256 BW_189
+  - first:
+      213: -392904652979885994
+    second: Explosion Splinters Vfx 256x256 BW_190
+  - first:
+      213: -2904220240964197218
+    second: Explosion Splinters Vfx 256x256 BW_191
+  - first:
+      213: 9218708802389056893
+    second: Explosion Splinters Vfx 256x256 BW_192
+  - first:
+      213: 1217450051862359681
+    second: Explosion Splinters Vfx 256x256 BW_193
+  - first:
+      213: -8576012935572875654
+    second: Explosion Splinters Vfx 256x256 BW_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_0
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 959
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de525f2ed00aee30800000000000000
+      internalID: 4533436929178492626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_1
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 952
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296506d50596cd90800000000000000
+      internalID: -7077805912068101842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 942
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b117401da326184e0800000000000000
+      internalID: -1981194356311953125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 937
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efa090373d9c9460800000000000000
+      internalID: 7249842360523206624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_4
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 938
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c77830b7accb390800000000000000
+      internalID: -7801137824823542657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 924
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cf88db32147f090800000000000000
+      internalID: -8000854591240864736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_6
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 925
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014cabbe12584e60800000000000000
+      internalID: 7946691834446364936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 916
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482ca96c7d456950800000000000000
+      internalID: 6441640038767536197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 913
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c6ac096a11eaf30800000000000000
+      internalID: 4588624477428542513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 918
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b3ca62d9fd25f80800000000000000
+      internalID: -8119181312143901919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 906
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9a4e0b171eb7ed0800000000000000
+      internalID: -2415088896738809350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 927
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d608cb48b9268a30800000000000000
+      internalID: 4217103972601169625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 907
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2b4168f344f46d0800000000000000
+      internalID: -3004107386809699639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 894
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e92dbc65e76bdf0800000000000000
+      internalID: -164805425100579248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 920
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2ec111bb88d850800000000000000
+      internalID: 6402020462931357601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_15
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 917
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6137769e96790850800000000000000
+      internalID: 6343731973629358446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 896
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e622655f69ed30800000000000000
+      internalID: 4461219318396805930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 905
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1f3297ea44656b0800000000000000
+      internalID: -5307979594662153745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 903
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacbc05e35f7a30e0800000000000000
+      internalID: -2289377462262645589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 909
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31398c73d9d6480800000000000000
+      internalID: -8904288025327758357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_20
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 915
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de89c3ea9a05c42a0800000000000000
+      internalID: -6751933051632314131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 917
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4a54645bdc0c510800000000000000
+      internalID: 1567478848776676561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_22
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 902
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba304f2cf01068dd0800000000000000
+      internalID: -2484296977241341013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 901
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f30c6bd7841bf0800000000000000
+      internalID: -354509094175641437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 876
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8d3435cb96b6580800000000000000
+      internalID: -8832849986585372509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 893
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924fd127d41d5be0800000000000000
+      internalID: -1487009387743591792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 888
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b428e44e9a5434f0800000000000000
+      internalID: -849954793858784071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_27
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 898
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5e4c7aefd115c0800000000000000
+      internalID: -4246366775432815009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 897
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371df125f90a49150800000000000000
+      internalID: 5878500019763401075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 890
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a84af6b1b8494e0800000000000000
+      internalID: -1975801386555373002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 875
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a6df8e789bf5f30800000000000000
+      internalID: 4566572540557617748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 852
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0edcde953fd82f0800000000000000
+      internalID: -968850777247457064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 886
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1e87ec503d6e6a0800000000000000
+      internalID: -6420212196877737509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 879
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c63eab2dd975f2e0800000000000000
+      internalID: -2092632461016156472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 876
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf0e18e55821bb0800000000000000
+      internalID: -4966760798083809880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 877
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e78c7e42e304890800000000000000
+      internalID: -7475907053206602163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_36
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 865
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c9ad0c5a90bc160800000000000000
+      internalID: 7046736649461079150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_37
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 870
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef596dac8f5ae4b00800000000000000
+      internalID: 814771070574171646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_38
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 880
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a7311ef576d390800000000000000
+      internalID: -7793912371047061513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 857
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec8ba2bba5879370800000000000000
+      internalID: 8329273008328510703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 869
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5098b1479ba2b650800000000000000
+      internalID: 6247244299247325274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 848
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3857e85f04a7bb20800000000000000
+      internalID: 3150166850191972414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 874
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c902b987dd9a9c60800000000000000
+      internalID: 7825740851563334085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 871
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea700ac2c64c5be0800000000000000
+      internalID: -1487235974512477471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_44
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 852
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb11a9f42ba302e0800000000000000
+      internalID: -2160695220912448572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_45
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 867
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c527d5114b79d4590800000000000000
+      internalID: -7688322189210324388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 873
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de617eaf38335d40800000000000000
+      internalID: 5571859010148200146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_47
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 868
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a54eee2799095100800000000000000
+      internalID: 97119411897255333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 841
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03724e4c95c3d0460800000000000000
+      internalID: 7209484934743074608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 856
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e282ad5b0dc91e00800000000000000
+      internalID: 1016068639648023271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_50
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 859
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4caa0e05e28a3040800000000000000
+      internalID: 4628155487371308107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_51
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 851
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7946e34d23e1860800000000000000
+      internalID: 7502489916407060438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 861
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75adb6399d8c8d4c0800000000000000
+      internalID: -4262436210499397033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_53
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 852
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc92154e6953cc060800000000000000
+      internalID: 6975008845081946571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_54
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 854
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d693e6af6495c60800000000000000
+      internalID: 7807349470428491122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_55
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 847
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c5fc8b6cc09e00800000000000000
+      internalID: 1049563475475808553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_56
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 850
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874813c4e06c2e50800000000000000
+      internalID: 6785905274182453125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 861
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da428e85716f78c30800000000000000
+      internalID: 4361725344267904173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 854
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a438a5920894f3920800000000000000
+      internalID: 2972175093886255946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_59
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 862
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea1bb51b84e74d40800000000000000
+      internalID: 5568670750283078381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 834
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce28606b85e5c4ba0800000000000000
+      internalID: -6103399659889851668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 818
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba62bf71f77600810800000000000000
+      internalID: 1729496052471113387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_62
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 828
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53f19a6a8f5ae90800000000000000
+      internalID: -7014927449874024983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_63
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 840
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a80a4d406e33f40800000000000000
+      internalID: 5707158061230099009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_64
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 839
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441d48f0d109135a0800000000000000
+      internalID: -6543290329103806140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_65
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 833
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ce6a62fa7191300800000000000000
+      internalID: 223235697566739611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_66
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 840
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c12e1b8af56970800000000000000
+      internalID: 8747673326649984836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_67
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 827
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac6cb74c0a9bfdb0800000000000000
+      internalID: -4757039203852981081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_68
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 807
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1d7405bb960e70800000000000000
+      internalID: 9081116900405878676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_69
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 812
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdfc495495a3220800000000000000
+      internalID: 2466381901323033557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_70
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 826
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca931f5cba6250a0800000000000000
+      internalID: -6894330722269291834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_71
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 801
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb54c82e3231e140800000000000000
+      internalID: 4747130724778531806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_72
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 786
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee76b52c8b84e940800000000000000
+      internalID: 5324534093503168227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 733
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd82cce462803770800000000000000
+      internalID: 8588507859376049586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_74
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 748
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ef5f2274134d030800000000000000
+      internalID: 3518491390482185848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_75
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 736
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb673b313e4f8b0800000000000000
+      internalID: -5119217202658623600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_76
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 715
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d5ab7b04ff000a0800000000000000
+      internalID: -6917248374215647872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_77
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 733
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2e2805d416d9d50800000000000000
+      internalID: 6745654801562002144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 718
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b611a64269e7a3a0800000000000000
+      internalID: -6654093316115589451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_79
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 722
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85202fabb18a8bb10800000000000000
+      internalID: 1997531271792820824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_80
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 714
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b574da568e0a7abb0800000000000000
+      internalID: -4924790747507636389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_81
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 716
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fed6e95c299fdce0800000000000000
+      internalID: -1378214545186169102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_82
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 717
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba2ddf0b6bf1330800000000000000
+      internalID: 3683863891501296593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_83
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 726
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf041b666893f5e0800000000000000
+      internalID: -1876989054032801850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_84
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 730
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d4c9d04b5526e0800000000000000
+      internalID: -1862982536758242068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_85
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 717
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036259c4cfee1e70800000000000000
+      internalID: 9087964726550487809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 709
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ece3cee208dfd0800000000000000
+      internalID: -2317098783769565327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 689
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce59726947334f9a0800000000000000
+      internalID: -6200274211153930772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_88
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 697
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d0f5e3d1974320800000000000000
+      internalID: 2542160853955827687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 699
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d02a41111df7390800000000000000
+      internalID: -7818300556801077954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_90
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 688
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15540b479a14c00800000000000000
+      internalID: 883173320579961267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_91
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 704
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea80cf01a939a480800000000000000
+      internalID: -8887509025722168608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 702
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafaa36a144fc79c0800000000000000
+      internalID: -3927996212174999634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 711
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c476965b1f2e5cb50800000000000000
+      internalID: 6612941155622020940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_94
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 702
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85560026cde1bd40800000000000000
+      internalID: 5598517246994830732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_95
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 697
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a884deac290019800800000000000000
+      internalID: 617275254396242058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_96
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 709
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53920defc90daf870800000000000000
+      internalID: 8717509401437546805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_97
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 678
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8426c0ad19e98cb00800000000000000
+      internalID: 849102879025029704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_98
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 678
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b64260915b2f40800000000000000
+      internalID: 5704743033560805800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 691
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41085f49cffcd8b0800000000000000
+      internalID: -5125941035769790130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_100
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 677
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ceb8fb578c58930800000000000000
+      internalID: 4144939440114756747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_101
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 682
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d874d2057ed3a0b0800000000000000
+      internalID: -5718482507690379054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 684
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e06a40328a92cc20800000000000000
+      internalID: 3225310167097303272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_103
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 674
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bf0e36f2935e0d0800000000000000
+      internalID: -3394243868451865713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_104
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 673
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f1add9909cace0800000000000000
+      internalID: -1392579194241550517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 671
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9b5a9a7b97d780800000000000000
+      internalID: -8658280807718478724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_106
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 691
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df976a156ec023a90800000000000000
+      internalID: -7335786659681240579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_107
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 685
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34dd37cf643e2e0800000000000000
+      internalID: -2097754951334935596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_108
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 694
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dbf8981be85e1c0800000000000000
+      internalID: -4475013761554465532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_109
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 679
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6b60971aa92be20800000000000000
+      internalID: 3364921889910077165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_110
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 685
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e83a626bec1cc00800000000000000
+      internalID: 919243080687914543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_111
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 674
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613a758f85d7bcb0800000000000000
+      internalID: -4848171661444632218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_112
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 675
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e84951df6e79a40800000000000000
+      internalID: 5375018654953148060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_113
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 664
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3558d93677e2f6190800000000000000
+      internalID: -7967098125487864493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_114
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 667
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a88416f84ab28d40800000000000000
+      internalID: 5585231310421788833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_115
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 673
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae07fe682a722a30800000000000000
+      internalID: 4189044917486948015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_116
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 659
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c837989eb01180800000000000000
+      internalID: -9146601280608090348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_117
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 666
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a1cc2ea3e6bf1d0800000000000000
+      internalID: -3315935501436052862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_118
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 668
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6733f49934c61c150800000000000000
+      internalID: 5891108825168032630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_119
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 653
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da01bacbfcfdcb640800000000000000
+      internalID: 5097194961593110701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_120
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 654
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782d6ece1de8490d0800000000000000
+      internalID: -3416949184993504633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_121
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 659
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e34c330858a70c30800000000000000
+      internalID: 4325611063077520358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_122
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 646
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88d4fc497ad04550800000000000000
+      internalID: 6143150106250369163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 642
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd54a1679e4965210800000000000000
+      internalID: 1321407271109543391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_124
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 650
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c423b2c01c7e3b0800000000000000
+      internalID: -5483201763291804544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_125
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 643
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438f3164706f89a20800000000000000
+      internalID: 3069473657153910836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_126
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 620
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165bd0974f1383630800000000000000
+      internalID: 3906927602816628065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_127
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 618
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6facbc9f26a951320800000000000000
+      internalID: 2528096515726756598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_128
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 615
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7dbb86af97a8430800000000000000
+      internalID: 3785972553164249054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_129
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 614
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2ef06c17feca1c0800000000000000
+      internalID: -4490951456461954380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_130
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 608
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b031d889322170800000000000000
+      internalID: 8152141535281985075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_131
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6ded3c6d09376f0800000000000000
+      internalID: -688047065973991743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_132
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 636
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e3f5a558a5e5d0800000000000000
+      internalID: -3033833688154249512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_133
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 613
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0066fa03dec28a60800000000000000
+      internalID: 7674924120810086411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_134
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 609
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853da670e785f720800000000000000
+      internalID: 2879356934906787208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_135
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 616
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a72e5311bb0b2a40800000000000000
+      internalID: 5344378237967280039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_136
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 621
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22f6e3b8ddd8bb0800000000000000
+      internalID: -4932042426783161658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_137
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 614
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a6478485c8ce30800000000000000
+      internalID: 4524082998689572279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_138
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 611
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4562ac6890ae2d0800000000000000
+      internalID: -3248773706672614239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_139
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 589
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b242d89b8e3405f0800000000000000
+      internalID: -791438865225071946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_140
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 605
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e796bc0ad351869a0800000000000000
+      internalID: -6239713929286948482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 601
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9168a13cbd9dd410800000000000000
+      internalID: 1503531282224144794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 602
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cbaebef4cd01f10800000000000000
+      internalID: 2238531250621693017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_143
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 602
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0c73a06c38017c0800000000000000
+      internalID: -4102634373936332618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_144
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 596
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9aafee68b00410800000000000000
+      internalID: 1441354667365408087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_145
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 605
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e90aac3811c1f0800000000000000
+      internalID: -1026512591233882227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_146
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 596
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c8a8b8909ff1440800000000000000
+      internalID: 4908915938248264799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_147
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 601
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425acb5b7a375800800000000000000
+      internalID: 601013376772624975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_148
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 589
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e6a45e5b6c17440800000000000000
+      internalID: 4931941551485644331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_149
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 578
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10c0e8e0317e340800000000000000
+      internalID: 4892900473394954713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_150
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 581
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d443fda6a99ea0800000000000000
+      internalID: -5865473773632432573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_151
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 592
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac106cf175dd880800000000000000
+      internalID: -8584609520720688484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_152
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 597
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23a5a5be6fcf2e70800000000000000
+      internalID: 9092714247085204266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_153
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 591
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99935ed29c10e01f0800000000000000
+      internalID: -1076921297324918375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_154
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 592
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d80dc38475c5760800000000000000
+      internalID: 7447923851533520189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_155
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 590
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68770f906693bad70800000000000000
+      internalID: 9055394586174715782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 561
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435345edfb160ff40800000000000000
+      internalID: 5760211400103572788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_157
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 576
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928dc176a80cfe80800000000000000
+      internalID: -8143624515225812336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_158
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 583
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed891114116f640800000000000000
+      internalID: 5113293398091554322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_159
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 579
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a6603c13aa04db0800000000000000
+      internalID: -4809657271329592826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_160
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 581
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c55cefec59a4ba0800000000000000
+      internalID: -6103901628677137320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_161
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 585
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ccbe01a190f5360800000000000000
+      internalID: 7160451940100066409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_162
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 577
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fbc76f372813ff0800000000000000
+      internalID: -58121885610885326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_163
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 577
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8842b56eb40ef0800000000000000
+      internalID: -142779944176939303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_164
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 584
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde5d5a74f164d10800000000000000
+      internalID: 2109407868055055856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_165
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 573
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a602bd0de0ccc6c0800000000000000
+      internalID: -4121707434581293403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_166
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 560
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a73b54c8c75e3d80800000000000000
+      internalID: -8269075346006263902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_167
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 559
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420e0a8ded2a17520800000000000000
+      internalID: 2698116729772498980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_168
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 566
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5aedd74fd4a430800000000000000
+      internalID: 3793402285911596468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_169
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 567
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e676429d222ad9760800000000000000
+      internalID: 7466302027805779822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_170
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 568
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d00c87857827a1f0800000000000000
+      internalID: -1033813104207855404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_171
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 569
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d087d7b78207adc80800000000000000
+      internalID: -8297196044303894515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_172
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 553
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5989f54d123a0a40800000000000000
+      internalID: 5335131809883195739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_173
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 570
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343be446ff4a2f60800000000000000
+      internalID: 8010302806368662591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_174
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 556
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44515fcdbbfb51ec0800000000000000
+      internalID: -3596757913798634172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_175
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 560
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289db3493106be6d0800000000000000
+      internalID: -2960166692858373758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_176
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 560
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad88e7163a17a96a0800000000000000
+      internalID: -6441711370470782758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_177
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 543
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc090e0cd2feaf0800000000000000
+      internalID: -365022738369164089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_178
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 544
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e033113257d298950800000000000000
+      internalID: 6451737922307699470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_179
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 549
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9dc8ace6ada0f0800000000000000
+      internalID: -1104042798261363794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_180
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 547
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368560270d29d03d0800000000000000
+      internalID: -3238771133045647261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_181
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 558
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41880534f20ba0ca0800000000000000
+      internalID: -6049829432379537388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_182
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 530
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b612f0e497ecf0800000000000000
+      internalID: -223045962676391142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_183
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 529
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec11aa995f95190e0800000000000000
+      internalID: -2264930226210729522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_184
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 511
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac1f2b0c9e32f30800000000000000
+      internalID: 4549737062419515982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_185
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 537
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e082cdadadcb9aef0800000000000000
+      internalID: -96338268851001330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_186
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 536
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f328537e6e26a1220800000000000000
+      internalID: 2457385290545070655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_187
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 511
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f1b60f0196d9c0800000000000000
+      internalID: -3902772533347093249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_188
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 543
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486da2c01cb036e20800000000000000
+      internalID: 3342528272199767684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_189
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 512
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d96fb339e7c2da0800000000000000
+      internalID: -5968256235341439659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_190
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 515
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6582980cc4f1c8af0800000000000000
+      internalID: -392904652979885994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_191
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 516
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9464dbf31322b7d0800000000000000
+      internalID: -2904220240964197218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_192
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 512
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d9a2e10de6fef70800000000000000
+      internalID: 9218708802389056893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_193
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 527
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e69013f5045e010800000000000000
+      internalID: 1217450051862359681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Splinters Vfx 256x256 BW_194
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76160a3ca1ebf880800000000000000
+      internalID: -8576012935572875654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion Splinters Vfx 256x256 BW_0: 4533436929178492626
+      Explosion Splinters Vfx 256x256 BW_1: -7077805912068101842
+      Explosion Splinters Vfx 256x256 BW_10: -2415088896738809350
+      Explosion Splinters Vfx 256x256 BW_100: 4144939440114756747
+      Explosion Splinters Vfx 256x256 BW_101: -5718482507690379054
+      Explosion Splinters Vfx 256x256 BW_102: 3225310167097303272
+      Explosion Splinters Vfx 256x256 BW_103: -3394243868451865713
+      Explosion Splinters Vfx 256x256 BW_104: -1392579194241550517
+      Explosion Splinters Vfx 256x256 BW_105: -8658280807718478724
+      Explosion Splinters Vfx 256x256 BW_106: -7335786659681240579
+      Explosion Splinters Vfx 256x256 BW_107: -2097754951334935596
+      Explosion Splinters Vfx 256x256 BW_108: -4475013761554465532
+      Explosion Splinters Vfx 256x256 BW_109: 3364921889910077165
+      Explosion Splinters Vfx 256x256 BW_11: 4217103972601169625
+      Explosion Splinters Vfx 256x256 BW_110: 919243080687914543
+      Explosion Splinters Vfx 256x256 BW_111: -4848171661444632218
+      Explosion Splinters Vfx 256x256 BW_112: 5375018654953148060
+      Explosion Splinters Vfx 256x256 BW_113: -7967098125487864493
+      Explosion Splinters Vfx 256x256 BW_114: 5585231310421788833
+      Explosion Splinters Vfx 256x256 BW_115: 4189044917486948015
+      Explosion Splinters Vfx 256x256 BW_116: -9146601280608090348
+      Explosion Splinters Vfx 256x256 BW_117: -3315935501436052862
+      Explosion Splinters Vfx 256x256 BW_118: 5891108825168032630
+      Explosion Splinters Vfx 256x256 BW_119: 5097194961593110701
+      Explosion Splinters Vfx 256x256 BW_12: -3004107386809699639
+      Explosion Splinters Vfx 256x256 BW_120: -3416949184993504633
+      Explosion Splinters Vfx 256x256 BW_121: 4325611063077520358
+      Explosion Splinters Vfx 256x256 BW_122: 6143150106250369163
+      Explosion Splinters Vfx 256x256 BW_123: 1321407271109543391
+      Explosion Splinters Vfx 256x256 BW_124: -5483201763291804544
+      Explosion Splinters Vfx 256x256 BW_125: 3069473657153910836
+      Explosion Splinters Vfx 256x256 BW_126: 3906927602816628065
+      Explosion Splinters Vfx 256x256 BW_127: 2528096515726756598
+      Explosion Splinters Vfx 256x256 BW_128: 3785972553164249054
+      Explosion Splinters Vfx 256x256 BW_129: -4490951456461954380
+      Explosion Splinters Vfx 256x256 BW_13: -164805425100579248
+      Explosion Splinters Vfx 256x256 BW_130: 8152141535281985075
+      Explosion Splinters Vfx 256x256 BW_131: -688047065973991743
+      Explosion Splinters Vfx 256x256 BW_132: -3033833688154249512
+      Explosion Splinters Vfx 256x256 BW_133: 7674924120810086411
+      Explosion Splinters Vfx 256x256 BW_134: 2879356934906787208
+      Explosion Splinters Vfx 256x256 BW_135: 5344378237967280039
+      Explosion Splinters Vfx 256x256 BW_136: -4932042426783161658
+      Explosion Splinters Vfx 256x256 BW_137: 4524082998689572279
+      Explosion Splinters Vfx 256x256 BW_138: -3248773706672614239
+      Explosion Splinters Vfx 256x256 BW_139: -791438865225071946
+      Explosion Splinters Vfx 256x256 BW_14: 6402020462931357601
+      Explosion Splinters Vfx 256x256 BW_140: -6239713929286948482
+      Explosion Splinters Vfx 256x256 BW_141: 1503531282224144794
+      Explosion Splinters Vfx 256x256 BW_142: 2238531250621693017
+      Explosion Splinters Vfx 256x256 BW_143: -4102634373936332618
+      Explosion Splinters Vfx 256x256 BW_144: 1441354667365408087
+      Explosion Splinters Vfx 256x256 BW_145: -1026512591233882227
+      Explosion Splinters Vfx 256x256 BW_146: 4908915938248264799
+      Explosion Splinters Vfx 256x256 BW_147: 601013376772624975
+      Explosion Splinters Vfx 256x256 BW_148: 4931941551485644331
+      Explosion Splinters Vfx 256x256 BW_149: 4892900473394954713
+      Explosion Splinters Vfx 256x256 BW_15: 6343731973629358446
+      Explosion Splinters Vfx 256x256 BW_150: -5865473773632432573
+      Explosion Splinters Vfx 256x256 BW_151: -8584609520720688484
+      Explosion Splinters Vfx 256x256 BW_152: 9092714247085204266
+      Explosion Splinters Vfx 256x256 BW_153: -1076921297324918375
+      Explosion Splinters Vfx 256x256 BW_154: 7447923851533520189
+      Explosion Splinters Vfx 256x256 BW_155: 9055394586174715782
+      Explosion Splinters Vfx 256x256 BW_156: 5760211400103572788
+      Explosion Splinters Vfx 256x256 BW_157: -8143624515225812336
+      Explosion Splinters Vfx 256x256 BW_158: 5113293398091554322
+      Explosion Splinters Vfx 256x256 BW_159: -4809657271329592826
+      Explosion Splinters Vfx 256x256 BW_16: 4461219318396805930
+      Explosion Splinters Vfx 256x256 BW_160: -6103901628677137320
+      Explosion Splinters Vfx 256x256 BW_161: 7160451940100066409
+      Explosion Splinters Vfx 256x256 BW_162: -58121885610885326
+      Explosion Splinters Vfx 256x256 BW_163: -142779944176939303
+      Explosion Splinters Vfx 256x256 BW_164: 2109407868055055856
+      Explosion Splinters Vfx 256x256 BW_165: -4121707434581293403
+      Explosion Splinters Vfx 256x256 BW_166: -8269075346006263902
+      Explosion Splinters Vfx 256x256 BW_167: 2698116729772498980
+      Explosion Splinters Vfx 256x256 BW_168: 3793402285911596468
+      Explosion Splinters Vfx 256x256 BW_169: 7466302027805779822
+      Explosion Splinters Vfx 256x256 BW_17: -5307979594662153745
+      Explosion Splinters Vfx 256x256 BW_170: -1033813104207855404
+      Explosion Splinters Vfx 256x256 BW_171: -8297196044303894515
+      Explosion Splinters Vfx 256x256 BW_172: 5335131809883195739
+      Explosion Splinters Vfx 256x256 BW_173: 8010302806368662591
+      Explosion Splinters Vfx 256x256 BW_174: -3596757913798634172
+      Explosion Splinters Vfx 256x256 BW_175: -2960166692858373758
+      Explosion Splinters Vfx 256x256 BW_176: -6441711370470782758
+      Explosion Splinters Vfx 256x256 BW_177: -365022738369164089
+      Explosion Splinters Vfx 256x256 BW_178: 6451737922307699470
+      Explosion Splinters Vfx 256x256 BW_179: -1104042798261363794
+      Explosion Splinters Vfx 256x256 BW_18: -2289377462262645589
+      Explosion Splinters Vfx 256x256 BW_180: -3238771133045647261
+      Explosion Splinters Vfx 256x256 BW_181: -6049829432379537388
+      Explosion Splinters Vfx 256x256 BW_182: -223045962676391142
+      Explosion Splinters Vfx 256x256 BW_183: -2264930226210729522
+      Explosion Splinters Vfx 256x256 BW_184: 4549737062419515982
+      Explosion Splinters Vfx 256x256 BW_185: -96338268851001330
+      Explosion Splinters Vfx 256x256 BW_186: 2457385290545070655
+      Explosion Splinters Vfx 256x256 BW_187: -3902772533347093249
+      Explosion Splinters Vfx 256x256 BW_188: 3342528272199767684
+      Explosion Splinters Vfx 256x256 BW_189: -5968256235341439659
+      Explosion Splinters Vfx 256x256 BW_19: -8904288025327758357
+      Explosion Splinters Vfx 256x256 BW_190: -392904652979885994
+      Explosion Splinters Vfx 256x256 BW_191: -2904220240964197218
+      Explosion Splinters Vfx 256x256 BW_192: 9218708802389056893
+      Explosion Splinters Vfx 256x256 BW_193: 1217450051862359681
+      Explosion Splinters Vfx 256x256 BW_194: -8576012935572875654
+      Explosion Splinters Vfx 256x256 BW_2: -1981194356311953125
+      Explosion Splinters Vfx 256x256 BW_20: -6751933051632314131
+      Explosion Splinters Vfx 256x256 BW_21: 1567478848776676561
+      Explosion Splinters Vfx 256x256 BW_22: -2484296977241341013
+      Explosion Splinters Vfx 256x256 BW_23: -354509094175641437
+      Explosion Splinters Vfx 256x256 BW_24: -8832849986585372509
+      Explosion Splinters Vfx 256x256 BW_25: -1487009387743591792
+      Explosion Splinters Vfx 256x256 BW_26: -849954793858784071
+      Explosion Splinters Vfx 256x256 BW_27: -4246366775432815009
+      Explosion Splinters Vfx 256x256 BW_28: 5878500019763401075
+      Explosion Splinters Vfx 256x256 BW_29: -1975801386555373002
+      Explosion Splinters Vfx 256x256 BW_3: 7249842360523206624
+      Explosion Splinters Vfx 256x256 BW_30: 4566572540557617748
+      Explosion Splinters Vfx 256x256 BW_31: -968850777247457064
+      Explosion Splinters Vfx 256x256 BW_32: -6420212196877737509
+      Explosion Splinters Vfx 256x256 BW_33: -2092632461016156472
+      Explosion Splinters Vfx 256x256 BW_34: -4966760798083809880
+      Explosion Splinters Vfx 256x256 BW_35: -7475907053206602163
+      Explosion Splinters Vfx 256x256 BW_36: 7046736649461079150
+      Explosion Splinters Vfx 256x256 BW_37: 814771070574171646
+      Explosion Splinters Vfx 256x256 BW_38: -7793912371047061513
+      Explosion Splinters Vfx 256x256 BW_39: 8329273008328510703
+      Explosion Splinters Vfx 256x256 BW_4: -7801137824823542657
+      Explosion Splinters Vfx 256x256 BW_40: 6247244299247325274
+      Explosion Splinters Vfx 256x256 BW_41: 3150166850191972414
+      Explosion Splinters Vfx 256x256 BW_42: 7825740851563334085
+      Explosion Splinters Vfx 256x256 BW_43: -1487235974512477471
+      Explosion Splinters Vfx 256x256 BW_44: -2160695220912448572
+      Explosion Splinters Vfx 256x256 BW_45: -7688322189210324388
+      Explosion Splinters Vfx 256x256 BW_46: 5571859010148200146
+      Explosion Splinters Vfx 256x256 BW_47: 97119411897255333
+      Explosion Splinters Vfx 256x256 BW_48: 7209484934743074608
+      Explosion Splinters Vfx 256x256 BW_49: 1016068639648023271
+      Explosion Splinters Vfx 256x256 BW_5: -8000854591240864736
+      Explosion Splinters Vfx 256x256 BW_50: 4628155487371308107
+      Explosion Splinters Vfx 256x256 BW_51: 7502489916407060438
+      Explosion Splinters Vfx 256x256 BW_52: -4262436210499397033
+      Explosion Splinters Vfx 256x256 BW_53: 6975008845081946571
+      Explosion Splinters Vfx 256x256 BW_54: 7807349470428491122
+      Explosion Splinters Vfx 256x256 BW_55: 1049563475475808553
+      Explosion Splinters Vfx 256x256 BW_56: 6785905274182453125
+      Explosion Splinters Vfx 256x256 BW_57: 4361725344267904173
+      Explosion Splinters Vfx 256x256 BW_58: 2972175093886255946
+      Explosion Splinters Vfx 256x256 BW_59: 5568670750283078381
+      Explosion Splinters Vfx 256x256 BW_6: 7946691834446364936
+      Explosion Splinters Vfx 256x256 BW_60: -6103399659889851668
+      Explosion Splinters Vfx 256x256 BW_61: 1729496052471113387
+      Explosion Splinters Vfx 256x256 BW_62: -7014927449874024983
+      Explosion Splinters Vfx 256x256 BW_63: 5707158061230099009
+      Explosion Splinters Vfx 256x256 BW_64: -6543290329103806140
+      Explosion Splinters Vfx 256x256 BW_65: 223235697566739611
+      Explosion Splinters Vfx 256x256 BW_66: 8747673326649984836
+      Explosion Splinters Vfx 256x256 BW_67: -4757039203852981081
+      Explosion Splinters Vfx 256x256 BW_68: 9081116900405878676
+      Explosion Splinters Vfx 256x256 BW_69: 2466381901323033557
+      Explosion Splinters Vfx 256x256 BW_7: 6441640038767536197
+      Explosion Splinters Vfx 256x256 BW_70: -6894330722269291834
+      Explosion Splinters Vfx 256x256 BW_71: 4747130724778531806
+      Explosion Splinters Vfx 256x256 BW_72: 5324534093503168227
+      Explosion Splinters Vfx 256x256 BW_73: 8588507859376049586
+      Explosion Splinters Vfx 256x256 BW_74: 3518491390482185848
+      Explosion Splinters Vfx 256x256 BW_75: -5119217202658623600
+      Explosion Splinters Vfx 256x256 BW_76: -6917248374215647872
+      Explosion Splinters Vfx 256x256 BW_77: 6745654801562002144
+      Explosion Splinters Vfx 256x256 BW_78: -6654093316115589451
+      Explosion Splinters Vfx 256x256 BW_79: 1997531271792820824
+      Explosion Splinters Vfx 256x256 BW_8: 4588624477428542513
+      Explosion Splinters Vfx 256x256 BW_80: -4924790747507636389
+      Explosion Splinters Vfx 256x256 BW_81: -1378214545186169102
+      Explosion Splinters Vfx 256x256 BW_82: 3683863891501296593
+      Explosion Splinters Vfx 256x256 BW_83: -1876989054032801850
+      Explosion Splinters Vfx 256x256 BW_84: -1862982536758242068
+      Explosion Splinters Vfx 256x256 BW_85: 9087964726550487809
+      Explosion Splinters Vfx 256x256 BW_86: -2317098783769565327
+      Explosion Splinters Vfx 256x256 BW_87: -6200274211153930772
+      Explosion Splinters Vfx 256x256 BW_88: 2542160853955827687
+      Explosion Splinters Vfx 256x256 BW_89: -7818300556801077954
+      Explosion Splinters Vfx 256x256 BW_9: -8119181312143901919
+      Explosion Splinters Vfx 256x256 BW_90: 883173320579961267
+      Explosion Splinters Vfx 256x256 BW_91: -8887509025722168608
+      Explosion Splinters Vfx 256x256 BW_92: -3927996212174999634
+      Explosion Splinters Vfx 256x256 BW_93: 6612941155622020940
+      Explosion Splinters Vfx 256x256 BW_94: 5598517246994830732
+      Explosion Splinters Vfx 256x256 BW_95: 617275254396242058
+      Explosion Splinters Vfx 256x256 BW_96: 8717509401437546805
+      Explosion Splinters Vfx 256x256 BW_97: 849102879025029704
+      Explosion Splinters Vfx 256x256 BW_98: 5704743033560805800
+      Explosion Splinters Vfx 256x256 BW_99: -5125941035769790130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

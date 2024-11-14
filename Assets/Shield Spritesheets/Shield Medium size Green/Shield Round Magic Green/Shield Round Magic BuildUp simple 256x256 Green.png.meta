@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 8f48cd58271e94647a1a459c8df65ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9222011083792080966
+    second: Shield Round Magic BuildUp simple 256x256 Green_0
+  - first:
+      213: -3108840669933321394
+    second: Shield Round Magic BuildUp simple 256x256 Green_1
+  - first:
+      213: 2438559953061251480
+    second: Shield Round Magic BuildUp simple 256x256 Green_2
+  - first:
+      213: -3011144181958985096
+    second: Shield Round Magic BuildUp simple 256x256 Green_3
+  - first:
+      213: 7111605638175004130
+    second: Shield Round Magic BuildUp simple 256x256 Green_4
+  - first:
+      213: 3034230191521677129
+    second: Shield Round Magic BuildUp simple 256x256 Green_5
+  - first:
+      213: -7439740758629792651
+    second: Shield Round Magic BuildUp simple 256x256 Green_6
+  - first:
+      213: 4693971428378767204
+    second: Shield Round Magic BuildUp simple 256x256 Green_7
+  - first:
+      213: -6222788462533003964
+    second: Shield Round Magic BuildUp simple 256x256 Green_8
+  - first:
+      213: -607954852110076800
+    second: Shield Round Magic BuildUp simple 256x256 Green_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 803
+        width: 89
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640642c683a2bff70800000000000000
+      internalID: 9222011083792080966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 823
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43465dc1ed2bd4d0800000000000000
+      internalID: -3108840669933321394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 815
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89985b57b5187d120800000000000000
+      internalID: 2438559953061251480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 803
+        width: 139
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ab9daf1544636d0800000000000000
+      internalID: -3011144181958985096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 803
+        width: 175
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5161626af71b260800000000000000
+      internalID: 7111605638175004130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 803
+        width: 183
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3a6c7840cb1a20800000000000000
+      internalID: 3034230191521677129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 547
+        width: 186
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57440ec823bb0c890800000000000000
+      internalID: -7439740758629792651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 547
+        width: 186
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f6956f426542140800000000000000
+      internalID: 4693971428378767204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 547
+        width: 186
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4453252fcd634a9a0800000000000000
+      internalID: -6222788462533003964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp simple 256x256 Green_9
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 547
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084f088784c1097f0800000000000000
+      internalID: -607954852110076800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Magic BuildUp simple 256x256 Green_0: 9222011083792080966
+      Shield Round Magic BuildUp simple 256x256 Green_1: -3108840669933321394
+      Shield Round Magic BuildUp simple 256x256 Green_2: 2438559953061251480
+      Shield Round Magic BuildUp simple 256x256 Green_3: -3011144181958985096
+      Shield Round Magic BuildUp simple 256x256 Green_4: 7111605638175004130
+      Shield Round Magic BuildUp simple 256x256 Green_5: 3034230191521677129
+      Shield Round Magic BuildUp simple 256x256 Green_6: -7439740758629792651
+      Shield Round Magic BuildUp simple 256x256 Green_7: 4693971428378767204
+      Shield Round Magic BuildUp simple 256x256 Green_8: -6222788462533003964
+      Shield Round Magic BuildUp simple 256x256 Green_9: -607954852110076800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

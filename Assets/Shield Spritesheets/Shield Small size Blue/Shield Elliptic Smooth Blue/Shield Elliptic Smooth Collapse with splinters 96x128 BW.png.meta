@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 84bc3a82729e36040bd01a2f5355e67d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1552908362165925930
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_0
+  - first:
+      213: -7496917470606538493
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_1
+  - first:
+      213: -8180985466238731078
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_2
+  - first:
+      213: -1391603140052786687
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_3
+  - first:
+      213: 2751423200968807061
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_4
+  - first:
+      213: -8149731355012420620
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_5
+  - first:
+      213: 7116885083644350577
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_6
+  - first:
+      213: -163753530771171960
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_7
+  - first:
+      213: 2997953168180520484
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_8
+  - first:
+      213: -1841184571052969608
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_9
+  - first:
+      213: -1654392288915959206
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_10
+  - first:
+      213: 8391429424611953714
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_11
+  - first:
+      213: 1855040801664629380
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_12
+  - first:
+      213: 734603057082714339
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_13
+  - first:
+      213: -9003971355861172209
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_14
+  - first:
+      213: -5724626168057337501
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_15
+  - first:
+      213: 2275534843340595104
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_16
+  - first:
+      213: -6079637565205962230
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_17
+  - first:
+      213: -8146273040707199644
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_18
+  - first:
+      213: 7880966097188967137
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_19
+  - first:
+      213: 6897071418555787828
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_20
+  - first:
+      213: -6960983133446691818
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_21
+  - first:
+      213: -3245090354796466269
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_22
+  - first:
+      213: -5348166933126239494
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_23
+  - first:
+      213: -9029949611327264021
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_24
+  - first:
+      213: 3264501581204997967
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_25
+  - first:
+      213: -4469011187745129702
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_26
+  - first:
+      213: -2279000328062297932
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_27
+  - first:
+      213: 5763532361196595706
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_28
+  - first:
+      213: 416953259548938135
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_29
+  - first:
+      213: 4498038098476843103
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_30
+  - first:
+      213: -4133357324484022297
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_31
+  - first:
+      213: 2314012392572292310
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_32
+  - first:
+      213: 3639082597532736416
+    second: Shield Elliptic Smooth Collapse with splinters 96x128 BW_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7cd508216f27ae0800000000000000
+      internalID: -1552908362165925930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 142
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c316e74995f790800000000000000
+      internalID: -7496917470606538493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 142
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcf43c201d477e80800000000000000
+      internalID: -8180985466238731078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 126
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e5d0315800bce0800000000000000
+      internalID: -1391603140052786687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929388d2d40f2620800000000000000
+      internalID: 2751423200968807061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 23
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2f91038656ee80800000000000000
+      internalID: -8149731355012420620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 110
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d5e5d64144c260800000000000000
+      internalID: 7116885083644350577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 54
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8851ba7080b3abdf0800000000000000
+      internalID: -163753530771171960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 98
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42628aac58eda9920800000000000000
+      internalID: 2997953168180520484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 111
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871357c336cc276e0800000000000000
+      internalID: -1841184571052969608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 102
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d4048afa6a09e0800000000000000
+      internalID: -1654392288915959206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c81cb1a98547470800000000000000
+      internalID: 8391429424611953714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a731bd7cd6eb910800000000000000
+      internalID: 1855040801664629380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 99
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c45c9695d13a00800000000000000
+      internalID: 734603057082714339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 45
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004a16c1c77b0380800000000000000
+      internalID: -9003971355861172209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 74
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369690d94da0e80b0800000000000000
+      internalID: -5724626168057337501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af175b32e2549f10800000000000000
+      internalID: 2275534843340595104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 30
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0227c288d9c0aba0800000000000000
+      internalID: -6079637565205962230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d5e4d84df92fe80800000000000000
+      internalID: -8146273040707199644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 36
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e258d509e0de5d60800000000000000
+      internalID: 7880966097188967137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a6485b9e157bf50800000000000000
+      internalID: 6897071418555787828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614ac6398be956f90800000000000000
+      internalID: -6960983133446691818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af6f4af38f17f2d0800000000000000
+      internalID: -3245090354796466269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa2587928e77c5b0800000000000000
+      internalID: -5348166933126239494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 18
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea6925dbac2fa280800000000000000
+      internalID: -9029949611327264021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47cc6c54e6dd4d20800000000000000
+      internalID: 3264501581204997967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b7439a002eaf1c0800000000000000
+      internalID: -4469011187745129702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b819dab64d5f50e0800000000000000
+      internalID: -2279000328062297932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af96790652e2cff40800000000000000
+      internalID: 5763532361196595706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f0b5bc7c059c500800000000000000
+      internalID: 416953259548938135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c2e5a1dd3c6e30800000000000000
+      internalID: 4498038098476843103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efee50b96d53a6c0800000000000000
+      internalID: -4133357324484022297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc8f19c2060d1020800000000000000
+      internalID: 2314012392572292310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Collapse with splinters 96x128 BW_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 7
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9e3e775e908230800000000000000
+      internalID: 3639082597532736416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_0: -1552908362165925930
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_1: -7496917470606538493
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_10: -1654392288915959206
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_11: 8391429424611953714
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_12: 1855040801664629380
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_13: 734603057082714339
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_14: -9003971355861172209
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_15: -5724626168057337501
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_16: 2275534843340595104
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_17: -6079637565205962230
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_18: -8146273040707199644
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_19: 7880966097188967137
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_2: -8180985466238731078
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_20: 6897071418555787828
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_21: -6960983133446691818
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_22: -3245090354796466269
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_23: -5348166933126239494
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_24: -9029949611327264021
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_25: 3264501581204997967
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_26: -4469011187745129702
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_27: -2279000328062297932
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_28: 5763532361196595706
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_29: 416953259548938135
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_3: -1391603140052786687
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_30: 4498038098476843103
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_31: -4133357324484022297
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_32: 2314012392572292310
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_33: 3639082597532736416
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_4: 2751423200968807061
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_5: -8149731355012420620
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_6: 7116885083644350577
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_7: -163753530771171960
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_8: 2997953168180520484
+      Shield Elliptic Smooth Collapse with splinters 96x128 BW_9: -1841184571052969608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

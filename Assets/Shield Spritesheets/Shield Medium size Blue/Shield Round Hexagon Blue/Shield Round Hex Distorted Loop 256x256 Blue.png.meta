@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 398ce842cfed303428f20205a808defb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7042988102752499256
+    second: Shield Round Hex Distorted Loop 256x256 Blue_0
+  - first:
+      213: 2627107499210546263
+    second: Shield Round Hex Distorted Loop 256x256 Blue_1
+  - first:
+      213: -2521216185106251440
+    second: Shield Round Hex Distorted Loop 256x256 Blue_2
+  - first:
+      213: 4146734120789544706
+    second: Shield Round Hex Distorted Loop 256x256 Blue_3
+  - first:
+      213: 7883550019129839521
+    second: Shield Round Hex Distorted Loop 256x256 Blue_4
+  - first:
+      213: -4324568431779376685
+    second: Shield Round Hex Distorted Loop 256x256 Blue_5
+  - first:
+      213: 8052793419181674825
+    second: Shield Round Hex Distorted Loop 256x256 Blue_6
+  - first:
+      213: 7439616766518510773
+    second: Shield Round Hex Distorted Loop 256x256 Blue_7
+  - first:
+      213: 4519657665104955625
+    second: Shield Round Hex Distorted Loop 256x256 Blue_8
+  - first:
+      213: 3523286011042910330
+    second: Shield Round Hex Distorted Loop 256x256 Blue_9
+  - first:
+      213: -5622909821961058414
+    second: Shield Round Hex Distorted Loop 256x256 Blue_10
+  - first:
+      213: 6266480373993044957
+    second: Shield Round Hex Distorted Loop 256x256 Blue_11
+  - first:
+      213: 4275557413214774533
+    second: Shield Round Hex Distorted Loop 256x256 Blue_12
+  - first:
+      213: -1129076094251619559
+    second: Shield Round Hex Distorted Loop 256x256 Blue_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 799
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8367dd53d58bdb160800000000000000
+      internalID: 7042988102752499256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 804
+        width: 186
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c953df95c557420800000000000000
+      internalID: 2627107499210546263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 798
+        width: 189
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051c6c4dc37d20dd0800000000000000
+      internalID: -2521216185106251440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 800
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f07a766b82c8930800000000000000
+      internalID: 4146734120789544706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 544
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af024b39fef76d60800000000000000
+      internalID: 7883550019129839521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 545
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11ce08ceb0cf3c0800000000000000
+      internalID: -4324568431779376685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 546
+        width: 186
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415deff2f441cf60800000000000000
+      internalID: 8052793419181674825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 544
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b440694804de3760800000000000000
+      internalID: 7439616766518510773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 185
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8c3f243bc09be30800000000000000
+      internalID: 4519657665104955625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 313
+        width: 180
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d05ab5f935e030800000000000000
+      internalID: 3523286011042910330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 291
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c4f1fe4967f1b0800000000000000
+      internalID: -5622909821961058414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 291
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbffcbe2b207f650800000000000000
+      internalID: 6266480373993044957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 291
+        width: 186
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505647f70d4d55b30800000000000000
+      internalID: 4275557413214774533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Distorted Loop 256x256 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 291
+        width: 187
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b2fbd3647b450f0800000000000000
+      internalID: -1129076094251619559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Hex Distorted Loop 256x256 Blue_0: 7042988102752499256
+      Shield Round Hex Distorted Loop 256x256 Blue_1: 2627107499210546263
+      Shield Round Hex Distorted Loop 256x256 Blue_10: -5622909821961058414
+      Shield Round Hex Distorted Loop 256x256 Blue_11: 6266480373993044957
+      Shield Round Hex Distorted Loop 256x256 Blue_12: 4275557413214774533
+      Shield Round Hex Distorted Loop 256x256 Blue_13: -1129076094251619559
+      Shield Round Hex Distorted Loop 256x256 Blue_2: -2521216185106251440
+      Shield Round Hex Distorted Loop 256x256 Blue_3: 4146734120789544706
+      Shield Round Hex Distorted Loop 256x256 Blue_4: 7883550019129839521
+      Shield Round Hex Distorted Loop 256x256 Blue_5: -4324568431779376685
+      Shield Round Hex Distorted Loop 256x256 Blue_6: 8052793419181674825
+      Shield Round Hex Distorted Loop 256x256 Blue_7: 7439616766518510773
+      Shield Round Hex Distorted Loop 256x256 Blue_8: 4519657665104955625
+      Shield Round Hex Distorted Loop 256x256 Blue_9: 3523286011042910330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

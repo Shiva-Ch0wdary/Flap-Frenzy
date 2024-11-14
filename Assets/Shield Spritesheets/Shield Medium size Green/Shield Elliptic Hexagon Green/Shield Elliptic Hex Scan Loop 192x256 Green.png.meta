@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b391b167a3bc25d409535d3a08b51a0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1823373106862812922
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_0
+  - first:
+      213: -7435302322742349351
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_1
+  - first:
+      213: -447050528659524755
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_2
+  - first:
+      213: -8274475212653186656
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_3
+  - first:
+      213: -4822347841111926850
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_4
+  - first:
+      213: 2168463777941224827
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_5
+  - first:
+      213: 7652955275874065086
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_6
+  - first:
+      213: -6992417566727808493
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_7
+  - first:
+      213: -4777271214821490149
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_8
+  - first:
+      213: 2726505539414640610
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_9
+  - first:
+      213: -1681339625061405749
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_10
+  - first:
+      213: 1666822722405929351
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_11
+  - first:
+      213: 2542658663730400633
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_12
+  - first:
+      213: -3224538566768007396
+    second: Shield Elliptic Hex Scan Loop 192x256 Green_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 803
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6011178e1d312b6e0800000000000000
+      internalID: -1823373106862812922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 803
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13e4f6eef70d890800000000000000
+      internalID: -7435302322742349351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 803
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63399aa9e1cbc9f0800000000000000
+      internalID: -447050528659524755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 803
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1380752a82b2d80800000000000000
+      internalID: -8274475212653186656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 547
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d62b3034931db0800000000000000
+      internalID: -4822347841111926850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 547
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dfc78215ee71e10800000000000000
+      internalID: 2168463777941224827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 547
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebadc6cb642c43a60800000000000000
+      internalID: 7652955275874065086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 547
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31adcfd3541f5fe90800000000000000
+      internalID: -6992417566727808493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 291
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12cdd42429b3bdb0800000000000000
+      internalID: -4777271214821490149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 291
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7c1faa75e76d520800000000000000
+      internalID: 2726505539414640610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 291
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb2d65e48eaaa8e0800000000000000
+      internalID: -1681339625061405749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 291
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7811e805f6eb12710800000000000000
+      internalID: 1666822722405929351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 35
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d48b44596594320800000000000000
+      internalID: 2542658663730400633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Scan Loop 192x256 Green_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 35
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ee3302432043d0800000000000000
+      internalID: -3224538566768007396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Hex Scan Loop 192x256 Green_0: -1823373106862812922
+      Shield Elliptic Hex Scan Loop 192x256 Green_1: -7435302322742349351
+      Shield Elliptic Hex Scan Loop 192x256 Green_10: -1681339625061405749
+      Shield Elliptic Hex Scan Loop 192x256 Green_11: 1666822722405929351
+      Shield Elliptic Hex Scan Loop 192x256 Green_12: 2542658663730400633
+      Shield Elliptic Hex Scan Loop 192x256 Green_13: -3224538566768007396
+      Shield Elliptic Hex Scan Loop 192x256 Green_2: -447050528659524755
+      Shield Elliptic Hex Scan Loop 192x256 Green_3: -8274475212653186656
+      Shield Elliptic Hex Scan Loop 192x256 Green_4: -4822347841111926850
+      Shield Elliptic Hex Scan Loop 192x256 Green_5: 2168463777941224827
+      Shield Elliptic Hex Scan Loop 192x256 Green_6: 7652955275874065086
+      Shield Elliptic Hex Scan Loop 192x256 Green_7: -6992417566727808493
+      Shield Elliptic Hex Scan Loop 192x256 Green_8: -4777271214821490149
+      Shield Elliptic Hex Scan Loop 192x256 Green_9: 2726505539414640610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

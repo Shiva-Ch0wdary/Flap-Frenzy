@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 0c0802235de4665428af9d0fa68bbe47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 472781388895759696
+    second: Shield Elliptic Magic Loop 384x512 BW_0
+  - first:
+      213: -9071049813596037970
+    second: Shield Elliptic Magic Loop 384x512 BW_1
+  - first:
+      213: 293511465969499397
+    second: Shield Elliptic Magic Loop 384x512 BW_2
+  - first:
+      213: 5791133723976133711
+    second: Shield Elliptic Magic Loop 384x512 BW_3
+  - first:
+      213: 425633390696261088
+    second: Shield Elliptic Magic Loop 384x512 BW_4
+  - first:
+      213: 4791655482280193233
+    second: Shield Elliptic Magic Loop 384x512 BW_5
+  - first:
+      213: 7063672013590958073
+    second: Shield Elliptic Magic Loop 384x512 BW_6
+  - first:
+      213: -9113866929233847898
+    second: Shield Elliptic Magic Loop 384x512 BW_7
+  - first:
+      213: -6788000435206934477
+    second: Shield Elliptic Magic Loop 384x512 BW_8
+  - first:
+      213: -8867356183507337249
+    second: Shield Elliptic Magic Loop 384x512 BW_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d2c851b28af8600800000000000000
+      internalID: 472781388895759696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac1cb841482d1280800000000000000
+      internalID: -9071049813596037970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbd9a8f13c21400800000000000000
+      internalID: 293511465969499397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ce160707d3e5050800000000000000
+      internalID: 5791133723976133711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5eef0505728e500800000000000000
+      internalID: 425633390696261088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2d5b16416f7240800000000000000
+      internalID: 4791655482280193233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff05fb7544370260800000000000000
+      internalID: 7063672013590958073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a916d0b05a058180800000000000000
+      internalID: -9113866929233847898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303b4c819d2cc1a0800000000000000
+      internalID: -6788000435206934477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Loop 384x512 BW_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 72
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf7e294882d0f480800000000000000
+      internalID: -8867356183507337249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Magic Loop 384x512 BW_0: 472781388895759696
+      Shield Elliptic Magic Loop 384x512 BW_1: -9071049813596037970
+      Shield Elliptic Magic Loop 384x512 BW_2: 293511465969499397
+      Shield Elliptic Magic Loop 384x512 BW_3: 5791133723976133711
+      Shield Elliptic Magic Loop 384x512 BW_4: 425633390696261088
+      Shield Elliptic Magic Loop 384x512 BW_5: 4791655482280193233
+      Shield Elliptic Magic Loop 384x512 BW_6: 7063672013590958073
+      Shield Elliptic Magic Loop 384x512 BW_7: -9113866929233847898
+      Shield Elliptic Magic Loop 384x512 BW_8: -6788000435206934477
+      Shield Elliptic Magic Loop 384x512 BW_9: -8867356183507337249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5af7eccfd3f75214d8dfd331963a1818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1996754989328832893
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_0
+  - first:
+      213: 4502434320610994111
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_1
+  - first:
+      213: -7001839608264298953
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_2
+  - first:
+      213: -943495497460413598
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_3
+  - first:
+      213: 2328673919192406164
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_4
+  - first:
+      213: 1721072013118030848
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_5
+  - first:
+      213: -5421167458540136156
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_6
+  - first:
+      213: 8304396022219400068
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_7
+  - first:
+      213: 8202171601298387253
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_8
+  - first:
+      213: 2758750775332708948
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_9
+  - first:
+      213: 5904654781411213786
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_10
+  - first:
+      213: -6811658227954246158
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_11
+  - first:
+      213: 178961333665308375
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_12
+  - first:
+      213: -4575791475795631624
+    second: Shield Elliptic Smooth Scan Loop V2 384x512 BW_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1608
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e09d9ae91a44e0800000000000000
+      internalID: -1996754989328832893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1608
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ab80e82cdb7e30800000000000000
+      internalID: 4502434320610994111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1608
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e652f39f774de90800000000000000
+      internalID: -7001839608264298953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1608
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b01ba08d708e2f0800000000000000
+      internalID: -943495497460413598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981e27779c115020800000000000000
+      internalID: 2328673919192406164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00444c690e972e710800000000000000
+      internalID: 1721072013118030848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429dec54be424c4b0800000000000000
+      internalID: -5421167458540136156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1096
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ed820f242f3370800000000000000
+      internalID: 8304396022219400068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ff2a4d97f3d170800000000000000
+      internalID: 8202171601298387253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4522a83b63d094620800000000000000
+      internalID: 2758750775332708948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c35f4d3c81f150800000000000000
+      internalID: 5904654781411213786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_11
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 584
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9b6f6ee02871a0800000000000000
+      internalID: -6811658227954246158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de96a1826ccb7200800000000000000
+      internalID: 178961333665308375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Scan Loop V2 384x512 BW_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 72
+        width: 276
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e0f675e58f70c0800000000000000
+      internalID: -4575791475795631624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_0: -1996754989328832893
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_1: 4502434320610994111
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_10: 5904654781411213786
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_11: -6811658227954246158
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_12: 178961333665308375
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_13: -4575791475795631624
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_2: -7001839608264298953
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_3: -943495497460413598
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_4: 2328673919192406164
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_5: 1721072013118030848
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_6: -5421167458540136156
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_7: 8304396022219400068
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_8: 8202171601298387253
+      Shield Elliptic Smooth Scan Loop V2 384x512 BW_9: 2758750775332708948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

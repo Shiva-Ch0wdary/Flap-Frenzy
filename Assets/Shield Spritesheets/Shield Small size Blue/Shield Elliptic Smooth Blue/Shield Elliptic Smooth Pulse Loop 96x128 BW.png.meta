@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f14eecf8c05f6fb41a04bbbe3471023f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8094680671502839575
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_0
+  - first:
+      213: -2513937495961038037
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_1
+  - first:
+      213: -1976637765863405422
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_2
+  - first:
+      213: -3179547131389553159
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_3
+  - first:
+      213: -7768967176421147100
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_4
+  - first:
+      213: 9076494301471783798
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_5
+  - first:
+      213: -7216373069371437990
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_6
+  - first:
+      213: -5558741886622924224
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_7
+  - first:
+      213: -6075243284927311872
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_8
+  - first:
+      213: -4902290380104022842
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_9
+  - first:
+      213: 6973153001234437184
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_10
+  - first:
+      213: -5227811578375700525
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_11
+  - first:
+      213: 7956141859818867515
+    second: Shield Elliptic Smooth Pulse Loop 96x128 BW_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fa52bee25165070800000000000000
+      internalID: 8094680671502839575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2315b5ba23bc1dd0800000000000000
+      internalID: -2513937495961038037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2980714bc629194e0800000000000000
+      internalID: -1976637765863405422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d9eedabaffd3d0800000000000000
+      internalID: -3179547131389553159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e7fb9c3851f2490800000000000000
+      internalID: -7768967176421147100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b35155a7f26fd70800000000000000
+      internalID: 9076494301471783798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c8b696dea4adb90800000000000000
+      internalID: -7216373069371437990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04281c1a4b16bd2b0800000000000000
+      internalID: -5558741886622924224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00094dd9b6660bba0800000000000000
+      internalID: -6075243284927311872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c51c6fd097fbb0800000000000000
+      internalID: -4902290380104022842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044170395bd95c060800000000000000
+      internalID: 6973153001234437184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dffd3e41151377b0800000000000000
+      internalID: -5227811578375700525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Pulse Loop 96x128 BW_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b8e193ed4e96e60800000000000000
+      internalID: 7956141859818867515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_0: 8094680671502839575
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_1: -2513937495961038037
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_10: 6973153001234437184
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_11: -5227811578375700525
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_12: 7956141859818867515
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_2: -1976637765863405422
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_3: -3179547131389553159
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_4: -7768967176421147100
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_5: 9076494301471783798
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_6: -7216373069371437990
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_7: -5558741886622924224
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_8: -6075243284927311872
+      Shield Elliptic Smooth Pulse Loop 96x128 BW_9: -4902290380104022842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

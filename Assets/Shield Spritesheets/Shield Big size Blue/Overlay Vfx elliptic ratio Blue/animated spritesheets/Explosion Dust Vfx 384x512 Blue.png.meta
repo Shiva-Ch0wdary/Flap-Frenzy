@@ -1,0 +1,6903 @@
+fileFormatVersion: 2
+guid: ecf6875cd30fd4042ac9df2bded88aae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4267361659032251654
+    second: Explosion Dust Vfx 384x512 Blue_0
+  - first:
+      213: -7378325762003219471
+    second: Explosion Dust Vfx 384x512 Blue_1
+  - first:
+      213: -2151976773731972781
+    second: Explosion Dust Vfx 384x512 Blue_2
+  - first:
+      213: 608190908918115786
+    second: Explosion Dust Vfx 384x512 Blue_3
+  - first:
+      213: -443422769014133570
+    second: Explosion Dust Vfx 384x512 Blue_4
+  - first:
+      213: 8686060521126432336
+    second: Explosion Dust Vfx 384x512 Blue_5
+  - first:
+      213: 5335277684156029271
+    second: Explosion Dust Vfx 384x512 Blue_6
+  - first:
+      213: -3503509117851284554
+    second: Explosion Dust Vfx 384x512 Blue_7
+  - first:
+      213: 5258465618722232893
+    second: Explosion Dust Vfx 384x512 Blue_8
+  - first:
+      213: 4536431286283728851
+    second: Explosion Dust Vfx 384x512 Blue_9
+  - first:
+      213: 4139773716201746242
+    second: Explosion Dust Vfx 384x512 Blue_10
+  - first:
+      213: -6383031675617302690
+    second: Explosion Dust Vfx 384x512 Blue_11
+  - first:
+      213: -8564827209614061019
+    second: Explosion Dust Vfx 384x512 Blue_12
+  - first:
+      213: 7697088155789201836
+    second: Explosion Dust Vfx 384x512 Blue_13
+  - first:
+      213: -1967399523833603463
+    second: Explosion Dust Vfx 384x512 Blue_14
+  - first:
+      213: -555282931766713409
+    second: Explosion Dust Vfx 384x512 Blue_15
+  - first:
+      213: 6627633476578966900
+    second: Explosion Dust Vfx 384x512 Blue_16
+  - first:
+      213: 106684884824081971
+    second: Explosion Dust Vfx 384x512 Blue_17
+  - first:
+      213: -2580731272146662291
+    second: Explosion Dust Vfx 384x512 Blue_18
+  - first:
+      213: -2650913365573234736
+    second: Explosion Dust Vfx 384x512 Blue_19
+  - first:
+      213: 1282470545826805454
+    second: Explosion Dust Vfx 384x512 Blue_20
+  - first:
+      213: 17570705643759566
+    second: Explosion Dust Vfx 384x512 Blue_21
+  - first:
+      213: -221455713076748858
+    second: Explosion Dust Vfx 384x512 Blue_22
+  - first:
+      213: -6434960857229087892
+    second: Explosion Dust Vfx 384x512 Blue_23
+  - first:
+      213: -4512921465136826557
+    second: Explosion Dust Vfx 384x512 Blue_24
+  - first:
+      213: -989748713871264374
+    second: Explosion Dust Vfx 384x512 Blue_25
+  - first:
+      213: 684845667999499299
+    second: Explosion Dust Vfx 384x512 Blue_26
+  - first:
+      213: -6954240338349903155
+    second: Explosion Dust Vfx 384x512 Blue_27
+  - first:
+      213: 1859136612401173718
+    second: Explosion Dust Vfx 384x512 Blue_28
+  - first:
+      213: -8470263328833582619
+    second: Explosion Dust Vfx 384x512 Blue_29
+  - first:
+      213: 3776612606108665865
+    second: Explosion Dust Vfx 384x512 Blue_30
+  - first:
+      213: -5995015351431187135
+    second: Explosion Dust Vfx 384x512 Blue_31
+  - first:
+      213: -8024005822314771665
+    second: Explosion Dust Vfx 384x512 Blue_32
+  - first:
+      213: -1656369935130895593
+    second: Explosion Dust Vfx 384x512 Blue_33
+  - first:
+      213: 2036635115364969813
+    second: Explosion Dust Vfx 384x512 Blue_34
+  - first:
+      213: -5707629810994706462
+    second: Explosion Dust Vfx 384x512 Blue_35
+  - first:
+      213: -549119313286688515
+    second: Explosion Dust Vfx 384x512 Blue_36
+  - first:
+      213: 5501293763284372496
+    second: Explosion Dust Vfx 384x512 Blue_37
+  - first:
+      213: 7708588793658824445
+    second: Explosion Dust Vfx 384x512 Blue_38
+  - first:
+      213: 2895756374319854555
+    second: Explosion Dust Vfx 384x512 Blue_39
+  - first:
+      213: 4760433147442696723
+    second: Explosion Dust Vfx 384x512 Blue_40
+  - first:
+      213: -6477295637601596209
+    second: Explosion Dust Vfx 384x512 Blue_41
+  - first:
+      213: 2063757049486065849
+    second: Explosion Dust Vfx 384x512 Blue_42
+  - first:
+      213: -2840200149814254629
+    second: Explosion Dust Vfx 384x512 Blue_43
+  - first:
+      213: -7832691008832955746
+    second: Explosion Dust Vfx 384x512 Blue_44
+  - first:
+      213: -3198366365973183543
+    second: Explosion Dust Vfx 384x512 Blue_45
+  - first:
+      213: 845310635788367629
+    second: Explosion Dust Vfx 384x512 Blue_46
+  - first:
+      213: 2067283699837719504
+    second: Explosion Dust Vfx 384x512 Blue_47
+  - first:
+      213: -8969390536241890158
+    second: Explosion Dust Vfx 384x512 Blue_48
+  - first:
+      213: 8425393553230400294
+    second: Explosion Dust Vfx 384x512 Blue_49
+  - first:
+      213: -4218822178834771081
+    second: Explosion Dust Vfx 384x512 Blue_50
+  - first:
+      213: -4778490454023391860
+    second: Explosion Dust Vfx 384x512 Blue_51
+  - first:
+      213: 5739563118803963573
+    second: Explosion Dust Vfx 384x512 Blue_52
+  - first:
+      213: -8543080569715795761
+    second: Explosion Dust Vfx 384x512 Blue_53
+  - first:
+      213: -7727630395306761205
+    second: Explosion Dust Vfx 384x512 Blue_54
+  - first:
+      213: -7157513300077441411
+    second: Explosion Dust Vfx 384x512 Blue_55
+  - first:
+      213: -3728606169449478148
+    second: Explosion Dust Vfx 384x512 Blue_56
+  - first:
+      213: 5765102384474820959
+    second: Explosion Dust Vfx 384x512 Blue_57
+  - first:
+      213: -7439345692552918699
+    second: Explosion Dust Vfx 384x512 Blue_58
+  - first:
+      213: 7462002422936684093
+    second: Explosion Dust Vfx 384x512 Blue_59
+  - first:
+      213: 1687732654322404974
+    second: Explosion Dust Vfx 384x512 Blue_60
+  - first:
+      213: -6954035585539599496
+    second: Explosion Dust Vfx 384x512 Blue_61
+  - first:
+      213: -1642221985612186230
+    second: Explosion Dust Vfx 384x512 Blue_62
+  - first:
+      213: 4772288916949796222
+    second: Explosion Dust Vfx 384x512 Blue_63
+  - first:
+      213: -5056268432605567781
+    second: Explosion Dust Vfx 384x512 Blue_64
+  - first:
+      213: 8462408977442325695
+    second: Explosion Dust Vfx 384x512 Blue_65
+  - first:
+      213: -6558576029790506974
+    second: Explosion Dust Vfx 384x512 Blue_66
+  - first:
+      213: -2078352076103417161
+    second: Explosion Dust Vfx 384x512 Blue_67
+  - first:
+      213: 6441403406897091623
+    second: Explosion Dust Vfx 384x512 Blue_68
+  - first:
+      213: -6980601795648136846
+    second: Explosion Dust Vfx 384x512 Blue_69
+  - first:
+      213: 5818519746388787281
+    second: Explosion Dust Vfx 384x512 Blue_70
+  - first:
+      213: -749984745788339853
+    second: Explosion Dust Vfx 384x512 Blue_71
+  - first:
+      213: -8111839825273314825
+    second: Explosion Dust Vfx 384x512 Blue_72
+  - first:
+      213: -8272409397328604785
+    second: Explosion Dust Vfx 384x512 Blue_73
+  - first:
+      213: 7386941824810927885
+    second: Explosion Dust Vfx 384x512 Blue_74
+  - first:
+      213: -90403497376885563
+    second: Explosion Dust Vfx 384x512 Blue_75
+  - first:
+      213: 5076826011635611784
+    second: Explosion Dust Vfx 384x512 Blue_76
+  - first:
+      213: -940417841183239704
+    second: Explosion Dust Vfx 384x512 Blue_77
+  - first:
+      213: 2543375301188246979
+    second: Explosion Dust Vfx 384x512 Blue_78
+  - first:
+      213: 2408644377536028981
+    second: Explosion Dust Vfx 384x512 Blue_79
+  - first:
+      213: -6720068234456637569
+    second: Explosion Dust Vfx 384x512 Blue_80
+  - first:
+      213: 8505117119436919812
+    second: Explosion Dust Vfx 384x512 Blue_81
+  - first:
+      213: 8153594086399631707
+    second: Explosion Dust Vfx 384x512 Blue_82
+  - first:
+      213: 9015108242694551922
+    second: Explosion Dust Vfx 384x512 Blue_83
+  - first:
+      213: -2572410836587664857
+    second: Explosion Dust Vfx 384x512 Blue_84
+  - first:
+      213: -3065199491162727654
+    second: Explosion Dust Vfx 384x512 Blue_85
+  - first:
+      213: -4756651940961736940
+    second: Explosion Dust Vfx 384x512 Blue_86
+  - first:
+      213: 5530246521371599841
+    second: Explosion Dust Vfx 384x512 Blue_87
+  - first:
+      213: 449970809073944086
+    second: Explosion Dust Vfx 384x512 Blue_88
+  - first:
+      213: 2036526373112166668
+    second: Explosion Dust Vfx 384x512 Blue_89
+  - first:
+      213: 8154000915059317986
+    second: Explosion Dust Vfx 384x512 Blue_90
+  - first:
+      213: 6234025628218818467
+    second: Explosion Dust Vfx 384x512 Blue_91
+  - first:
+      213: 4216918690040144012
+    second: Explosion Dust Vfx 384x512 Blue_92
+  - first:
+      213: 5865074012762479607
+    second: Explosion Dust Vfx 384x512 Blue_93
+  - first:
+      213: -8390342877732884505
+    second: Explosion Dust Vfx 384x512 Blue_94
+  - first:
+      213: 2540505956833303492
+    second: Explosion Dust Vfx 384x512 Blue_95
+  - first:
+      213: -6324044428401533984
+    second: Explosion Dust Vfx 384x512 Blue_96
+  - first:
+      213: -7653477223708703938
+    second: Explosion Dust Vfx 384x512 Blue_97
+  - first:
+      213: -9074514434363391274
+    second: Explosion Dust Vfx 384x512 Blue_98
+  - first:
+      213: 8446299970594027909
+    second: Explosion Dust Vfx 384x512 Blue_99
+  - first:
+      213: -5629010131459244951
+    second: Explosion Dust Vfx 384x512 Blue_100
+  - first:
+      213: 4922987618000180012
+    second: Explosion Dust Vfx 384x512 Blue_101
+  - first:
+      213: 8198487040087459848
+    second: Explosion Dust Vfx 384x512 Blue_102
+  - first:
+      213: -8514453924312002258
+    second: Explosion Dust Vfx 384x512 Blue_103
+  - first:
+      213: -5038171442412639548
+    second: Explosion Dust Vfx 384x512 Blue_104
+  - first:
+      213: -7386823295675741519
+    second: Explosion Dust Vfx 384x512 Blue_105
+  - first:
+      213: -3559984535417667350
+    second: Explosion Dust Vfx 384x512 Blue_106
+  - first:
+      213: -3658025514932770555
+    second: Explosion Dust Vfx 384x512 Blue_107
+  - first:
+      213: -8850868285915806698
+    second: Explosion Dust Vfx 384x512 Blue_108
+  - first:
+      213: -1901539087880753680
+    second: Explosion Dust Vfx 384x512 Blue_109
+  - first:
+      213: -1562586084486931617
+    second: Explosion Dust Vfx 384x512 Blue_110
+  - first:
+      213: -6032948654772669020
+    second: Explosion Dust Vfx 384x512 Blue_111
+  - first:
+      213: -499393592211472284
+    second: Explosion Dust Vfx 384x512 Blue_112
+  - first:
+      213: 6144026111871932995
+    second: Explosion Dust Vfx 384x512 Blue_113
+  - first:
+      213: -8408886175779736237
+    second: Explosion Dust Vfx 384x512 Blue_114
+  - first:
+      213: -5408144173390638985
+    second: Explosion Dust Vfx 384x512 Blue_115
+  - first:
+      213: 565675317653314791
+    second: Explosion Dust Vfx 384x512 Blue_116
+  - first:
+      213: -3957587392440830926
+    second: Explosion Dust Vfx 384x512 Blue_117
+  - first:
+      213: -1397175624190135827
+    second: Explosion Dust Vfx 384x512 Blue_118
+  - first:
+      213: 7463325146390389245
+    second: Explosion Dust Vfx 384x512 Blue_119
+  - first:
+      213: -5792548927871098435
+    second: Explosion Dust Vfx 384x512 Blue_120
+  - first:
+      213: -8579885736003802852
+    second: Explosion Dust Vfx 384x512 Blue_121
+  - first:
+      213: -4867856307149404956
+    second: Explosion Dust Vfx 384x512 Blue_122
+  - first:
+      213: -5554134883894205194
+    second: Explosion Dust Vfx 384x512 Blue_123
+  - first:
+      213: 3925303779841422900
+    second: Explosion Dust Vfx 384x512 Blue_124
+  - first:
+      213: -1554903893325742053
+    second: Explosion Dust Vfx 384x512 Blue_125
+  - first:
+      213: -8110761257654069809
+    second: Explosion Dust Vfx 384x512 Blue_126
+  - first:
+      213: 283589960693380910
+    second: Explosion Dust Vfx 384x512 Blue_127
+  - first:
+      213: 552401660518968334
+    second: Explosion Dust Vfx 384x512 Blue_128
+  - first:
+      213: 4308484363544032916
+    second: Explosion Dust Vfx 384x512 Blue_129
+  - first:
+      213: 121745047732630464
+    second: Explosion Dust Vfx 384x512 Blue_130
+  - first:
+      213: 6526544091746003688
+    second: Explosion Dust Vfx 384x512 Blue_131
+  - first:
+      213: -6180016715886880278
+    second: Explosion Dust Vfx 384x512 Blue_132
+  - first:
+      213: 5234927234263092226
+    second: Explosion Dust Vfx 384x512 Blue_133
+  - first:
+      213: -3720919617696162887
+    second: Explosion Dust Vfx 384x512 Blue_134
+  - first:
+      213: -8214248646738207194
+    second: Explosion Dust Vfx 384x512 Blue_135
+  - first:
+      213: 2903860247287789211
+    second: Explosion Dust Vfx 384x512 Blue_136
+  - first:
+      213: 4595415482652372538
+    second: Explosion Dust Vfx 384x512 Blue_137
+  - first:
+      213: -3320472190781175035
+    second: Explosion Dust Vfx 384x512 Blue_138
+  - first:
+      213: 7047771329334582721
+    second: Explosion Dust Vfx 384x512 Blue_139
+  - first:
+      213: -417263401925925616
+    second: Explosion Dust Vfx 384x512 Blue_140
+  - first:
+      213: 8996356037063563589
+    second: Explosion Dust Vfx 384x512 Blue_141
+  - first:
+      213: 7639750837715982842
+    second: Explosion Dust Vfx 384x512 Blue_142
+  - first:
+      213: -7091446822132648480
+    second: Explosion Dust Vfx 384x512 Blue_143
+  - first:
+      213: 1600374327195247472
+    second: Explosion Dust Vfx 384x512 Blue_144
+  - first:
+      213: 4053810992833709485
+    second: Explosion Dust Vfx 384x512 Blue_145
+  - first:
+      213: -7505351169437819538
+    second: Explosion Dust Vfx 384x512 Blue_146
+  - first:
+      213: -4119518481801028650
+    second: Explosion Dust Vfx 384x512 Blue_147
+  - first:
+      213: -2879613062484852842
+    second: Explosion Dust Vfx 384x512 Blue_148
+  - first:
+      213: 5364035495543058384
+    second: Explosion Dust Vfx 384x512 Blue_149
+  - first:
+      213: 2387170459510224453
+    second: Explosion Dust Vfx 384x512 Blue_150
+  - first:
+      213: -4693202307725332671
+    second: Explosion Dust Vfx 384x512 Blue_151
+  - first:
+      213: -5482209693601877040
+    second: Explosion Dust Vfx 384x512 Blue_152
+  - first:
+      213: 7871519007883447517
+    second: Explosion Dust Vfx 384x512 Blue_153
+  - first:
+      213: -616836974767342255
+    second: Explosion Dust Vfx 384x512 Blue_154
+  - first:
+      213: 8698374734754990198
+    second: Explosion Dust Vfx 384x512 Blue_155
+  - first:
+      213: 1471958502497923502
+    second: Explosion Dust Vfx 384x512 Blue_156
+  - first:
+      213: 2578413915016862934
+    second: Explosion Dust Vfx 384x512 Blue_157
+  - first:
+      213: -1798101680819110245
+    second: Explosion Dust Vfx 384x512 Blue_158
+  - first:
+      213: 6810912620786035627
+    second: Explosion Dust Vfx 384x512 Blue_159
+  - first:
+      213: -7821023359410610082
+    second: Explosion Dust Vfx 384x512 Blue_160
+  - first:
+      213: 8321421914867745574
+    second: Explosion Dust Vfx 384x512 Blue_161
+  - first:
+      213: -6755389084293740655
+    second: Explosion Dust Vfx 384x512 Blue_162
+  - first:
+      213: -2572906658856453539
+    second: Explosion Dust Vfx 384x512 Blue_163
+  - first:
+      213: 3419926634897132581
+    second: Explosion Dust Vfx 384x512 Blue_164
+  - first:
+      213: 1923593163061865355
+    second: Explosion Dust Vfx 384x512 Blue_165
+  - first:
+      213: -6667536527872983862
+    second: Explosion Dust Vfx 384x512 Blue_166
+  - first:
+      213: -573166196401371793
+    second: Explosion Dust Vfx 384x512 Blue_167
+  - first:
+      213: -2247900965346144721
+    second: Explosion Dust Vfx 384x512 Blue_168
+  - first:
+      213: -1052938989495067013
+    second: Explosion Dust Vfx 384x512 Blue_169
+  - first:
+      213: 7661883657149403297
+    second: Explosion Dust Vfx 384x512 Blue_170
+  - first:
+      213: 3420133486241991127
+    second: Explosion Dust Vfx 384x512 Blue_171
+  - first:
+      213: -9047859837922041697
+    second: Explosion Dust Vfx 384x512 Blue_172
+  - first:
+      213: 1108435903587362787
+    second: Explosion Dust Vfx 384x512 Blue_173
+  - first:
+      213: -9012939479870555025
+    second: Explosion Dust Vfx 384x512 Blue_174
+  - first:
+      213: -6406902136508879383
+    second: Explosion Dust Vfx 384x512 Blue_175
+  - first:
+      213: 6396814943400555915
+    second: Explosion Dust Vfx 384x512 Blue_176
+  - first:
+      213: -1433023837109885493
+    second: Explosion Dust Vfx 384x512 Blue_177
+  - first:
+      213: -2861159262786230359
+    second: Explosion Dust Vfx 384x512 Blue_178
+  - first:
+      213: 9174424727533144855
+    second: Explosion Dust Vfx 384x512 Blue_179
+  - first:
+      213: 3493823077904864745
+    second: Explosion Dust Vfx 384x512 Blue_180
+  - first:
+      213: 7552911991987655297
+    second: Explosion Dust Vfx 384x512 Blue_181
+  - first:
+      213: 4071483585519958481
+    second: Explosion Dust Vfx 384x512 Blue_182
+  - first:
+      213: 6229873754506444292
+    second: Explosion Dust Vfx 384x512 Blue_183
+  - first:
+      213: 7454706644761778974
+    second: Explosion Dust Vfx 384x512 Blue_184
+  - first:
+      213: -4292965442243546849
+    second: Explosion Dust Vfx 384x512 Blue_185
+  - first:
+      213: 4244658709065221123
+    second: Explosion Dust Vfx 384x512 Blue_186
+  - first:
+      213: 1598622284898878515
+    second: Explosion Dust Vfx 384x512 Blue_187
+  - first:
+      213: 4365426401043422651
+    second: Explosion Dust Vfx 384x512 Blue_188
+  - first:
+      213: 3452826857632890550
+    second: Explosion Dust Vfx 384x512 Blue_189
+  - first:
+      213: -6505835657561534863
+    second: Explosion Dust Vfx 384x512 Blue_190
+  - first:
+      213: -2800404826197230419
+    second: Explosion Dust Vfx 384x512 Blue_191
+  - first:
+      213: -8138437409115162090
+    second: Explosion Dust Vfx 384x512 Blue_192
+  - first:
+      213: -3058129297209585939
+    second: Explosion Dust Vfx 384x512 Blue_193
+  - first:
+      213: -7341272641204041170
+    second: Explosion Dust Vfx 384x512 Blue_194
+  - first:
+      213: 8016627331671056609
+    second: Explosion Dust Vfx 384x512 Blue_195
+  - first:
+      213: 6461213250517127290
+    second: Explosion Dust Vfx 384x512 Blue_196
+  - first:
+      213: 7904695919352979608
+    second: Explosion Dust Vfx 384x512 Blue_197
+  - first:
+      213: -244587533838374760
+    second: Explosion Dust Vfx 384x512 Blue_198
+  - first:
+      213: 256544769783768138
+    second: Explosion Dust Vfx 384x512 Blue_199
+  - first:
+      213: 6901965885749754607
+    second: Explosion Dust Vfx 384x512 Blue_200
+  - first:
+      213: 3916042968998367210
+    second: Explosion Dust Vfx 384x512 Blue_201
+  - first:
+      213: 3399752714578511457
+    second: Explosion Dust Vfx 384x512 Blue_202
+  - first:
+      213: 5662759509531774129
+    second: Explosion Dust Vfx 384x512 Blue_203
+  - first:
+      213: -1715740905603636272
+    second: Explosion Dust Vfx 384x512 Blue_204
+  - first:
+      213: 2010311283479692031
+    second: Explosion Dust Vfx 384x512 Blue_205
+  - first:
+      213: 9110222057868320024
+    second: Explosion Dust Vfx 384x512 Blue_206
+  - first:
+      213: -8381208173255568211
+    second: Explosion Dust Vfx 384x512 Blue_207
+  - first:
+      213: -3804366248782251662
+    second: Explosion Dust Vfx 384x512 Blue_208
+  - first:
+      213: 8518877983204071404
+    second: Explosion Dust Vfx 384x512 Blue_209
+  - first:
+      213: 3802891999001851715
+    second: Explosion Dust Vfx 384x512 Blue_210
+  - first:
+      213: 4095411952215690015
+    second: Explosion Dust Vfx 384x512 Blue_211
+  - first:
+      213: -8112188719040210327
+    second: Explosion Dust Vfx 384x512 Blue_212
+  - first:
+      213: -5946647998184878280
+    second: Explosion Dust Vfx 384x512 Blue_213
+  - first:
+      213: -804647296274640496
+    second: Explosion Dust Vfx 384x512 Blue_214
+  - first:
+      213: 8544969157605714067
+    second: Explosion Dust Vfx 384x512 Blue_215
+  - first:
+      213: 562681815340242590
+    second: Explosion Dust Vfx 384x512 Blue_216
+  - first:
+      213: 1054476082252040113
+    second: Explosion Dust Vfx 384x512 Blue_217
+  - first:
+      213: -8273255497984931567
+    second: Explosion Dust Vfx 384x512 Blue_218
+  - first:
+      213: -3473151790365041854
+    second: Explosion Dust Vfx 384x512 Blue_219
+  - first:
+      213: 5727178789080033546
+    second: Explosion Dust Vfx 384x512 Blue_220
+  - first:
+      213: 2800266999680189167
+    second: Explosion Dust Vfx 384x512 Blue_221
+  - first:
+      213: 9013636130196762000
+    second: Explosion Dust Vfx 384x512 Blue_222
+  - first:
+      213: -7223449551458845997
+    second: Explosion Dust Vfx 384x512 Blue_223
+  - first:
+      213: -526969988640454914
+    second: Explosion Dust Vfx 384x512 Blue_224
+  - first:
+      213: 7547379872576159641
+    second: Explosion Dust Vfx 384x512 Blue_225
+  - first:
+      213: 5179678710407988949
+    second: Explosion Dust Vfx 384x512 Blue_226
+  - first:
+      213: -7833349027226213540
+    second: Explosion Dust Vfx 384x512 Blue_227
+  - first:
+      213: 5177819520148053847
+    second: Explosion Dust Vfx 384x512 Blue_228
+  - first:
+      213: 8536740478930476159
+    second: Explosion Dust Vfx 384x512 Blue_229
+  - first:
+      213: 3230192954754127036
+    second: Explosion Dust Vfx 384x512 Blue_230
+  - first:
+      213: -1585856625724518379
+    second: Explosion Dust Vfx 384x512 Blue_231
+  - first:
+      213: 2207207251428892604
+    second: Explosion Dust Vfx 384x512 Blue_232
+  - first:
+      213: 774793878973331279
+    second: Explosion Dust Vfx 384x512 Blue_233
+  - first:
+      213: 8110448851233263866
+    second: Explosion Dust Vfx 384x512 Blue_234
+  - first:
+      213: -6972300048226438552
+    second: Explosion Dust Vfx 384x512 Blue_235
+  - first:
+      213: -6693293071265590782
+    second: Explosion Dust Vfx 384x512 Blue_236
+  - first:
+      213: -5908411528850373612
+    second: Explosion Dust Vfx 384x512 Blue_237
+  - first:
+      213: -7947557585693015802
+    second: Explosion Dust Vfx 384x512 Blue_238
+  - first:
+      213: -5907544031665675172
+    second: Explosion Dust Vfx 384x512 Blue_239
+  - first:
+      213: -7255096319389130156
+    second: Explosion Dust Vfx 384x512 Blue_240
+  - first:
+      213: -4645002724017935644
+    second: Explosion Dust Vfx 384x512 Blue_241
+  - first:
+      213: -3108501277108496282
+    second: Explosion Dust Vfx 384x512 Blue_242
+  - first:
+      213: -8943262520483632593
+    second: Explosion Dust Vfx 384x512 Blue_243
+  - first:
+      213: 4823822335676681872
+    second: Explosion Dust Vfx 384x512 Blue_244
+  - first:
+      213: 3703656369020148701
+    second: Explosion Dust Vfx 384x512 Blue_245
+  - first:
+      213: 8972718547577848696
+    second: Explosion Dust Vfx 384x512 Blue_246
+  - first:
+      213: -3132639185077247202
+    second: Explosion Dust Vfx 384x512 Blue_247
+  - first:
+      213: 7971949556609025264
+    second: Explosion Dust Vfx 384x512 Blue_248
+  - first:
+      213: -5094203133252444091
+    second: Explosion Dust Vfx 384x512 Blue_249
+  - first:
+      213: -3521937608253518240
+    second: Explosion Dust Vfx 384x512 Blue_250
+  - first:
+      213: -7114098859577941742
+    second: Explosion Dust Vfx 384x512 Blue_251
+  - first:
+      213: -6783174081287459174
+    second: Explosion Dust Vfx 384x512 Blue_252
+  - first:
+      213: -3754287062610331985
+    second: Explosion Dust Vfx 384x512 Blue_253
+  - first:
+      213: 4660402652118181322
+    second: Explosion Dust Vfx 384x512 Blue_254
+  - first:
+      213: -7464676191987584501
+    second: Explosion Dust Vfx 384x512 Blue_255
+  - first:
+      213: 643531224480261079
+    second: Explosion Dust Vfx 384x512 Blue_256
+  - first:
+      213: 6425578425461197599
+    second: Explosion Dust Vfx 384x512 Blue_257
+  - first:
+      213: 8172110818125322452
+    second: Explosion Dust Vfx 384x512 Blue_258
+  - first:
+      213: 6095817440806103134
+    second: Explosion Dust Vfx 384x512 Blue_259
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 899
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2d2493e2947c4c0800000000000000
+      internalID: -4267361659032251654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 893
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb4faebfcbea9990800000000000000
+      internalID: -7378325762003219471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 877
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35980d4a684a222e0800000000000000
+      internalID: -2151976773731972781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 873
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdafa9c86ab07800800000000000000
+      internalID: 608190908918115786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 848
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebca7974755a8d9f0800000000000000
+      internalID: -443422769014133570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 874
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e0943f5061b8870800000000000000
+      internalID: 8686060521126432336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 864
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759503649c6ba0a40800000000000000
+      internalID: 5335277684156029271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 837
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbc12b0509016fc0800000000000000
+      internalID: -3503509117851284554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 859
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1b83ae92d9f840800000000000000
+      internalID: 5258465618722232893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 832
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7f8e64834a4fe30800000000000000
+      internalID: 4536431286283728851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 837
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f24bce24e637930800000000000000
+      internalID: 4139773716201746242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 847
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a3c0828aea67a0800000000000000
+      internalID: -6383031675617302690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 846
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229a50080f932980800000000000000
+      internalID: -8564827209614061019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 798
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca19ea295ec81da60800000000000000
+      internalID: 7697088155789201836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 832
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a10aa8e8462b4e0800000000000000
+      internalID: -1967399523833603463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 820
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb325369d1d3b48f0800000000000000
+      internalID: -555282931766713409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 826
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df9f048851afb50800000000000000
+      internalID: 6627633476578966900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_17
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 801
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c7d666550b7100800000000000000
+      internalID: 106684884824081971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_18
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 833
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc4fec4966f2cd0800000000000000
+      internalID: -2580731272146662291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_19
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 833
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df0ca2d650163bd0800000000000000
+      internalID: -2650913365573234736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_20
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 822
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec678e6aa204cc110800000000000000
+      internalID: 1282470545826805454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_21
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 807
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec76954b67c6e3000800000000000000
+      internalID: 17570705643759566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 799
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5498c33b3decf0800000000000000
+      internalID: -221455713076748858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 788
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2159b13d62b6a0800000000000000
+      internalID: -6434960857229087892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_24
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 786
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347b84386d1ee51c0800000000000000
+      internalID: -4512921465136826557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 813
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85bdc4e9c4b342f0800000000000000
+      internalID: -989748713871264374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_26
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 808
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324431fa18f018900800000000000000
+      internalID: 684845667999499299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_27
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 793
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc236f5e1439d7f90800000000000000
+      internalID: -6954240338349903155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_28
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 793
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4581b16eafcc910800000000000000
+      internalID: 1859136612401173718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_29
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 812
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94bda3164937a80800000000000000
+      internalID: -8470263328833582619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 697
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9088e59e729396430800000000000000
+      internalID: 3776612606108665865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_31
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 756
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1453ee20d4d6dcca0800000000000000
+      internalID: -5995015351431187135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 754
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b0345b73105a090800000000000000
+      internalID: -8024005822314771665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_33
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 744
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd2efd1546309e0800000000000000
+      internalID: -1656369935130895593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_34
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 789
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6a6cc8d4934c10800000000000000
+      internalID: 2036635115364969813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_35
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 780
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70b3e5dec6ac0b0800000000000000
+      internalID: -5707629810994706462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_36
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 758
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09d38d4e22168f0800000000000000
+      internalID: -549119313286688515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_37
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 786
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c03a5d785885c40800000000000000
+      internalID: 5501293763284372496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_38
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 775
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6579d7aa86afa60800000000000000
+      internalID: 7708588793658824445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_39
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 785
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3786f741bcf2820800000000000000
+      internalID: 2895756374319854555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_40
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 793
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312115ac9b4701240800000000000000
+      internalID: 4760433147442696723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_41
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 782
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc19f8fe50c16a0800000000000000
+      internalID: -6477295637601596209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_42
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 790
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0435d2a10f3ac10800000000000000
+      internalID: 2063757049486065849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_43
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 771
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd36f4303059598d0800000000000000
+      internalID: -2840200149814254629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_44
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 780
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a9d1fd601bc4390800000000000000
+      internalID: -7832691008832955746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 756
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c38c9e5cbe1d93d0800000000000000
+      internalID: -3198366365973183543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 765
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07760b6b852bbb00800000000000000
+      internalID: 845310635788367629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_47
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 765
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d358c2729770bc10800000000000000
+      internalID: 2067283699837719504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_48
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 768
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3d8344d2568380800000000000000
+      internalID: -8969390536241890158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_49
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 770
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b0a290cc20de470800000000000000
+      internalID: 8425393553230400294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_50
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 760
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739304a49bb375c0800000000000000
+      internalID: -4218822178834771081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_51
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 755
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c853755ef346fadb0800000000000000
+      internalID: -4778490454023391860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_52
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 769
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be4e3e3f3607af40800000000000000
+      internalID: 5739563118803963573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_53
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 769
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc85c8a2c71e07980800000000000000
+      internalID: -8543080569715795761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_54
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 770
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04aa342911f1c490800000000000000
+      internalID: -7727630395306761205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_55
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 772
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e00c163976bac90800000000000000
+      internalID: -7157513300077441411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_56
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 761
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf742a2a174514cc0800000000000000
+      internalID: -3728606169449478148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_57
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 759
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f511168e212c10050800000000000000
+      internalID: 5765102384474820959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_58
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 757
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5590d0a028222c890800000000000000
+      internalID: -7439345692552918699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_59
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 773
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ce341bab5e8760800000000000000
+      internalID: 7462002422936684093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_60
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 774
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec6b838e70c6710800000000000000
+      internalID: 1687732654322404974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_61
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 731
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739c70aa7d4e7f90800000000000000
+      internalID: -6954035585539599496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_62
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 741
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbf311ec7a539e0800000000000000
+      internalID: -1642221985612186230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_63
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 723
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75835c3c739a3240800000000000000
+      internalID: 4772288916949796222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_64
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 744
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4268956a684d9b0800000000000000
+      internalID: -5056268432605567781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_65
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 737
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c6841124807570800000000000000
+      internalID: 8462408977442325695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_66
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 741
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f1f789d14bf4a0800000000000000
+      internalID: -6558576029790506974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_67
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 733
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b209a16cc53823e0800000000000000
+      internalID: -2078352076103417161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 679
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72497134546746950800000000000000
+      internalID: 6441403406897091623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_69
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 706
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27950f3d6abef1f90800000000000000
+      internalID: -6980601795648136846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 680
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150891aa1e88fb050800000000000000
+      internalID: 5818519746388787281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 699
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3790358e8d48795f0800000000000000
+      internalID: -749984745788339853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_72
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 703
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1a7b348a4fc6f80800000000000000
+      internalID: -8111839825273314825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_73
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 695
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8110a37b7f723d80800000000000000
+      internalID: -8272409397328604785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_74
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 705
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07c454b370b38660800000000000000
+      internalID: 7386941824810927885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_75
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 699
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4d5648f72debef0800000000000000
+      internalID: -90403497376885563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_76
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 719
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888f0020c52847640800000000000000
+      internalID: 5076826011635611784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_77
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 675
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e155dbb4f6f2f2f0800000000000000
+      internalID: -940417841183239704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_78
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 684
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd3dd6c52eb4320800000000000000
+      internalID: 2543375301188246979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_79
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 688
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531e641cc493d6120800000000000000
+      internalID: 2408644377536028981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_80
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 666
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f53d29b858db2a0800000000000000
+      internalID: -6720068234456637569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_81
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 691
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404912545fe380670800000000000000
+      internalID: 8505117119436919812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_82
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 673
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51639a3f92672170800000000000000
+      internalID: 8153594086399631707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_83
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 684
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793181ce291c1d70800000000000000
+      internalID: 9015108242694551922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_84
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 688
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aa3dc29f5fc4cd0800000000000000
+      internalID: -2572410836587664857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_85
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 677
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b998b8d493675d0800000000000000
+      internalID: -3065199491162727654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_86
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 653
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417adc2f24afcfdb0800000000000000
+      internalID: -4756651940961736940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_87
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 685
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3a1b229e16fbc40800000000000000
+      internalID: 5530246521371599841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_88
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 656
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c52a111e9e3600800000000000000
+      internalID: 449970809073944086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_89
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 664
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b01542f1334c10800000000000000
+      internalID: 2036526373112166668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_90
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 650
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec125861a4d82170800000000000000
+      internalID: 8154000915059317986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_91
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 674
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff9a29745b38650800000000000000
+      internalID: 6234025628218818467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_92
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 660
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806c86d431858a30800000000000000
+      internalID: 4216918690040144012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_93
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 659
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb15187dbde46150800000000000000
+      internalID: 5865074012762479607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_94
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 652
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efa00d4b938f8b80800000000000000
+      internalID: -8390342877732884505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_95
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 648
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb10d225b0b14320800000000000000
+      internalID: 2540505956833303492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_96
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 651
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb965d391b7c38a0800000000000000
+      internalID: -6324044428401533984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_97
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 633
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33cc40d30369c590800000000000000
+      internalID: -7653477223708703938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_98
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 634
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d28d966339d01280800000000000000
+      internalID: -9074514434363391274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_99
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 612
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58936a5a219473570800000000000000
+      internalID: 8446299970594027909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_100
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 632
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cfb45fb1db1e1b0800000000000000
+      internalID: -5629010131459244951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_101
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 611
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c231c8cc727f15440800000000000000
+      internalID: 4922987618000180012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_102
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 587
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088e088680e6c170800000000000000
+      internalID: 8198487040087459848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_103
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 588
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d3f0744596d980800000000000000
+      internalID: -8514453924312002258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_104
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 501
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca2a7934c1d41ab0800000000000000
+      internalID: -5038171442412639548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_105
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 485
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bacaa2895bbc7990800000000000000
+      internalID: -7386823295675741519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_106
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 410
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0cb883de4689ec0800000000000000
+      internalID: -3559984535417667350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_107
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 457
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ed1bdc251c3dc0800000000000000
+      internalID: -3658025514932770555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_108
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 445
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c73810366b2580800000000000000
+      internalID: -8850868285915806698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_109
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 406
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde85c36406c95e0800000000000000
+      internalID: -1901539087880753680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_110
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 426
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b103f2c34905ae0800000000000000
+      internalID: -1562586084486931617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_111
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 439
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5ba149929a64ca0800000000000000
+      internalID: -6032948654772669020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_112
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 417
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460012d7c2cc119f0800000000000000
+      internalID: -499393592211472284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_113
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 418
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ad9d04237f34550800000000000000
+      internalID: 6144026111871932995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_114
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 425
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b4f74392ad4b80800000000000000
+      internalID: -8408886175779736237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_115
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 413
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770d3f2278962f4b0800000000000000
+      internalID: -5408144173390638985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_116
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 431
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec9eee44bea9d700800000000000000
+      internalID: 565675317653314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_117
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234fff91c33d319c0800000000000000
+      internalID: -3957587392440830926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_118
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 395
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ff4f1c2c3c9ce0800000000000000
+      internalID: -1397175624190135827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_119
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 409
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e6d1adae039760800000000000000
+      internalID: 7463325146390389245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_120
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db16c2ab07bbc9fa0800000000000000
+      internalID: -5792548927871098435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_121
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 403
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196d0c916f1ee880800000000000000
+      internalID: -8579885736003802852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 377
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e407baca76e17cb0800000000000000
+      internalID: -4867856307149404956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_123
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 384
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f461ea00cfbbe2b0800000000000000
+      internalID: -5554134883894205194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_124
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 389
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43632f89dfa797630800000000000000
+      internalID: 3925303779841422900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_125
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 393
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108272b52fdb6ae0800000000000000
+      internalID: -1554903893325742053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_126
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 388
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5578bdb99c07f80800000000000000
+      internalID: -8110761257654069809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_127
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 355
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27fef411938fe300800000000000000
+      internalID: 283589960693380910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 368
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ca19c22668aa700800000000000000
+      internalID: 552401660518968334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_129
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 378
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496fd5983bfcacb30800000000000000
+      internalID: 4308484363544032916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_130
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 367
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c33443d97680b100800000000000000
+      internalID: 121745047732630464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_131
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 377
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eae177b541f29a50800000000000000
+      internalID: 6526544091746003688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_132
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 322
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9169f3a8b2c3aa0800000000000000
+      internalID: -6180016715886880278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_133
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 382
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c054f659236a840800000000000000
+      internalID: 5234927234263092226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 348
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb107d6253ac5cc0800000000000000
+      internalID: -3720919617696162887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_135
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 349
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9f627060210e80800000000000000
+      internalID: -8214248646738207194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_136
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 362
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9677f472859c4820800000000000000
+      internalID: 2903860247287789211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_137
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 364
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e23dea80236cf30800000000000000
+      internalID: 4595415482652372538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_138
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 354
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bcce592205be1d0800000000000000
+      internalID: -3320472190781175035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_139
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 362
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9b2feea6bec160800000000000000
+      internalID: 7047771329334582721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_140
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 283
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0152f6e8525953af0800000000000000
+      internalID: -417263401925925616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 333
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495d16a62a79dc70800000000000000
+      internalID: 8996356037063563589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_142
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 337
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9dd86e8e8d50a60800000000000000
+      internalID: 7639750837715982842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_143
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5f537ffae169d90800000000000000
+      internalID: -7091446822132648480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_144
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 336
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073a020b8fba53610800000000000000
+      internalID: 1600374327195247472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_145
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 322
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54d66be97024830800000000000000
+      internalID: 4053810992833709485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 332
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d981f50e2a7d790800000000000000
+      internalID: -7505351169437819538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_147
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 335
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd79654c784d6c0800000000000000
+      internalID: -4119518481801028650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_148
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 335
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff3003d2f8908d0800000000000000
+      internalID: -2879613062484852842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 320
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df2e620dd1e07a40800000000000000
+      internalID: 5364035495543058384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_150
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 315
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b96992eee02120800000000000000
+      internalID: 2387170459510224453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_151
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 315
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fecf4ed556edeb0800000000000000
+      internalID: -4693202307725332671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_152
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 325
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d338a464574be3b0800000000000000
+      internalID: -5482209693601877040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_153
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc0a325d04d3d60800000000000000
+      internalID: 7871519007883447517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_154
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 289
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d7aa22a0e8077f0800000000000000
+      internalID: -616836974767342255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_155
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 305
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678cd4c3cb5d6b870800000000000000
+      internalID: 8698374734754990198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_156
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 301
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1318195727d6410800000000000000
+      internalID: 1471958502497923502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_157
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 297
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc11807bcd58c320800000000000000
+      internalID: 2578413915016862934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_158
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 298
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e7ebc4c0cdb07e0800000000000000
+      internalID: -1798101680819110245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_159
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 310
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2d2e51f8358e50800000000000000
+      internalID: 6810912620786035627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_160
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506c4231b4267390800000000000000
+      internalID: -7821023359410610082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_161
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c7dd8421ab7370800000000000000
+      internalID: 8321421914867745574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_162
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 286
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197ce1f5b690042a0800000000000000
+      internalID: -6755389084293740655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_163
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 280
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5abf9e86033b4cd0800000000000000
+      internalID: -2572906658856453539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_164
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc0f6a725067f20800000000000000
+      internalID: 3419926634897132581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_165
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 274
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b2ca84ac9f1ba10800000000000000
+      internalID: 1923593163061865355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_166
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 282
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc7031aad62873a0800000000000000
+      internalID: -6667536527872983862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_167
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 275
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f650c329164bb08f0800000000000000
+      internalID: -573166196401371793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_168
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 290
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e094e5bf9ddc0e0800000000000000
+      internalID: -2247900965346144721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_169
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 288
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7edcf851953361f0800000000000000
+      internalID: -1052938989495067013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_170
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 280
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d2ce779a745a60800000000000000
+      internalID: 7661883657149403297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_171
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 263
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d94fdbf841c67f20800000000000000
+      internalID: 3420133486241991127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_172
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 270
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90222f3a6b8f6280800000000000000
+      internalID: -9047859837922041697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_173
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 272
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e72d91e494f16f00800000000000000
+      internalID: 1108435903587362787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_174
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 270
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cb830bb4b9be280800000000000000
+      internalID: -9012939479870555025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_175
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 274
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed62bab37c1617a0800000000000000
+      internalID: -6406902136508879383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_176
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 276
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85fc4b9c4d06c850800000000000000
+      internalID: 6396814943400555915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_177
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 276
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e562a960ec1ce0800000000000000
+      internalID: -1433023837109885493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_178
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 281
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7eecf3fce1b48d0800000000000000
+      internalID: -2861159262786230359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_179
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 264
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b4c277eaa125f70800000000000000
+      internalID: 9174424727533144855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_180
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 250
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5d49a049d8c7030800000000000000
+      internalID: 3493823077904864745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_181
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182563e807551d860800000000000000
+      internalID: 7552911991987655297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_182
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 266
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d930c7dfb0d08830800000000000000
+      internalID: 4071483585519958481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 265
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eb2e42c25f47650800000000000000
+      internalID: 6229873754506444292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_184
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 256
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b15c95230747760800000000000000
+      internalID: 7454706644761778974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_185
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 248
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11bb06eca25c64c0800000000000000
+      internalID: -4292965442243546849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_186
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 259
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c9925b9e08ea30800000000000000
+      internalID: 4244658709065221123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_187
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 252
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334cb6d8f727f2610800000000000000
+      internalID: 1598622284898878515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_188
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 255
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd1e47ce2c159c30800000000000000
+      internalID: 4365426401043422651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_189
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bef220bbb7eaef20800000000000000
+      internalID: 3452826857632890550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_190
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 227
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e89f750f0a6b5a0800000000000000
+      internalID: -6505835657561534863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_191
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 226
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac7933d5a6f229d0800000000000000
+      internalID: -2800404826197230419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_192
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 220
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab0f2bb467e0f80800000000000000
+      internalID: -8138437409115162090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_193
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 226
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee8b9a5b975f85d0800000000000000
+      internalID: -3058129297209585939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_194
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 236
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4db5bd6f8e1a90800000000000000
+      internalID: -7341272641204041170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_195
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 206
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e0f09518c04f60800000000000000
+      internalID: 8016627331671056609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_196
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 218
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70de17e737daa950800000000000000
+      internalID: 6461213250517127290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_197
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 184
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a38ace0f13bd60800000000000000
+      internalID: 7904695919352979608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_198
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 197
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89823111fec0b9cf0800000000000000
+      internalID: -244587533838374760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_199
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 192
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4422ffdb1e6f8300800000000000000
+      internalID: 256544769783768138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_200
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 166
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea7af7a765b8cf50800000000000000
+      internalID: 6901965885749754607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_201
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 171
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef405c0554985630800000000000000
+      internalID: 3916042968998367210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_202
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664f9cc4195e2f20800000000000000
+      internalID: 3399752714578511457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_203
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc4b1675c9269e40800000000000000
+      internalID: 5662759509531774129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_204
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d363ea9cb67038e0800000000000000
+      internalID: -1715740905603636272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_205
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 161
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff244c3167f06eb10800000000000000
+      internalID: 2010311283479692031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 151
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5b2091b20e6e70800000000000000
+      internalID: 9110222057868320024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_207
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4508c6297ffab80800000000000000
+      internalID: -8381208173255568211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_208
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27939d99d0d243bc0800000000000000
+      internalID: -3804366248782251662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_209
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 164
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce756c90462293670800000000000000
+      internalID: 8518877983204071404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_210
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3473eafdf1696c430800000000000000
+      internalID: 3802891999001851715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_211
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 157
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b84bcd873d5d830800000000000000
+      internalID: 4095411952215690015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_212
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5daa1757bb6f80800000000000000
+      internalID: -8112188719040210327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_213
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 149
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f07eff623497da0800000000000000
+      internalID: -5946647998184878280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_214
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 135
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09152181c8155d4f0800000000000000
+      internalID: -804647296274640496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_215
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 142
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e1c7fc24d59670800000000000000
+      internalID: 8544969157605714067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_216
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 148
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965dec312c0fc700800000000000000
+      internalID: 562681815340242590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_217
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 139
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b747c2f86042ae00800000000000000
+      internalID: 1054476082252040113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_218
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 146
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198f8a45fd7f2d80800000000000000
+      internalID: -8273255497984931567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_219
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b974429d2eccfc0800000000000000
+      internalID: -3473151790365041854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_220
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 148
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a096448c3c60b7f40800000000000000
+      internalID: 5727178789080033546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_221
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2cf20fffb8cd620800000000000000
+      internalID: 2800266999680189167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_222
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d210bdd4ed61d70800000000000000
+      internalID: 9013636130196762000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_223
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 131
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da375887e621cb90800000000000000
+      internalID: -7223449551458845997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_224
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 130
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef64bcb5693dfa8f0800000000000000
+      internalID: -526969988640454914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_225
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 137
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb5d1a10eadb860800000000000000
+      internalID: 7547379872576159641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_226
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 106
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d68580185ae1e740800000000000000
+      internalID: 5179678710407988949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_227
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 142
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a786009a5a4390800000000000000
+      internalID: -7833349027226213540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_228
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f12899b6f4bd740800000000000000
+      internalID: 5177819520148053847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_229
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 129
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c595a6c38987670800000000000000
+      internalID: 8536740478930476159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_230
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 112
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d618c063f3dc20800000000000000
+      internalID: 3230192954754127036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_231
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5109df61dc7edf9e0800000000000000
+      internalID: -1585856625724518379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_232
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd5170d4391ae10800000000000000
+      internalID: 2207207251428892604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_233
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 106
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f473a5a8dee90ca00800000000000000
+      internalID: 774793878973331279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_234
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 105
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0dbba524a1e8070800000000000000
+      internalID: 8110448851233263866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_235
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86236060c0a6d3f90800000000000000
+      internalID: -6972300048226438552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_236
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 101
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20291ad0a65ac13a0800000000000000
+      internalID: -6693293071265590782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_237
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4140d04c40b110ea0800000000000000
+      internalID: -5908411528850373612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_238
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6018ec8db7a94b190800000000000000
+      internalID: -7947557585693015802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_239
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54a691b000340ea0800000000000000
+      internalID: -5907544031665675172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_240
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452219f2658b05b90800000000000000
+      internalID: -7255096319389130156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_241
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 96
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea603ef1a2a98fb0800000000000000
+      internalID: -4645002724017935644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_242
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 75
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668991ade826cd4d0800000000000000
+      internalID: -3108501277108496282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_243
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a228dfe1623e380800000000000000
+      internalID: -8943262520483632593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_244
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e8a994bd8a1f240800000000000000
+      internalID: 4823822335676681872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_245
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb1f8548d7066330800000000000000
+      internalID: 3703656369020148701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_246
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 75
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873cfe1caff758c70800000000000000
+      internalID: 8972718547577848696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_247
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 74
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1360043241a684d0800000000000000
+      internalID: -3132639185077247202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_248
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4830172ed02ae60800000000000000
+      internalID: 7971949556609025264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_249
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 73
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5406ec49d31cd49b0800000000000000
+      internalID: -5094203133252444091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_250
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 82
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec5f2c7609f1fc0800000000000000
+      internalID: -3521937608253518240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_251
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 54
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21168d187c4a54d90800000000000000
+      internalID: -7114098859577941742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_252
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 52
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e6933ac135dd1a0800000000000000
+      internalID: -6783174081287459174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_253
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63440cec716ebc0800000000000000
+      internalID: -3754287062610331985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_254
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5eacd25831da040800000000000000
+      internalID: 4660402652118181322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_255
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 22
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b34d8d84286890800000000000000
+      internalID: -7464676191987584501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_256
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 49
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3a4053d384ee800800000000000000
+      internalID: 643531224480261079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_257
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4706a88d3c2950800000000000000
+      internalID: 6425578425461197599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_258
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d89c7bcd7b296170800000000000000
+      internalID: 8172110818125322452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion Dust Vfx 384x512 Blue_259
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e0e65aa1b89450800000000000000
+      internalID: 6095817440806103134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion Dust Vfx 384x512 Blue_0: -4267361659032251654
+      Explosion Dust Vfx 384x512 Blue_1: -7378325762003219471
+      Explosion Dust Vfx 384x512 Blue_10: 4139773716201746242
+      Explosion Dust Vfx 384x512 Blue_100: -5629010131459244951
+      Explosion Dust Vfx 384x512 Blue_101: 4922987618000180012
+      Explosion Dust Vfx 384x512 Blue_102: 8198487040087459848
+      Explosion Dust Vfx 384x512 Blue_103: -8514453924312002258
+      Explosion Dust Vfx 384x512 Blue_104: -5038171442412639548
+      Explosion Dust Vfx 384x512 Blue_105: -7386823295675741519
+      Explosion Dust Vfx 384x512 Blue_106: -3559984535417667350
+      Explosion Dust Vfx 384x512 Blue_107: -3658025514932770555
+      Explosion Dust Vfx 384x512 Blue_108: -8850868285915806698
+      Explosion Dust Vfx 384x512 Blue_109: -1901539087880753680
+      Explosion Dust Vfx 384x512 Blue_11: -6383031675617302690
+      Explosion Dust Vfx 384x512 Blue_110: -1562586084486931617
+      Explosion Dust Vfx 384x512 Blue_111: -6032948654772669020
+      Explosion Dust Vfx 384x512 Blue_112: -499393592211472284
+      Explosion Dust Vfx 384x512 Blue_113: 6144026111871932995
+      Explosion Dust Vfx 384x512 Blue_114: -8408886175779736237
+      Explosion Dust Vfx 384x512 Blue_115: -5408144173390638985
+      Explosion Dust Vfx 384x512 Blue_116: 565675317653314791
+      Explosion Dust Vfx 384x512 Blue_117: -3957587392440830926
+      Explosion Dust Vfx 384x512 Blue_118: -1397175624190135827
+      Explosion Dust Vfx 384x512 Blue_119: 7463325146390389245
+      Explosion Dust Vfx 384x512 Blue_12: -8564827209614061019
+      Explosion Dust Vfx 384x512 Blue_120: -5792548927871098435
+      Explosion Dust Vfx 384x512 Blue_121: -8579885736003802852
+      Explosion Dust Vfx 384x512 Blue_122: -4867856307149404956
+      Explosion Dust Vfx 384x512 Blue_123: -5554134883894205194
+      Explosion Dust Vfx 384x512 Blue_124: 3925303779841422900
+      Explosion Dust Vfx 384x512 Blue_125: -1554903893325742053
+      Explosion Dust Vfx 384x512 Blue_126: -8110761257654069809
+      Explosion Dust Vfx 384x512 Blue_127: 283589960693380910
+      Explosion Dust Vfx 384x512 Blue_128: 552401660518968334
+      Explosion Dust Vfx 384x512 Blue_129: 4308484363544032916
+      Explosion Dust Vfx 384x512 Blue_13: 7697088155789201836
+      Explosion Dust Vfx 384x512 Blue_130: 121745047732630464
+      Explosion Dust Vfx 384x512 Blue_131: 6526544091746003688
+      Explosion Dust Vfx 384x512 Blue_132: -6180016715886880278
+      Explosion Dust Vfx 384x512 Blue_133: 5234927234263092226
+      Explosion Dust Vfx 384x512 Blue_134: -3720919617696162887
+      Explosion Dust Vfx 384x512 Blue_135: -8214248646738207194
+      Explosion Dust Vfx 384x512 Blue_136: 2903860247287789211
+      Explosion Dust Vfx 384x512 Blue_137: 4595415482652372538
+      Explosion Dust Vfx 384x512 Blue_138: -3320472190781175035
+      Explosion Dust Vfx 384x512 Blue_139: 7047771329334582721
+      Explosion Dust Vfx 384x512 Blue_14: -1967399523833603463
+      Explosion Dust Vfx 384x512 Blue_140: -417263401925925616
+      Explosion Dust Vfx 384x512 Blue_141: 8996356037063563589
+      Explosion Dust Vfx 384x512 Blue_142: 7639750837715982842
+      Explosion Dust Vfx 384x512 Blue_143: -7091446822132648480
+      Explosion Dust Vfx 384x512 Blue_144: 1600374327195247472
+      Explosion Dust Vfx 384x512 Blue_145: 4053810992833709485
+      Explosion Dust Vfx 384x512 Blue_146: -7505351169437819538
+      Explosion Dust Vfx 384x512 Blue_147: -4119518481801028650
+      Explosion Dust Vfx 384x512 Blue_148: -2879613062484852842
+      Explosion Dust Vfx 384x512 Blue_149: 5364035495543058384
+      Explosion Dust Vfx 384x512 Blue_15: -555282931766713409
+      Explosion Dust Vfx 384x512 Blue_150: 2387170459510224453
+      Explosion Dust Vfx 384x512 Blue_151: -4693202307725332671
+      Explosion Dust Vfx 384x512 Blue_152: -5482209693601877040
+      Explosion Dust Vfx 384x512 Blue_153: 7871519007883447517
+      Explosion Dust Vfx 384x512 Blue_154: -616836974767342255
+      Explosion Dust Vfx 384x512 Blue_155: 8698374734754990198
+      Explosion Dust Vfx 384x512 Blue_156: 1471958502497923502
+      Explosion Dust Vfx 384x512 Blue_157: 2578413915016862934
+      Explosion Dust Vfx 384x512 Blue_158: -1798101680819110245
+      Explosion Dust Vfx 384x512 Blue_159: 6810912620786035627
+      Explosion Dust Vfx 384x512 Blue_16: 6627633476578966900
+      Explosion Dust Vfx 384x512 Blue_160: -7821023359410610082
+      Explosion Dust Vfx 384x512 Blue_161: 8321421914867745574
+      Explosion Dust Vfx 384x512 Blue_162: -6755389084293740655
+      Explosion Dust Vfx 384x512 Blue_163: -2572906658856453539
+      Explosion Dust Vfx 384x512 Blue_164: 3419926634897132581
+      Explosion Dust Vfx 384x512 Blue_165: 1923593163061865355
+      Explosion Dust Vfx 384x512 Blue_166: -6667536527872983862
+      Explosion Dust Vfx 384x512 Blue_167: -573166196401371793
+      Explosion Dust Vfx 384x512 Blue_168: -2247900965346144721
+      Explosion Dust Vfx 384x512 Blue_169: -1052938989495067013
+      Explosion Dust Vfx 384x512 Blue_17: 106684884824081971
+      Explosion Dust Vfx 384x512 Blue_170: 7661883657149403297
+      Explosion Dust Vfx 384x512 Blue_171: 3420133486241991127
+      Explosion Dust Vfx 384x512 Blue_172: -9047859837922041697
+      Explosion Dust Vfx 384x512 Blue_173: 1108435903587362787
+      Explosion Dust Vfx 384x512 Blue_174: -9012939479870555025
+      Explosion Dust Vfx 384x512 Blue_175: -6406902136508879383
+      Explosion Dust Vfx 384x512 Blue_176: 6396814943400555915
+      Explosion Dust Vfx 384x512 Blue_177: -1433023837109885493
+      Explosion Dust Vfx 384x512 Blue_178: -2861159262786230359
+      Explosion Dust Vfx 384x512 Blue_179: 9174424727533144855
+      Explosion Dust Vfx 384x512 Blue_18: -2580731272146662291
+      Explosion Dust Vfx 384x512 Blue_180: 3493823077904864745
+      Explosion Dust Vfx 384x512 Blue_181: 7552911991987655297
+      Explosion Dust Vfx 384x512 Blue_182: 4071483585519958481
+      Explosion Dust Vfx 384x512 Blue_183: 6229873754506444292
+      Explosion Dust Vfx 384x512 Blue_184: 7454706644761778974
+      Explosion Dust Vfx 384x512 Blue_185: -4292965442243546849
+      Explosion Dust Vfx 384x512 Blue_186: 4244658709065221123
+      Explosion Dust Vfx 384x512 Blue_187: 1598622284898878515
+      Explosion Dust Vfx 384x512 Blue_188: 4365426401043422651
+      Explosion Dust Vfx 384x512 Blue_189: 3452826857632890550
+      Explosion Dust Vfx 384x512 Blue_19: -2650913365573234736
+      Explosion Dust Vfx 384x512 Blue_190: -6505835657561534863
+      Explosion Dust Vfx 384x512 Blue_191: -2800404826197230419
+      Explosion Dust Vfx 384x512 Blue_192: -8138437409115162090
+      Explosion Dust Vfx 384x512 Blue_193: -3058129297209585939
+      Explosion Dust Vfx 384x512 Blue_194: -7341272641204041170
+      Explosion Dust Vfx 384x512 Blue_195: 8016627331671056609
+      Explosion Dust Vfx 384x512 Blue_196: 6461213250517127290
+      Explosion Dust Vfx 384x512 Blue_197: 7904695919352979608
+      Explosion Dust Vfx 384x512 Blue_198: -244587533838374760
+      Explosion Dust Vfx 384x512 Blue_199: 256544769783768138
+      Explosion Dust Vfx 384x512 Blue_2: -2151976773731972781
+      Explosion Dust Vfx 384x512 Blue_20: 1282470545826805454
+      Explosion Dust Vfx 384x512 Blue_200: 6901965885749754607
+      Explosion Dust Vfx 384x512 Blue_201: 3916042968998367210
+      Explosion Dust Vfx 384x512 Blue_202: 3399752714578511457
+      Explosion Dust Vfx 384x512 Blue_203: 5662759509531774129
+      Explosion Dust Vfx 384x512 Blue_204: -1715740905603636272
+      Explosion Dust Vfx 384x512 Blue_205: 2010311283479692031
+      Explosion Dust Vfx 384x512 Blue_206: 9110222057868320024
+      Explosion Dust Vfx 384x512 Blue_207: -8381208173255568211
+      Explosion Dust Vfx 384x512 Blue_208: -3804366248782251662
+      Explosion Dust Vfx 384x512 Blue_209: 8518877983204071404
+      Explosion Dust Vfx 384x512 Blue_21: 17570705643759566
+      Explosion Dust Vfx 384x512 Blue_210: 3802891999001851715
+      Explosion Dust Vfx 384x512 Blue_211: 4095411952215690015
+      Explosion Dust Vfx 384x512 Blue_212: -8112188719040210327
+      Explosion Dust Vfx 384x512 Blue_213: -5946647998184878280
+      Explosion Dust Vfx 384x512 Blue_214: -804647296274640496
+      Explosion Dust Vfx 384x512 Blue_215: 8544969157605714067
+      Explosion Dust Vfx 384x512 Blue_216: 562681815340242590
+      Explosion Dust Vfx 384x512 Blue_217: 1054476082252040113
+      Explosion Dust Vfx 384x512 Blue_218: -8273255497984931567
+      Explosion Dust Vfx 384x512 Blue_219: -3473151790365041854
+      Explosion Dust Vfx 384x512 Blue_22: -221455713076748858
+      Explosion Dust Vfx 384x512 Blue_220: 5727178789080033546
+      Explosion Dust Vfx 384x512 Blue_221: 2800266999680189167
+      Explosion Dust Vfx 384x512 Blue_222: 9013636130196762000
+      Explosion Dust Vfx 384x512 Blue_223: -7223449551458845997
+      Explosion Dust Vfx 384x512 Blue_224: -526969988640454914
+      Explosion Dust Vfx 384x512 Blue_225: 7547379872576159641
+      Explosion Dust Vfx 384x512 Blue_226: 5179678710407988949
+      Explosion Dust Vfx 384x512 Blue_227: -7833349027226213540
+      Explosion Dust Vfx 384x512 Blue_228: 5177819520148053847
+      Explosion Dust Vfx 384x512 Blue_229: 8536740478930476159
+      Explosion Dust Vfx 384x512 Blue_23: -6434960857229087892
+      Explosion Dust Vfx 384x512 Blue_230: 3230192954754127036
+      Explosion Dust Vfx 384x512 Blue_231: -1585856625724518379
+      Explosion Dust Vfx 384x512 Blue_232: 2207207251428892604
+      Explosion Dust Vfx 384x512 Blue_233: 774793878973331279
+      Explosion Dust Vfx 384x512 Blue_234: 8110448851233263866
+      Explosion Dust Vfx 384x512 Blue_235: -6972300048226438552
+      Explosion Dust Vfx 384x512 Blue_236: -6693293071265590782
+      Explosion Dust Vfx 384x512 Blue_237: -5908411528850373612
+      Explosion Dust Vfx 384x512 Blue_238: -7947557585693015802
+      Explosion Dust Vfx 384x512 Blue_239: -5907544031665675172
+      Explosion Dust Vfx 384x512 Blue_24: -4512921465136826557
+      Explosion Dust Vfx 384x512 Blue_240: -7255096319389130156
+      Explosion Dust Vfx 384x512 Blue_241: -4645002724017935644
+      Explosion Dust Vfx 384x512 Blue_242: -3108501277108496282
+      Explosion Dust Vfx 384x512 Blue_243: -8943262520483632593
+      Explosion Dust Vfx 384x512 Blue_244: 4823822335676681872
+      Explosion Dust Vfx 384x512 Blue_245: 3703656369020148701
+      Explosion Dust Vfx 384x512 Blue_246: 8972718547577848696
+      Explosion Dust Vfx 384x512 Blue_247: -3132639185077247202
+      Explosion Dust Vfx 384x512 Blue_248: 7971949556609025264
+      Explosion Dust Vfx 384x512 Blue_249: -5094203133252444091
+      Explosion Dust Vfx 384x512 Blue_25: -989748713871264374
+      Explosion Dust Vfx 384x512 Blue_250: -3521937608253518240
+      Explosion Dust Vfx 384x512 Blue_251: -7114098859577941742
+      Explosion Dust Vfx 384x512 Blue_252: -6783174081287459174
+      Explosion Dust Vfx 384x512 Blue_253: -3754287062610331985
+      Explosion Dust Vfx 384x512 Blue_254: 4660402652118181322
+      Explosion Dust Vfx 384x512 Blue_255: -7464676191987584501
+      Explosion Dust Vfx 384x512 Blue_256: 643531224480261079
+      Explosion Dust Vfx 384x512 Blue_257: 6425578425461197599
+      Explosion Dust Vfx 384x512 Blue_258: 8172110818125322452
+      Explosion Dust Vfx 384x512 Blue_259: 6095817440806103134
+      Explosion Dust Vfx 384x512 Blue_26: 684845667999499299
+      Explosion Dust Vfx 384x512 Blue_27: -6954240338349903155
+      Explosion Dust Vfx 384x512 Blue_28: 1859136612401173718
+      Explosion Dust Vfx 384x512 Blue_29: -8470263328833582619
+      Explosion Dust Vfx 384x512 Blue_3: 608190908918115786
+      Explosion Dust Vfx 384x512 Blue_30: 3776612606108665865
+      Explosion Dust Vfx 384x512 Blue_31: -5995015351431187135
+      Explosion Dust Vfx 384x512 Blue_32: -8024005822314771665
+      Explosion Dust Vfx 384x512 Blue_33: -1656369935130895593
+      Explosion Dust Vfx 384x512 Blue_34: 2036635115364969813
+      Explosion Dust Vfx 384x512 Blue_35: -5707629810994706462
+      Explosion Dust Vfx 384x512 Blue_36: -549119313286688515
+      Explosion Dust Vfx 384x512 Blue_37: 5501293763284372496
+      Explosion Dust Vfx 384x512 Blue_38: 7708588793658824445
+      Explosion Dust Vfx 384x512 Blue_39: 2895756374319854555
+      Explosion Dust Vfx 384x512 Blue_4: -443422769014133570
+      Explosion Dust Vfx 384x512 Blue_40: 4760433147442696723
+      Explosion Dust Vfx 384x512 Blue_41: -6477295637601596209
+      Explosion Dust Vfx 384x512 Blue_42: 2063757049486065849
+      Explosion Dust Vfx 384x512 Blue_43: -2840200149814254629
+      Explosion Dust Vfx 384x512 Blue_44: -7832691008832955746
+      Explosion Dust Vfx 384x512 Blue_45: -3198366365973183543
+      Explosion Dust Vfx 384x512 Blue_46: 845310635788367629
+      Explosion Dust Vfx 384x512 Blue_47: 2067283699837719504
+      Explosion Dust Vfx 384x512 Blue_48: -8969390536241890158
+      Explosion Dust Vfx 384x512 Blue_49: 8425393553230400294
+      Explosion Dust Vfx 384x512 Blue_5: 8686060521126432336
+      Explosion Dust Vfx 384x512 Blue_50: -4218822178834771081
+      Explosion Dust Vfx 384x512 Blue_51: -4778490454023391860
+      Explosion Dust Vfx 384x512 Blue_52: 5739563118803963573
+      Explosion Dust Vfx 384x512 Blue_53: -8543080569715795761
+      Explosion Dust Vfx 384x512 Blue_54: -7727630395306761205
+      Explosion Dust Vfx 384x512 Blue_55: -7157513300077441411
+      Explosion Dust Vfx 384x512 Blue_56: -3728606169449478148
+      Explosion Dust Vfx 384x512 Blue_57: 5765102384474820959
+      Explosion Dust Vfx 384x512 Blue_58: -7439345692552918699
+      Explosion Dust Vfx 384x512 Blue_59: 7462002422936684093
+      Explosion Dust Vfx 384x512 Blue_6: 5335277684156029271
+      Explosion Dust Vfx 384x512 Blue_60: 1687732654322404974
+      Explosion Dust Vfx 384x512 Blue_61: -6954035585539599496
+      Explosion Dust Vfx 384x512 Blue_62: -1642221985612186230
+      Explosion Dust Vfx 384x512 Blue_63: 4772288916949796222
+      Explosion Dust Vfx 384x512 Blue_64: -5056268432605567781
+      Explosion Dust Vfx 384x512 Blue_65: 8462408977442325695
+      Explosion Dust Vfx 384x512 Blue_66: -6558576029790506974
+      Explosion Dust Vfx 384x512 Blue_67: -2078352076103417161
+      Explosion Dust Vfx 384x512 Blue_68: 6441403406897091623
+      Explosion Dust Vfx 384x512 Blue_69: -6980601795648136846
+      Explosion Dust Vfx 384x512 Blue_7: -3503509117851284554
+      Explosion Dust Vfx 384x512 Blue_70: 5818519746388787281
+      Explosion Dust Vfx 384x512 Blue_71: -749984745788339853
+      Explosion Dust Vfx 384x512 Blue_72: -8111839825273314825
+      Explosion Dust Vfx 384x512 Blue_73: -8272409397328604785
+      Explosion Dust Vfx 384x512 Blue_74: 7386941824810927885
+      Explosion Dust Vfx 384x512 Blue_75: -90403497376885563
+      Explosion Dust Vfx 384x512 Blue_76: 5076826011635611784
+      Explosion Dust Vfx 384x512 Blue_77: -940417841183239704
+      Explosion Dust Vfx 384x512 Blue_78: 2543375301188246979
+      Explosion Dust Vfx 384x512 Blue_79: 2408644377536028981
+      Explosion Dust Vfx 384x512 Blue_8: 5258465618722232893
+      Explosion Dust Vfx 384x512 Blue_80: -6720068234456637569
+      Explosion Dust Vfx 384x512 Blue_81: 8505117119436919812
+      Explosion Dust Vfx 384x512 Blue_82: 8153594086399631707
+      Explosion Dust Vfx 384x512 Blue_83: 9015108242694551922
+      Explosion Dust Vfx 384x512 Blue_84: -2572410836587664857
+      Explosion Dust Vfx 384x512 Blue_85: -3065199491162727654
+      Explosion Dust Vfx 384x512 Blue_86: -4756651940961736940
+      Explosion Dust Vfx 384x512 Blue_87: 5530246521371599841
+      Explosion Dust Vfx 384x512 Blue_88: 449970809073944086
+      Explosion Dust Vfx 384x512 Blue_89: 2036526373112166668
+      Explosion Dust Vfx 384x512 Blue_9: 4536431286283728851
+      Explosion Dust Vfx 384x512 Blue_90: 8154000915059317986
+      Explosion Dust Vfx 384x512 Blue_91: 6234025628218818467
+      Explosion Dust Vfx 384x512 Blue_92: 4216918690040144012
+      Explosion Dust Vfx 384x512 Blue_93: 5865074012762479607
+      Explosion Dust Vfx 384x512 Blue_94: -8390342877732884505
+      Explosion Dust Vfx 384x512 Blue_95: 2540505956833303492
+      Explosion Dust Vfx 384x512 Blue_96: -6324044428401533984
+      Explosion Dust Vfx 384x512 Blue_97: -7653477223708703938
+      Explosion Dust Vfx 384x512 Blue_98: -9074514434363391274
+      Explosion Dust Vfx 384x512 Blue_99: 8446299970594027909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 1214a18b84d97324382adecb38eaad42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6304536809334808214
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_0
+  - first:
+      213: -845913041220138918
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_1
+  - first:
+      213: 7754352979426984580
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_2
+  - first:
+      213: 7835027040932752128
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_3
+  - first:
+      213: 5335047067366045401
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_4
+  - first:
+      213: 1387869240940241351
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_5
+  - first:
+      213: 3594836345829772674
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_6
+  - first:
+      213: -831517401408726537
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_7
+  - first:
+      213: -1748799275213678617
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_8
+  - first:
+      213: 4638157864979949215
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_9
+  - first:
+      213: 3966724548229467968
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_10
+  - first:
+      213: 9171340280804370698
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_11
+  - first:
+      213: -4562706988150172839
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_12
+  - first:
+      213: 205693735375981983
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_13
+  - first:
+      213: -5884102210373836815
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_14
+  - first:
+      213: -7349488686359145131
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_15
+  - first:
+      213: 6830337927790442692
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_16
+  - first:
+      213: -1439208396369564816
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_17
+  - first:
+      213: -865015330360984085
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_18
+  - first:
+      213: 8838091757029657785
+    second: Shield Elliptic Smooth Crack Break 192x256 Green_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 284
+        width: 142
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61693ebc29c188a0800000000000000
+      internalID: -6304536809334808214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 285
+        width: 142
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5804332296b244f0800000000000000
+      internalID: -845913041220138918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 268
+        width: 87
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482ccb153fefc9b60800000000000000
+      internalID: 7754352979426984580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 435
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b606cf49b9bbc60800000000000000
+      internalID: 7835027040932752128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 384
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b75e9a05e90a40800000000000000
+      internalID: 5335047067366045401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 438
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c12feca8b3b24310800000000000000
+      internalID: 1387869240940241351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 274
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dc8da3c9c63e130800000000000000
+      internalID: 3594836345829772674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_7
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 268
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f91a78345bd574f0800000000000000
+      internalID: -831517401408726537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 290
+        width: 29
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e79d6123540bb7e0800000000000000
+      internalID: -1748799275213678617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 278
+        width: 57
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966052110c0e5040800000000000000
+      internalID: 4638157864979949215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 132
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f0a03c5f2ac0730800000000000000
+      internalID: 3966724548229467968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 186
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09639fb465274f70800000000000000
+      internalID: 9171340280804370698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953dd152b220ea0c0800000000000000
+      internalID: -4562706988150172839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 186
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dcb9dcc55cad200800000000000000
+      internalID: 205693735375981983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff93980738775ea0800000000000000
+      internalID: -5884102210373836815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 29
+        width: 33
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559fc0aafe510a90800000000000000
+      internalID: -7349488686359145131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 60
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b3d9182c3ace50800000000000000
+      internalID: 6830337927790442692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be1a8b697e60ce0800000000000000
+      internalID: -1439208396369564816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 23
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf09cd329def3f0800000000000000
+      internalID: -865015330360984085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Smooth Crack Break 192x256 Green_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 79
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8f0670a537aa70800000000000000
+      internalID: 8838091757029657785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Smooth Crack Break 192x256 Green_0: -6304536809334808214
+      Shield Elliptic Smooth Crack Break 192x256 Green_1: -845913041220138918
+      Shield Elliptic Smooth Crack Break 192x256 Green_10: 3966724548229467968
+      Shield Elliptic Smooth Crack Break 192x256 Green_11: 9171340280804370698
+      Shield Elliptic Smooth Crack Break 192x256 Green_12: -4562706988150172839
+      Shield Elliptic Smooth Crack Break 192x256 Green_13: 205693735375981983
+      Shield Elliptic Smooth Crack Break 192x256 Green_14: -5884102210373836815
+      Shield Elliptic Smooth Crack Break 192x256 Green_15: -7349488686359145131
+      Shield Elliptic Smooth Crack Break 192x256 Green_16: 6830337927790442692
+      Shield Elliptic Smooth Crack Break 192x256 Green_17: -1439208396369564816
+      Shield Elliptic Smooth Crack Break 192x256 Green_18: -865015330360984085
+      Shield Elliptic Smooth Crack Break 192x256 Green_19: 8838091757029657785
+      Shield Elliptic Smooth Crack Break 192x256 Green_2: 7754352979426984580
+      Shield Elliptic Smooth Crack Break 192x256 Green_3: 7835027040932752128
+      Shield Elliptic Smooth Crack Break 192x256 Green_4: 5335047067366045401
+      Shield Elliptic Smooth Crack Break 192x256 Green_5: 1387869240940241351
+      Shield Elliptic Smooth Crack Break 192x256 Green_6: 3594836345829772674
+      Shield Elliptic Smooth Crack Break 192x256 Green_7: -831517401408726537
+      Shield Elliptic Smooth Crack Break 192x256 Green_8: -1748799275213678617
+      Shield Elliptic Smooth Crack Break 192x256 Green_9: 4638157864979949215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: d653aef3d4bd03a458f9c0f16f4de12d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5986373324141926527
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_0
+  - first:
+      213: -6496613128328814913
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_1
+  - first:
+      213: 7734216042434474672
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_2
+  - first:
+      213: 7787098220407812526
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_3
+  - first:
+      213: 7063892504100963611
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_4
+  - first:
+      213: 2965854199223979706
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_5
+  - first:
+      213: -7954091542021836456
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_6
+  - first:
+      213: -6355486231249698372
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_7
+  - first:
+      213: 2040677417847191459
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_8
+  - first:
+      213: -7851428512481227416
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_9
+  - first:
+      213: -8404300675936518635
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_10
+  - first:
+      213: -845452785633386831
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_11
+  - first:
+      213: -4738785681227941680
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_12
+  - first:
+      213: 423332008949012898
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_13
+  - first:
+      213: 5077279943103305508
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_14
+  - first:
+      213: 4898965486524923729
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_15
+  - first:
+      213: -3294729353426679785
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_16
+  - first:
+      213: 8301998222419015677
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_17
+  - first:
+      213: 856801966012195502
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_18
+  - first:
+      213: -3690140702082299226
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_19
+  - first:
+      213: -4258488720472372335
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_20
+  - first:
+      213: -3997005466578149098
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_21
+  - first:
+      213: -5593612385987540424
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_22
+  - first:
+      213: -7230146642474052247
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_23
+  - first:
+      213: 3351976937372068383
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_24
+  - first:
+      213: -886806893652773242
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_25
+  - first:
+      213: 8095181202552330463
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_26
+  - first:
+      213: 8325511616323533960
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_27
+  - first:
+      213: -9038800678988133915
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_28
+  - first:
+      213: -1323481708483029059
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_29
+  - first:
+      213: 6506374005069745229
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_30
+  - first:
+      213: 6666418644332368547
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_31
+  - first:
+      213: 2831152645854595738
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_32
+  - first:
+      213: 8845328621584690634
+    second: Shield Elliptic Hex Collapse with splinters 96x128 BW_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18765a9cd212ceca0800000000000000
+      internalID: -5986373324141926527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe52d2c7c467d5a0800000000000000
+      internalID: -6496613128328814913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 143
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b23f615384755b60800000000000000
+      internalID: 7734216042434474672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 126
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1fb7ad294511c60800000000000000
+      internalID: 7787098220407812526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b158b7e6eccf70260800000000000000
+      internalID: 7063892504100963611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe88503ea4d82920800000000000000
+      internalID: 2965854199223979706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85179d692e36d9190800000000000000
+      internalID: -7954091542021836456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 86
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c97b02f6ccc7a0800000000000000
+      internalID: -6355486231249698372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a771ffac41f15c10800000000000000
+      internalID: 2040677417847191459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dce26dd5f1a0390800000000000000
+      internalID: -7851428512481227416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 86
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e7a39201ded5b80800000000000000
+      internalID: -8404300675936518635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 102
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be15fdbb295444f0800000000000000
+      internalID: -845452785633386831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d873b3b7837c3eb0800000000000000
+      internalID: -4738785681227941680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 30
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9557f183affd500800000000000000
+      internalID: 423332008949012898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42753e9253f167640800000000000000
+      internalID: 5077279943103305508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 73
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f7737772f9cf340800000000000000
+      internalID: 4898965486524923729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 36
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71843f9fb15c642d0800000000000000
+      internalID: -3294729353426679785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 51
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7b53db56f963370800000000000000
+      internalID: 8301998222419015677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2630b39d8f3eb00800000000000000
+      internalID: 856801966012195502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8c29259cf9ccc0800000000000000
+      internalID: -3690140702082299226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b8c38321fc6e4c0800000000000000
+      internalID: -4258488720472372335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a05784b8c788c0800000000000000
+      internalID: -3997005466578149098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83accf1db2f7f52b0800000000000000
+      internalID: -5593612385987540424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 27
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d9558feb59ab90800000000000000
+      internalID: -7230146642474052247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a2d57d34d948e20800000000000000
+      internalID: 3351976937372068383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686757724dd61b3f0800000000000000
+      internalID: -886806893652773242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 30
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd81d82e96cd75070800000000000000
+      internalID: 8095181202552330463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c3a5064b82a8370800000000000000
+      internalID: 8325511616323533960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94a5d0caabf8280800000000000000
+      internalID: -9038800678988133915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75423f56c02ade0800000000000000
+      internalID: -1323481708483029059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c84047fa84b4a50800000000000000
+      internalID: 6506374005069745229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2d873df60e38c50800000000000000
+      internalID: 6666418644332368547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a0211d4564a4720800000000000000
+      internalID: 2831152645854595738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with splinters 96x128 BW_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 7
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda62b448be0ca70800000000000000
+      internalID: 8845328621584690634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_0: -5986373324141926527
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_1: -6496613128328814913
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_10: -8404300675936518635
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_11: -845452785633386831
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_12: -4738785681227941680
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_13: 423332008949012898
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_14: 5077279943103305508
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_15: 4898965486524923729
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_16: -3294729353426679785
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_17: 8301998222419015677
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_18: 856801966012195502
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_19: -3690140702082299226
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_2: 7734216042434474672
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_20: -4258488720472372335
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_21: -3997005466578149098
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_22: -5593612385987540424
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_23: -7230146642474052247
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_24: 3351976937372068383
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_25: -886806893652773242
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_26: 8095181202552330463
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_27: 8325511616323533960
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_28: -9038800678988133915
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_29: -1323481708483029059
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_3: 7787098220407812526
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_30: 6506374005069745229
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_31: 6666418644332368547
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_32: 2831152645854595738
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_33: 8845328621584690634
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_4: 7063892504100963611
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_5: 2965854199223979706
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_6: -7954091542021836456
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_7: -6355486231249698372
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_8: 2040677417847191459
+      Shield Elliptic Hex Collapse with splinters 96x128 BW_9: -7851428512481227416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

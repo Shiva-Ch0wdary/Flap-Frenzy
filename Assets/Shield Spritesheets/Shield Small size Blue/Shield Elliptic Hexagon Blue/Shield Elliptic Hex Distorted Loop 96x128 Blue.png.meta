@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 7550ab34ca36d9a4cb099d79b2a9c530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 593007221939309932
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_0
+  - first:
+      213: -6798616003252824474
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_1
+  - first:
+      213: -4814157673088027436
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_2
+  - first:
+      213: -1383279012915243560
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_3
+  - first:
+      213: -5308790217404969158
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_4
+  - first:
+      213: -4592708218042088437
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_5
+  - first:
+      213: -9133986297393171861
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_6
+  - first:
+      213: -6449254271673522182
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_7
+  - first:
+      213: -7205066351900785046
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_8
+  - first:
+      213: 6918040303327706798
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_9
+  - first:
+      213: 5181308037041234639
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_10
+  - first:
+      213: -2558427131581656992
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_11
+  - first:
+      213: -2040359449767648202
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_12
+  - first:
+      213: -8987466619354797258
+    second: Shield Elliptic Hex Distorted Loop 96x128 Blue_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 271
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0fec2de8ca3800800000000000000
+      internalID: 593007221939309932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 273
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66654d104c676a1a0800000000000000
+      internalID: -6798616003252824474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 270
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4fdd25a1da03db0800000000000000
+      internalID: -4814157673088027436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 271
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d51fe1111b9dcce0800000000000000
+      internalID: -1383279012915243560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 143
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f0288ac636356b0800000000000000
+      internalID: -5308790217404969158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04859a753c6340c0800000000000000
+      internalID: -4592708218042088437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 144
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6238904bdf8d3180800000000000000
+      internalID: -9133986297393171861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 143
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7aab6d865af76a0800000000000000
+      internalID: -6449254271673522182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6685d7b356720c90800000000000000
+      internalID: -7205066351900785046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaefea5a001d10060800000000000000
+      internalID: 6918040303327706798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc228bb3534b7e740800000000000000
+      internalID: 5181308037041234639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609a563414ae7cd0800000000000000
+      internalID: -2558427131581656992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 17
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ec7604ef2fa3e0800000000000000
+      internalID: -2040359449767648202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Distorted Loop 96x128 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 17
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b2da23aba164380800000000000000
+      internalID: -8987466619354797258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_0: 593007221939309932
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_1: -6798616003252824474
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_10: 5181308037041234639
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_11: -2558427131581656992
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_12: -2040359449767648202
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_13: -8987466619354797258
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_2: -4814157673088027436
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_3: -1383279012915243560
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_4: -5308790217404969158
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_5: -4592708218042088437
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_6: -9133986297393171861
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_7: -6449254271673522182
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_8: -7205066351900785046
+      Shield Elliptic Hex Distorted Loop 96x128 Blue_9: 6918040303327706798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: e082ffe81177cda4aaaab4b4a692357a
+  - enabled: 1
+    path: Assets/Scenes/Day Sunny.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Day Winter.unity
+    guid: 7c54fb27d2fa7a747be2a57a38536768
+  - enabled: 1
+    path: Assets/Scenes/Day Caves.unity
+    guid: 78b76e7d752cf6b48b58a818ca5baf78
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

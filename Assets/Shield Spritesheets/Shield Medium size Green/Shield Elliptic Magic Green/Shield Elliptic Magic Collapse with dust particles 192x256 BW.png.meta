@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: acd9280586509fe458ef0e5829fc6bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5509461453302794898
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_0
+  - first:
+      213: -838415980325421615
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_1
+  - first:
+      213: 224928553677635139
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_2
+  - first:
+      213: -3674231123914404877
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_3
+  - first:
+      213: -5300011721075121131
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_4
+  - first:
+      213: 6609560333766963198
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_5
+  - first:
+      213: 1417477015430751923
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_6
+  - first:
+      213: -2977364832601089646
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_7
+  - first:
+      213: -5949190873070924525
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_8
+  - first:
+      213: -6222819537008500817
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_9
+  - first:
+      213: 3970679550944461120
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_10
+  - first:
+      213: -8010225077762079827
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_11
+  - first:
+      213: -1525387479331714216
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_12
+  - first:
+      213: -8376073741384326898
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_13
+  - first:
+      213: 3827031523928506425
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_14
+  - first:
+      213: -4331183047603926744
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_15
+  - first:
+      213: -5514376521724553990
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_16
+  - first:
+      213: 6218113298010861032
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_17
+  - first:
+      213: -3451708952338347899
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_18
+  - first:
+      213: 210819229943813404
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_19
+  - first:
+      213: -6638784917849724962
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_20
+  - first:
+      213: 222190253258340361
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_21
+  - first:
+      213: -5909443508932752478
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_22
+  - first:
+      213: 2994609118264788658
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_23
+  - first:
+      213: 3199736728652006818
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_24
+  - first:
+      213: 7914283582012129419
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_25
+  - first:
+      213: 6429550850336981776
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_26
+  - first:
+      213: 1974025364490010450
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_27
+  - first:
+      213: 1605002822752096316
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_28
+  - first:
+      213: -6318060091795460357
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_29
+  - first:
+      213: -7544816764701443726
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_30
+  - first:
+      213: -4627606011483044275
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_31
+  - first:
+      213: -5072105810365551348
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_32
+  - first:
+      213: -4926400415769958159
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_33
+  - first:
+      213: -3886506719493626841
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_34
+  - first:
+      213: -3494984020725139519
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_35
+  - first:
+      213: -3099400061096989691
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_36
+  - first:
+      213: -4080462329139111410
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_37
+  - first:
+      213: 5018993740939740443
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_38
+  - first:
+      213: -1167397326897201562
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_39
+  - first:
+      213: -1515355613907249498
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_40
+  - first:
+      213: -7680222178122294606
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_41
+  - first:
+      213: 4980717464960616029
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_42
+  - first:
+      213: -3732533401973137723
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_43
+  - first:
+      213: -7110321824249141733
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_44
+  - first:
+      213: 4158274016410480777
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_45
+  - first:
+      213: 1484488431041985018
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_46
+  - first:
+      213: -7576727016362094826
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_47
+  - first:
+      213: 180794536797368691
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_48
+  - first:
+      213: 2860790314919519945
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_49
+  - first:
+      213: -7196441867490988209
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_50
+  - first:
+      213: 905108788992118659
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_51
+  - first:
+      213: 3354541807593602750
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_52
+  - first:
+      213: -6384850698360892843
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_53
+  - first:
+      213: -1486950623943617474
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_54
+  - first:
+      213: -181990840920419295
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_55
+  - first:
+      213: -5220754444360481953
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_56
+  - first:
+      213: 5775547338339453408
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_57
+  - first:
+      213: 9174331683097004366
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_58
+  - first:
+      213: 6515470240700703444
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_59
+  - first:
+      213: 5303248902861312595
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_60
+  - first:
+      213: -205225008352400564
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_61
+  - first:
+      213: -6386720014943974233
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_62
+  - first:
+      213: 4509998783312871033
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_63
+  - first:
+      213: -7041878025073047630
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_64
+  - first:
+      213: -8566391811380754513
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_65
+  - first:
+      213: 2299252662143829748
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_66
+  - first:
+      213: -7486016257926753672
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_67
+  - first:
+      213: 2234056678833616299
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_68
+  - first:
+      213: 8830960002114955075
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_69
+  - first:
+      213: -7561831179652334972
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_70
+  - first:
+      213: 8113222692366793489
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_71
+  - first:
+      213: 1266138142795960755
+    second: Shield Elliptic Magic Collapse with dust particles 192x256 BW_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 291
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a02db500a857c40800000000000000
+      internalID: 5509461453302794898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 290
+        width: 141
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd31b6ab195d54f0800000000000000
+      internalID: -838415980325421615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 288
+        width: 138
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3ccde35b1f1300800000000000000
+      internalID: 224928553677635139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 287
+        width: 141
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc56c7242820dc0800000000000000
+      internalID: -3674231123914404877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 241
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51429eb9b639276b0800000000000000
+      internalID: -5300011721075121131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 30
+        width: 151
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff21b7ca10e9bb50800000000000000
+      internalID: 6609560333766963198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 30
+        width: 145
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e70ed5d3eba310800000000000000
+      internalID: 1417477015430751923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2995212a5764ea6d0800000000000000
+      internalID: -2977364832601089646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d8c9dcb6a307da0800000000000000
+      internalID: -5949190873070924525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 97
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5f3bd99a14a9a0800000000000000
+      internalID: -6222819537008500817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 207
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c3f69300ba1730800000000000000
+      internalID: 3970679550944461120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 221
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c0155bb6f5d090800000000000000
+      internalID: -8010225077762079827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 211
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bca9d5b2cb4dae0800000000000000
+      internalID: -1525387479331714216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016f408f4532cb80800000000000000
+      internalID: -8376073741384326898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 190
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9300bfff4e85c1530800000000000000
+      internalID: 3827031523928506425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829cf5e37fb84e3c0800000000000000
+      internalID: -4331183047603926744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49ad815cff873b0800000000000000
+      internalID: -5514376521724553990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 193
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ede11d791d2b4650800000000000000
+      internalID: 6218113298010861032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 162
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58846dbeef01910d0800000000000000
+      internalID: -3451708952338347899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c155f9009fafce200800000000000000
+      internalID: 210819229943813404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 195
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7a85f7a4c4ed3a0800000000000000
+      internalID: -6638784917849724962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 176
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908740eabd0651300800000000000000
+      internalID: 222190253258340361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 160
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab43dd20707dfda0800000000000000
+      internalID: -5909443508932752478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 184
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6815f702dfe8920800000000000000
+      internalID: 2994609118264788658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c21e0a9fb76c20800000000000000
+      internalID: 3199736728652006818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b800a857cfe25dd60800000000000000
+      internalID: 7914283582012129419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01385a3ee6a5a3950800000000000000
+      internalID: 6429550850336981776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_27
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fb9043c95256b10800000000000000
+      internalID: 1974025364490010450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_28
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 104
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3053a9409d164610800000000000000
+      internalID: 1605002822752096316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 156
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea5fe22ddb158a0800000000000000
+      internalID: -6318060091795460357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 154
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279fe8c602d6b4790800000000000000
+      internalID: -7544816764701443726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 154
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d464715c9d077cfb0800000000000000
+      internalID: -4627606011483044275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 159
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d67fd73a24c99b0800000000000000
+      internalID: -5072105810365551348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e1bc4ce8e1abb0800000000000000
+      internalID: -4926400415769958159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 108
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724e96feaba501ac0800000000000000
+      internalID: -3886506719493626841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f205ec825f7fc0800000000000000
+      internalID: -3494984020725139519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 99
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c6d75d018bcf4d0800000000000000
+      internalID: -3099400061096989691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 133
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0adc4081294f57c0800000000000000
+      internalID: -4080462329139111410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 127
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154f92373c07a540800000000000000
+      internalID: 5018993740939740443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3d8af0529ccfe0800000000000000
+      internalID: -1167397326897201562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 124
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a61aac091068fae0800000000000000
+      internalID: -1515355613907249498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_41
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 122
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba91fcde9e5a6590800000000000000
+      internalID: -7680222178122294606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 122
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56cf8935201f1540800000000000000
+      internalID: 4980717464960616029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce5c1f85a0633cc0800000000000000
+      internalID: -3732533401973137723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 108
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b162ce219ff035d90800000000000000
+      internalID: -7110321824249141733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98032eabf2825b930800000000000000
+      internalID: 4158274016410480777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 111
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93f65ec56f99410800000000000000
+      internalID: 1484488431041985018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 111
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fc1adfbee0ad690800000000000000
+      internalID: -7576727016362094826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_48
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371732f5caf428200800000000000000
+      internalID: 180794536797368691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_49
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6e7a162a193b720800000000000000
+      internalID: 2860790314919519945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6379ff3a112c90800000000000000
+      internalID: -7196441867490988209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_51
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 91
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f85fae5a79f8c00800000000000000
+      internalID: 905108788992118659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe30d9300abd8e20800000000000000
+      internalID: 3354541807593602750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525b444e147467a0800000000000000
+      internalID: -6384850698360892843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349b45294a4d5be0800000000000000
+      internalID: -1486950623943617474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 73
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124509e5b40797df0800000000000000
+      internalID: -181990840920419295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f530a5c5e772c87b0800000000000000
+      internalID: -5220754444360481953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_57
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 60
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90d2d34bdd62050800000000000000
+      internalID: 5775547338339453408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49cb9ede06c15f70800000000000000
+      internalID: 9174331683097004366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 32
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d22899d9a99b6a50800000000000000
+      internalID: 6515470240700703444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_60
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352578287cce89940800000000000000
+      internalID: 5303248902861312595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_61
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4be02631f4e62df0800000000000000
+      internalID: -205225008352400564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_62
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 23
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac03651cffcd57a0800000000000000
+      internalID: -6386720014943974233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_63
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ebec89ffbb69e30800000000000000
+      internalID: 4509998783312871033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_64
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 63
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b744e3ee39364e90800000000000000
+      internalID: -7041878025073047630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_65
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7c5d3c8001e1980800000000000000
+      internalID: -8566391811380754513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f644ff3d1698ef10800000000000000
+      internalID: 2299252662143829748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 13
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8721a7340e35c1890800000000000000
+      internalID: -7486016257926753672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_68
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba577fd76b6f00f10800000000000000
+      internalID: 2234056678833616299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_69
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347aebf555fdd8a70800000000000000
+      internalID: 8830960002114955075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_70
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a795d3b9afe0790800000000000000
+      internalID: -7561831179652334972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_71
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 14
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b39229d05f79070800000000000000
+      internalID: 8113222692366793489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse with dust particles 192x256 BW_72
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11dedbee9329110800000000000000
+      internalID: 1266138142795960755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_0: 5509461453302794898
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_1: -838415980325421615
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_10: 3970679550944461120
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_11: -8010225077762079827
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_12: -1525387479331714216
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_13: -8376073741384326898
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_14: 3827031523928506425
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_15: -4331183047603926744
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_16: -5514376521724553990
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_17: 6218113298010861032
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_18: -3451708952338347899
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_19: 210819229943813404
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_2: 224928553677635139
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_20: -6638784917849724962
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_21: 222190253258340361
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_22: -5909443508932752478
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_23: 2994609118264788658
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_24: 3199736728652006818
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_25: 7914283582012129419
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_26: 6429550850336981776
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_27: 1974025364490010450
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_28: 1605002822752096316
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_29: -6318060091795460357
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_3: -3674231123914404877
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_30: -7544816764701443726
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_31: -4627606011483044275
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_32: -5072105810365551348
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_33: -4926400415769958159
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_34: -3886506719493626841
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_35: -3494984020725139519
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_36: -3099400061096989691
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_37: -4080462329139111410
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_38: 5018993740939740443
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_39: -1167397326897201562
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_4: -5300011721075121131
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_40: -1515355613907249498
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_41: -7680222178122294606
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_42: 4980717464960616029
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_43: -3732533401973137723
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_44: -7110321824249141733
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_45: 4158274016410480777
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_46: 1484488431041985018
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_47: -7576727016362094826
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_48: 180794536797368691
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_49: 2860790314919519945
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_5: 6609560333766963198
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_50: -7196441867490988209
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_51: 905108788992118659
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_52: 3354541807593602750
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_53: -6384850698360892843
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_54: -1486950623943617474
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_55: -181990840920419295
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_56: -5220754444360481953
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_57: 5775547338339453408
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_58: 9174331683097004366
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_59: 6515470240700703444
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_6: 1417477015430751923
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_60: 5303248902861312595
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_61: -205225008352400564
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_62: -6386720014943974233
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_63: 4509998783312871033
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_64: -7041878025073047630
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_65: -8566391811380754513
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_66: 2299252662143829748
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_67: -7486016257926753672
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_68: 2234056678833616299
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_69: 8830960002114955075
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_7: -2977364832601089646
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_70: -7561831179652334972
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_71: 8113222692366793489
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_72: 1266138142795960755
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_8: -5949190873070924525
+      Shield Elliptic Magic Collapse with dust particles 192x256 BW_9: -6222819537008500817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 2ae6cea57f22e674f9e10fe2621b08fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7100018908245676346
+    second: Shield Round Hex Pulse Loop 256x256 Green_0
+  - first:
+      213: -365415978725053557
+    second: Shield Round Hex Pulse Loop 256x256 Green_1
+  - first:
+      213: -8293703125102551986
+    second: Shield Round Hex Pulse Loop 256x256 Green_2
+  - first:
+      213: 7853031651895727521
+    second: Shield Round Hex Pulse Loop 256x256 Green_3
+  - first:
+      213: -2034820194865911158
+    second: Shield Round Hex Pulse Loop 256x256 Green_4
+  - first:
+      213: -3603282265987902556
+    second: Shield Round Hex Pulse Loop 256x256 Green_5
+  - first:
+      213: 1571388633764704421
+    second: Shield Round Hex Pulse Loop 256x256 Green_6
+  - first:
+      213: 475802102240053662
+    second: Shield Round Hex Pulse Loop 256x256 Green_7
+  - first:
+      213: 5954224527768553783
+    second: Shield Round Hex Pulse Loop 256x256 Green_8
+  - first:
+      213: 4156416163994888693
+    second: Shield Round Hex Pulse Loop 256x256 Green_9
+  - first:
+      213: 4721350921777657352
+    second: Shield Round Hex Pulse Loop 256x256 Green_10
+  - first:
+      213: 6103111287308765275
+    second: Shield Round Hex Pulse Loop 256x256 Green_11
+  - first:
+      213: 608382976848919696
+    second: Shield Round Hex Pulse Loop 256x256 Green_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 803
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea573ab6aa77d90800000000000000
+      internalID: -7100018908245676346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 803
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b67d87a18cdeaf0800000000000000
+      internalID: -365415978725053557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 803
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c17bb13f8d6ec80800000000000000
+      internalID: -8293703125102551986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 803
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5d4252ea29bfc60800000000000000
+      internalID: 7853031651895727521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 547
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae93f40ddd2c3e0800000000000000
+      internalID: -2034820194865911158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 547
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3935ebed19efdc0800000000000000
+      internalID: -3603282265987902556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 547
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b1a703a1bec510800000000000000
+      internalID: 1571388633764704421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 547
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e990767bd736a9600800000000000000
+      internalID: 475802102240053662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739009249a7a1a250800000000000000
+      internalID: 5954224527768553783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 291
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f96b91ca7e8ea930800000000000000
+      internalID: 4156416163994888693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 291
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806358806ab958140800000000000000
+      internalID: 4721350921777657352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_11
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 291
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5847b0516b92b450800000000000000
+      internalID: 6103111287308765275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Pulse Loop 256x256 Green_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c79761819617800800000000000000
+      internalID: 608382976848919696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Hex Pulse Loop 256x256 Green_0: -7100018908245676346
+      Shield Round Hex Pulse Loop 256x256 Green_1: -365415978725053557
+      Shield Round Hex Pulse Loop 256x256 Green_10: 4721350921777657352
+      Shield Round Hex Pulse Loop 256x256 Green_11: 6103111287308765275
+      Shield Round Hex Pulse Loop 256x256 Green_12: 608382976848919696
+      Shield Round Hex Pulse Loop 256x256 Green_2: -8293703125102551986
+      Shield Round Hex Pulse Loop 256x256 Green_3: 7853031651895727521
+      Shield Round Hex Pulse Loop 256x256 Green_4: -2034820194865911158
+      Shield Round Hex Pulse Loop 256x256 Green_5: -3603282265987902556
+      Shield Round Hex Pulse Loop 256x256 Green_6: 1571388633764704421
+      Shield Round Hex Pulse Loop 256x256 Green_7: 475802102240053662
+      Shield Round Hex Pulse Loop 256x256 Green_8: 5954224527768553783
+      Shield Round Hex Pulse Loop 256x256 Green_9: 4156416163994888693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

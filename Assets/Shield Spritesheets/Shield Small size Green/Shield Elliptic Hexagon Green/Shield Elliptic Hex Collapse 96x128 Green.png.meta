@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 8116d17463bfa884a897bae77ba8d955
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -852720911496742028
+    second: Shield Elliptic Hex Collapse 96x128 Green_0
+  - first:
+      213: -2646825982132588576
+    second: Shield Elliptic Hex Collapse 96x128 Green_1
+  - first:
+      213: 3226496988215413402
+    second: Shield Elliptic Hex Collapse 96x128 Green_2
+  - first:
+      213: -1208596763875735360
+    second: Shield Elliptic Hex Collapse 96x128 Green_3
+  - first:
+      213: 2966329493921123523
+    second: Shield Elliptic Hex Collapse 96x128 Green_4
+  - first:
+      213: -2213753989196197393
+    second: Shield Elliptic Hex Collapse 96x128 Green_5
+  - first:
+      213: -5250359499112485399
+    second: Shield Elliptic Hex Collapse 96x128 Green_6
+  - first:
+      213: 246455819898410719
+    second: Shield Elliptic Hex Collapse 96x128 Green_7
+  - first:
+      213: 6164856712404846827
+    second: Shield Elliptic Hex Collapse 96x128 Green_8
+  - first:
+      213: 5110273688950521750
+    second: Shield Elliptic Hex Collapse 96x128 Green_9
+  - first:
+      213: 1325028692760271498
+    second: Shield Elliptic Hex Collapse 96x128 Green_10
+  - first:
+      213: 6060593018208282804
+    second: Shield Elliptic Hex Collapse 96x128 Green_11
+  - first:
+      213: -5528516087808310
+    second: Shield Elliptic Hex Collapse 96x128 Green_12
+  - first:
+      213: -7975958492191629532
+    second: Shield Elliptic Hex Collapse 96x128 Green_13
+  - first:
+      213: -4651950131193134128
+    second: Shield Elliptic Hex Collapse 96x128 Green_14
+  - first:
+      213: -6304710188640694629
+    second: Shield Elliptic Hex Collapse 96x128 Green_15
+  - first:
+      213: -8913503168287608602
+    second: Shield Elliptic Hex Collapse 96x128 Green_16
+  - first:
+      213: -2566689038516527630
+    second: Shield Elliptic Hex Collapse 96x128 Green_17
+  - first:
+      213: 5943255039898126135
+    second: Shield Elliptic Hex Collapse 96x128 Green_18
+  - first:
+      213: -2810282056833220167
+    second: Shield Elliptic Hex Collapse 96x128 Green_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b70b159d68a24f0800000000000000
+      internalID: -852720911496742028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef66b0fac5944bd0800000000000000
+      internalID: -2646825982132588576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 143
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a82738ae1d6cc20800000000000000
+      internalID: 3226496988215413402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 143
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8008c85a33a3fe0800000000000000
+      internalID: -1208596763875735360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccceeb55f48a2920800000000000000
+      internalID: 2966329493921123523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15bddc97a2741e0800000000000000
+      internalID: -2213753989196197393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6d486ad9f227b0800000000000000
+      internalID: -5250359499112485399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd65fdd23469b6300800000000000000
+      internalID: 246455819898410719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 87
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c2126488fd8550800000000000000
+      internalID: 6164856712404846827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 75
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fbbee38d65be640800000000000000
+      internalID: 5110273688950521750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 86
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a1d256392736210800000000000000
+      internalID: 1325028692760271498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 33
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8648a5d3d8b1450800000000000000
+      internalID: 6060593018208282804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 51
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace737a08db5ceff0800000000000000
+      internalID: -5528516087808310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f58a18204bf4190800000000000000
+      internalID: -7975958492191629532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c665b004f07fb0800000000000000
+      internalID: -4651950131193134128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 36
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e094abc7b2188a0800000000000000
+      internalID: -6304710188640694629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0f5ed1810ec4480800000000000000
+      internalID: -8913503168287608602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd555a1be9416cd0800000000000000
+      internalID: -2566689038516527630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378da658feaa7250800000000000000
+      internalID: 5943255039898126135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse 96x128 Green_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 13
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14dcbdb5fdff8d0800000000000000
+      internalID: -2810282056833220167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Hex Collapse 96x128 Green_0: -852720911496742028
+      Shield Elliptic Hex Collapse 96x128 Green_1: -2646825982132588576
+      Shield Elliptic Hex Collapse 96x128 Green_10: 1325028692760271498
+      Shield Elliptic Hex Collapse 96x128 Green_11: 6060593018208282804
+      Shield Elliptic Hex Collapse 96x128 Green_12: -5528516087808310
+      Shield Elliptic Hex Collapse 96x128 Green_13: -7975958492191629532
+      Shield Elliptic Hex Collapse 96x128 Green_14: -4651950131193134128
+      Shield Elliptic Hex Collapse 96x128 Green_15: -6304710188640694629
+      Shield Elliptic Hex Collapse 96x128 Green_16: -8913503168287608602
+      Shield Elliptic Hex Collapse 96x128 Green_17: -2566689038516527630
+      Shield Elliptic Hex Collapse 96x128 Green_18: 5943255039898126135
+      Shield Elliptic Hex Collapse 96x128 Green_19: -2810282056833220167
+      Shield Elliptic Hex Collapse 96x128 Green_2: 3226496988215413402
+      Shield Elliptic Hex Collapse 96x128 Green_3: -1208596763875735360
+      Shield Elliptic Hex Collapse 96x128 Green_4: 2966329493921123523
+      Shield Elliptic Hex Collapse 96x128 Green_5: -2213753989196197393
+      Shield Elliptic Hex Collapse 96x128 Green_6: -5250359499112485399
+      Shield Elliptic Hex Collapse 96x128 Green_7: 246455819898410719
+      Shield Elliptic Hex Collapse 96x128 Green_8: 6164856712404846827
+      Shield Elliptic Hex Collapse 96x128 Green_9: 5110273688950521750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

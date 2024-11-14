@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: ade2256769a757d4f908c159fb993825
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3925429506932488757
+    second: Shield Round Hex Collapse with splinters 512x512 BW_0
+  - first:
+      213: 8495100990267087707
+    second: Shield Round Hex Collapse with splinters 512x512 BW_1
+  - first:
+      213: 3808946546932488468
+    second: Shield Round Hex Collapse with splinters 512x512 BW_2
+  - first:
+      213: -1565024122366605506
+    second: Shield Round Hex Collapse with splinters 512x512 BW_3
+  - first:
+      213: -5057405875707564797
+    second: Shield Round Hex Collapse with splinters 512x512 BW_4
+  - first:
+      213: 3734857481331651341
+    second: Shield Round Hex Collapse with splinters 512x512 BW_5
+  - first:
+      213: 2929499093930241281
+    second: Shield Round Hex Collapse with splinters 512x512 BW_6
+  - first:
+      213: -5489506045604587235
+    second: Shield Round Hex Collapse with splinters 512x512 BW_7
+  - first:
+      213: 8264167636899081759
+    second: Shield Round Hex Collapse with splinters 512x512 BW_8
+  - first:
+      213: 8069839521416611765
+    second: Shield Round Hex Collapse with splinters 512x512 BW_9
+  - first:
+      213: 603652125576684955
+    second: Shield Round Hex Collapse with splinters 512x512 BW_10
+  - first:
+      213: 7869755166412677379
+    second: Shield Round Hex Collapse with splinters 512x512 BW_11
+  - first:
+      213: -8156268398229586810
+    second: Shield Round Hex Collapse with splinters 512x512 BW_12
+  - first:
+      213: 2669247966870498306
+    second: Shield Round Hex Collapse with splinters 512x512 BW_13
+  - first:
+      213: -7586031862490681612
+    second: Shield Round Hex Collapse with splinters 512x512 BW_14
+  - first:
+      213: 3894432609787047898
+    second: Shield Round Hex Collapse with splinters 512x512 BW_15
+  - first:
+      213: -9029104301134077380
+    second: Shield Round Hex Collapse with splinters 512x512 BW_16
+  - first:
+      213: 4513737396249816908
+    second: Shield Round Hex Collapse with splinters 512x512 BW_17
+  - first:
+      213: -723120254606767866
+    second: Shield Round Hex Collapse with splinters 512x512 BW_18
+  - first:
+      213: 8867890059456482046
+    second: Shield Round Hex Collapse with splinters 512x512 BW_19
+  - first:
+      213: 3055262805151432984
+    second: Shield Round Hex Collapse with splinters 512x512 BW_20
+  - first:
+      213: 6154043518953032474
+    second: Shield Round Hex Collapse with splinters 512x512 BW_21
+  - first:
+      213: -8880155942456450788
+    second: Shield Round Hex Collapse with splinters 512x512 BW_22
+  - first:
+      213: -8852494432908595022
+    second: Shield Round Hex Collapse with splinters 512x512 BW_23
+  - first:
+      213: 8813724825940474932
+    second: Shield Round Hex Collapse with splinters 512x512 BW_24
+  - first:
+      213: 4505706836854604872
+    second: Shield Round Hex Collapse with splinters 512x512 BW_25
+  - first:
+      213: 3006412378291226327
+    second: Shield Round Hex Collapse with splinters 512x512 BW_26
+  - first:
+      213: 21687030174632095
+    second: Shield Round Hex Collapse with splinters 512x512 BW_27
+  - first:
+      213: 6961351754705958793
+    second: Shield Round Hex Collapse with splinters 512x512 BW_28
+  - first:
+      213: -2169776047482381269
+    second: Shield Round Hex Collapse with splinters 512x512 BW_29
+  - first:
+      213: -6191443759396170058
+    second: Shield Round Hex Collapse with splinters 512x512 BW_30
+  - first:
+      213: -7861786550157837089
+    second: Shield Round Hex Collapse with splinters 512x512 BW_31
+  - first:
+      213: -1434438593959138756
+    second: Shield Round Hex Collapse with splinters 512x512 BW_32
+  - first:
+      213: 415592094457111785
+    second: Shield Round Hex Collapse with splinters 512x512 BW_33
+  - first:
+      213: 2400582170582624320
+    second: Shield Round Hex Collapse with splinters 512x512 BW_34
+  - first:
+      213: 7043658803229667856
+    second: Shield Round Hex Collapse with splinters 512x512 BW_35
+  - first:
+      213: 8099602004694343257
+    second: Shield Round Hex Collapse with splinters 512x512 BW_36
+  - first:
+      213: -6046211539940596577
+    second: Shield Round Hex Collapse with splinters 512x512 BW_37
+  - first:
+      213: -5822505659641022691
+    second: Shield Round Hex Collapse with splinters 512x512 BW_38
+  - first:
+      213: -1626545471590425279
+    second: Shield Round Hex Collapse with splinters 512x512 BW_39
+  - first:
+      213: -8572392463267828879
+    second: Shield Round Hex Collapse with splinters 512x512 BW_40
+  - first:
+      213: -7493192809209771614
+    second: Shield Round Hex Collapse with splinters 512x512 BW_41
+  - first:
+      213: -2828161101584334381
+    second: Shield Round Hex Collapse with splinters 512x512 BW_42
+  - first:
+      213: -8154344408847979884
+    second: Shield Round Hex Collapse with splinters 512x512 BW_43
+  - first:
+      213: 6548724403532473502
+    second: Shield Round Hex Collapse with splinters 512x512 BW_44
+  - first:
+      213: -6683482014373519187
+    second: Shield Round Hex Collapse with splinters 512x512 BW_45
+  - first:
+      213: 5374234501530345430
+    second: Shield Round Hex Collapse with splinters 512x512 BW_46
+  - first:
+      213: -7031582318365313348
+    second: Shield Round Hex Collapse with splinters 512x512 BW_47
+  - first:
+      213: 5857797634605577520
+    second: Shield Round Hex Collapse with splinters 512x512 BW_48
+  - first:
+      213: 7198582659607030273
+    second: Shield Round Hex Collapse with splinters 512x512 BW_49
+  - first:
+      213: 1987678741878980348
+    second: Shield Round Hex Collapse with splinters 512x512 BW_50
+  - first:
+      213: -3324089277879016497
+    second: Shield Round Hex Collapse with splinters 512x512 BW_51
+  - first:
+      213: 2708297917055155670
+    second: Shield Round Hex Collapse with splinters 512x512 BW_52
+  - first:
+      213: -1232776139075479320
+    second: Shield Round Hex Collapse with splinters 512x512 BW_53
+  - first:
+      213: -6862988923235494950
+    second: Shield Round Hex Collapse with splinters 512x512 BW_54
+  - first:
+      213: -3109645232597723597
+    second: Shield Round Hex Collapse with splinters 512x512 BW_55
+  - first:
+      213: -6274414256839104378
+    second: Shield Round Hex Collapse with splinters 512x512 BW_56
+  - first:
+      213: 8904461417391347853
+    second: Shield Round Hex Collapse with splinters 512x512 BW_57
+  - first:
+      213: -2181275208298944129
+    second: Shield Round Hex Collapse with splinters 512x512 BW_58
+  - first:
+      213: 3235373961408785553
+    second: Shield Round Hex Collapse with splinters 512x512 BW_59
+  - first:
+      213: -5634043550301680704
+    second: Shield Round Hex Collapse with splinters 512x512 BW_60
+  - first:
+      213: 1340104696705983847
+    second: Shield Round Hex Collapse with splinters 512x512 BW_61
+  - first:
+      213: 4430351461911247708
+    second: Shield Round Hex Collapse with splinters 512x512 BW_62
+  - first:
+      213: -2779313807029810962
+    second: Shield Round Hex Collapse with splinters 512x512 BW_63
+  - first:
+      213: -6147179299650567053
+    second: Shield Round Hex Collapse with splinters 512x512 BW_64
+  - first:
+      213: -8596156285081851446
+    second: Shield Round Hex Collapse with splinters 512x512 BW_65
+  - first:
+      213: 5414300352318436055
+    second: Shield Round Hex Collapse with splinters 512x512 BW_66
+  - first:
+      213: 195718284191765204
+    second: Shield Round Hex Collapse with splinters 512x512 BW_67
+  - first:
+      213: -7707941233286179592
+    second: Shield Round Hex Collapse with splinters 512x512 BW_68
+  - first:
+      213: 3582180400558123962
+    second: Shield Round Hex Collapse with splinters 512x512 BW_69
+  - first:
+      213: -7690589456743019857
+    second: Shield Round Hex Collapse with splinters 512x512 BW_70
+  - first:
+      213: -5351931393491005919
+    second: Shield Round Hex Collapse with splinters 512x512 BW_71
+  - first:
+      213: 5624863203465756968
+    second: Shield Round Hex Collapse with splinters 512x512 BW_72
+  - first:
+      213: -866006494450399443
+    second: Shield Round Hex Collapse with splinters 512x512 BW_73
+  - first:
+      213: -5807437608708208996
+    second: Shield Round Hex Collapse with splinters 512x512 BW_74
+  - first:
+      213: -9188727919352815614
+    second: Shield Round Hex Collapse with splinters 512x512 BW_75
+  - first:
+      213: 4440850134358519499
+    second: Shield Round Hex Collapse with splinters 512x512 BW_76
+  - first:
+      213: 5253307640438271418
+    second: Shield Round Hex Collapse with splinters 512x512 BW_77
+  - first:
+      213: -7958000627103608677
+    second: Shield Round Hex Collapse with splinters 512x512 BW_78
+  - first:
+      213: 5767439902997915887
+    second: Shield Round Hex Collapse with splinters 512x512 BW_79
+  - first:
+      213: 8803081554852952622
+    second: Shield Round Hex Collapse with splinters 512x512 BW_80
+  - first:
+      213: 1434208985658131299
+    second: Shield Round Hex Collapse with splinters 512x512 BW_81
+  - first:
+      213: -8811730892089309986
+    second: Shield Round Hex Collapse with splinters 512x512 BW_82
+  - first:
+      213: -2171157997469856163
+    second: Shield Round Hex Collapse with splinters 512x512 BW_83
+  - first:
+      213: 1571061359811840440
+    second: Shield Round Hex Collapse with splinters 512x512 BW_84
+  - first:
+      213: 550408777730325220
+    second: Shield Round Hex Collapse with splinters 512x512 BW_85
+  - first:
+      213: -5676017533538974246
+    second: Shield Round Hex Collapse with splinters 512x512 BW_86
+  - first:
+      213: -7352582915749300838
+    second: Shield Round Hex Collapse with splinters 512x512 BW_87
+  - first:
+      213: 6677901030616342727
+    second: Shield Round Hex Collapse with splinters 512x512 BW_88
+  - first:
+      213: 3220207124216621292
+    second: Shield Round Hex Collapse with splinters 512x512 BW_89
+  - first:
+      213: -3339197424611352619
+    second: Shield Round Hex Collapse with splinters 512x512 BW_90
+  - first:
+      213: -5802997618980015124
+    second: Shield Round Hex Collapse with splinters 512x512 BW_91
+  - first:
+      213: 216138649199247229
+    second: Shield Round Hex Collapse with splinters 512x512 BW_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1605
+        width: 367
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c37849a21689c0800000000000000
+      internalID: -3925429506932488757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1603
+        width: 373
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b50f77759a4e570800000000000000
+      internalID: 8495100990267087707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_2
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1602
+        width: 385
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4199c5a24b81cd430800000000000000
+      internalID: 3808946546932488468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_3
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1600
+        width: 380
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37cb614adae74ae0800000000000000
+      internalID: -1565024122366605506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_4
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1527
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2a7db62c70d9b0800000000000000
+      internalID: -5057405875707564797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_5
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1468
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03bb755711e4d330800000000000000
+      internalID: 3734857481331651341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_6
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1499
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d6a8f97eba7a820800000000000000
+      internalID: 2929499093930241281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1285
+        width: 189
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19116f065b51d3b0800000000000000
+      internalID: -5489506045604587235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_8
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1467
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e26a92ea830b270800000000000000
+      internalID: 8264167636899081759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_9
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1447
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b70274f944ddff60800000000000000
+      internalID: 8069839521416611765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_10
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1454
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9568e0f86a906800800000000000000
+      internalID: 603652125576684955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_11
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1461
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a25bc0acf63d60800000000000000
+      internalID: 7869755166412677379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_12
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1435
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf7c60b1d1fce80800000000000000
+      internalID: -8156268398229586810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1062
+        width: 401
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cefb232e21b0520800000000000000
+      internalID: 2669247966870498306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1347
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fea27da63009b690800000000000000
+      internalID: -7586031862490681612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1285
+        width: 150
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfed0433ddcb0630800000000000000
+      internalID: 3894432609787047898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_16
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1431
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a3f2f97d22b280800000000000000
+      internalID: -9029104301134077380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_17
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1375
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fedd04f3404ae30800000000000000
+      internalID: 4513737396249816908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_18
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1437
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609064ea5f5f6f5f0800000000000000
+      internalID: -723120254606767866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_19
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1432
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0f156603111b70800000000000000
+      internalID: 8867890059456482046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_20
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1441
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811c3847559766a20800000000000000
+      internalID: 3055262805151432984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_21
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1420
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8d7799fd876550800000000000000
+      internalID: 6154043518953032474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_22
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1423
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112fcb283953c480800000000000000
+      internalID: -8880155942456450788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_23
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1395
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03c5e373f952580800000000000000
+      internalID: -8852494432908595022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_24
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1400
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c39363804a05a70800000000000000
+      internalID: 8813724825940474932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_25
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1375
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84484c0fe7c778e30800000000000000
+      internalID: 4505706836854604872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_26
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1406
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6c260212ce8b920800000000000000
+      internalID: 3006412378291226327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_27
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1405
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98cac13d3c0d4000800000000000000
+      internalID: 21687030174632095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_28
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1335
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9877acfb980bb9060800000000000000
+      internalID: 6961351754705958793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_29
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1406
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c59a74e2863e1e0800000000000000
+      internalID: -2169776047482381269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_30
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1366
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d16a54b2931aa0800000000000000
+      internalID: -6191443759396170058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1149
+        width: 205
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf5e149c255e290800000000000000
+      internalID: -7861786550157837089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_32
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1378
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a64f2e2b9d71ce0800000000000000
+      internalID: -1434438593959138756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_33
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1373
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a399deca74c500800000000000000
+      internalID: 415592094457111785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_34
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1371
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a6bbe3c4905120800000000000000
+      internalID: 2400582170582624320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_35
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1370
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012be85dc5a10c160800000000000000
+      internalID: 7043658803229667856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_36
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1378
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e19d71c11976070800000000000000
+      internalID: 8099602004694343257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_37
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1373
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9429fc73aa871ca0800000000000000
+      internalID: -6046211539940596577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_38
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1186
+        width: 193
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17356693fd423fa0800000000000000
+      internalID: -5822505659641022691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_39
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1232
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d15dae2895d69e0800000000000000
+      internalID: -1626545471590425279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_40
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1289
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6faf197eb80980800000000000000
+      internalID: -8572392463267828879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_41
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1351
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a94a8537d4d20890800000000000000
+      internalID: -7493192809209771614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1331
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d10d7c567a50c8d0800000000000000
+      internalID: -2828161101584334381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_43
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1342
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a6c66b6f2f5de80800000000000000
+      internalID: -8154344408847979884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_44
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1319
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e942c7cf52eb1ea50800000000000000
+      internalID: 6548724403532473502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_45
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1329
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ed8eb4808f33a0800000000000000
+      internalID: -6683482014373519187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_46
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1322
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df5d532ecd159a40800000000000000
+      internalID: 5374234501530345430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_47
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1168
+        width: 157
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6fae8e22dca6e90800000000000000
+      internalID: -7031582318365313348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_48
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1228
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f9c8a9e31b4150800000000000000
+      internalID: 5857797634605577520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_49
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1170
+        width: 164
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae9280ac086e360800000000000000
+      internalID: 7198582659607030273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_50
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1170
+        width: 130
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeba49d847a59b10800000000000000
+      internalID: 1987678741878980348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_51
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1188
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3265ed9667ed1d0800000000000000
+      internalID: -3324089277879016497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_52
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1179
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb00c3b9ec59520800000000000000
+      internalID: 2708297917055155670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_53
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1196
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e814de02ac44eee0800000000000000
+      internalID: -1232776139075479320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1204
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad39b1d9fe3c1c0a0800000000000000
+      internalID: -6862988923235494950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_55
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1159
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369685f22258d4d0800000000000000
+      internalID: -3109645232597723597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_56
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1169
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68865770a7dcce8a0800000000000000
+      internalID: -6274414256839104378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_57
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1159
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8858c33b70039b70800000000000000
+      internalID: 8904461417391347853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_58
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1182
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a9f341cd8ab1e0800000000000000
+      internalID: -2181275208298944129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_59
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1161
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca155e97b56ec20800000000000000
+      internalID: 3235373961408785553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_60
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1179
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb003fcd3bdfc1b0800000000000000
+      internalID: -5634043550301680704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_61
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1184
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652ef81f12099210800000000000000
+      internalID: 1340104696705983847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_62
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1172
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b3a5d7e25cb7d30800000000000000
+      internalID: 4430351461911247708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_63
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1154
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee846a461d4ed69d0800000000000000
+      internalID: -2779313807029810962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_64
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1170
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37481b10ff4d0baa0800000000000000
+      internalID: -6147179299650567053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_65
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1174
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac964f1376154b880800000000000000
+      internalID: -8596156285081851446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_66
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1147
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d27637fb75732b40800000000000000
+      internalID: 5414300352318436055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_67
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1123
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29c451eb457b200800000000000000
+      internalID: 195718284191765204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_68
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1167
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f414686944e70590800000000000000
+      internalID: -7707941233286179592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_69
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1167
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb22a8581676b130800000000000000
+      internalID: 3582180400558123962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_70
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1133
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faac775b2a9854590800000000000000
+      internalID: -7690589456743019857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_71
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1122
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e05bcd0ce1ab5b0800000000000000
+      internalID: -5351931393491005919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_72
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1119
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8210eb028478f0e40800000000000000
+      internalID: 5624863203465756968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_73
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1135
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274a1d7ea35bf3f0800000000000000
+      internalID: -866006494450399443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_74
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1138
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9604b59346d76fa0800000000000000
+      internalID: -5807437608708208996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_75
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1121
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200e24d24a41b7080800000000000000
+      internalID: -9188727919352815614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_76
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1122
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce6f272ba111ad30800000000000000
+      internalID: 4440850134358519499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1097
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2b2c377f77e840800000000000000
+      internalID: 5253307640438271418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_78
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1087
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90572bc7908f8190800000000000000
+      internalID: -7958000627103608677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_79
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1082
+        width: 89
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8aa99d8001a0050800000000000000
+      internalID: 5767439902997915887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_80
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1090
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abdcd8804da2a70800000000000000
+      internalID: 8803081554852952622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_81
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1099
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36383d3497557e310800000000000000
+      internalID: 1434208985658131299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_82
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1097
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44ea0b07176b580800000000000000
+      internalID: -8811730892089309986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_83
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1023
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8f89fd4f7ed1e0800000000000000
+      internalID: -2171157997469856163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_84
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1099
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b94def9bf78dc510800000000000000
+      internalID: 1571061359811840440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_85
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1087
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea7fddfdd173a700800000000000000
+      internalID: 550408777730325220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_86
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1061
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54586402cba31b0800000000000000
+      internalID: -5676017533538974246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_87
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1031
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9538253bc066f990800000000000000
+      internalID: -7352582915749300838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_88
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1060
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c02a173b9bacac50800000000000000
+      internalID: 6677901030616342727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_89
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1025
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82d1e615970bc20800000000000000
+      internalID: 3220207124216621292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_90
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1053
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df142752a9c8a1d0800000000000000
+      internalID: -3339197424611352619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_91
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1050
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce33240496c977fa0800000000000000
+      internalID: -5802997618980015124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with splinters 512x512 BW_92
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1026
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff0cfc4f0eff200800000000000000
+      internalID: 216138649199247229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Hex Collapse with splinters 512x512 BW_0: -3925429506932488757
+      Shield Round Hex Collapse with splinters 512x512 BW_1: 8495100990267087707
+      Shield Round Hex Collapse with splinters 512x512 BW_10: 603652125576684955
+      Shield Round Hex Collapse with splinters 512x512 BW_11: 7869755166412677379
+      Shield Round Hex Collapse with splinters 512x512 BW_12: -8156268398229586810
+      Shield Round Hex Collapse with splinters 512x512 BW_13: 2669247966870498306
+      Shield Round Hex Collapse with splinters 512x512 BW_14: -7586031862490681612
+      Shield Round Hex Collapse with splinters 512x512 BW_15: 3894432609787047898
+      Shield Round Hex Collapse with splinters 512x512 BW_16: -9029104301134077380
+      Shield Round Hex Collapse with splinters 512x512 BW_17: 4513737396249816908
+      Shield Round Hex Collapse with splinters 512x512 BW_18: -723120254606767866
+      Shield Round Hex Collapse with splinters 512x512 BW_19: 8867890059456482046
+      Shield Round Hex Collapse with splinters 512x512 BW_2: 3808946546932488468
+      Shield Round Hex Collapse with splinters 512x512 BW_20: 3055262805151432984
+      Shield Round Hex Collapse with splinters 512x512 BW_21: 6154043518953032474
+      Shield Round Hex Collapse with splinters 512x512 BW_22: -8880155942456450788
+      Shield Round Hex Collapse with splinters 512x512 BW_23: -8852494432908595022
+      Shield Round Hex Collapse with splinters 512x512 BW_24: 8813724825940474932
+      Shield Round Hex Collapse with splinters 512x512 BW_25: 4505706836854604872
+      Shield Round Hex Collapse with splinters 512x512 BW_26: 3006412378291226327
+      Shield Round Hex Collapse with splinters 512x512 BW_27: 21687030174632095
+      Shield Round Hex Collapse with splinters 512x512 BW_28: 6961351754705958793
+      Shield Round Hex Collapse with splinters 512x512 BW_29: -2169776047482381269
+      Shield Round Hex Collapse with splinters 512x512 BW_3: -1565024122366605506
+      Shield Round Hex Collapse with splinters 512x512 BW_30: -6191443759396170058
+      Shield Round Hex Collapse with splinters 512x512 BW_31: -7861786550157837089
+      Shield Round Hex Collapse with splinters 512x512 BW_32: -1434438593959138756
+      Shield Round Hex Collapse with splinters 512x512 BW_33: 415592094457111785
+      Shield Round Hex Collapse with splinters 512x512 BW_34: 2400582170582624320
+      Shield Round Hex Collapse with splinters 512x512 BW_35: 7043658803229667856
+      Shield Round Hex Collapse with splinters 512x512 BW_36: 8099602004694343257
+      Shield Round Hex Collapse with splinters 512x512 BW_37: -6046211539940596577
+      Shield Round Hex Collapse with splinters 512x512 BW_38: -5822505659641022691
+      Shield Round Hex Collapse with splinters 512x512 BW_39: -1626545471590425279
+      Shield Round Hex Collapse with splinters 512x512 BW_4: -5057405875707564797
+      Shield Round Hex Collapse with splinters 512x512 BW_40: -8572392463267828879
+      Shield Round Hex Collapse with splinters 512x512 BW_41: -7493192809209771614
+      Shield Round Hex Collapse with splinters 512x512 BW_42: -2828161101584334381
+      Shield Round Hex Collapse with splinters 512x512 BW_43: -8154344408847979884
+      Shield Round Hex Collapse with splinters 512x512 BW_44: 6548724403532473502
+      Shield Round Hex Collapse with splinters 512x512 BW_45: -6683482014373519187
+      Shield Round Hex Collapse with splinters 512x512 BW_46: 5374234501530345430
+      Shield Round Hex Collapse with splinters 512x512 BW_47: -7031582318365313348
+      Shield Round Hex Collapse with splinters 512x512 BW_48: 5857797634605577520
+      Shield Round Hex Collapse with splinters 512x512 BW_49: 7198582659607030273
+      Shield Round Hex Collapse with splinters 512x512 BW_5: 3734857481331651341
+      Shield Round Hex Collapse with splinters 512x512 BW_50: 1987678741878980348
+      Shield Round Hex Collapse with splinters 512x512 BW_51: -3324089277879016497
+      Shield Round Hex Collapse with splinters 512x512 BW_52: 2708297917055155670
+      Shield Round Hex Collapse with splinters 512x512 BW_53: -1232776139075479320
+      Shield Round Hex Collapse with splinters 512x512 BW_54: -6862988923235494950
+      Shield Round Hex Collapse with splinters 512x512 BW_55: -3109645232597723597
+      Shield Round Hex Collapse with splinters 512x512 BW_56: -6274414256839104378
+      Shield Round Hex Collapse with splinters 512x512 BW_57: 8904461417391347853
+      Shield Round Hex Collapse with splinters 512x512 BW_58: -2181275208298944129
+      Shield Round Hex Collapse with splinters 512x512 BW_59: 3235373961408785553
+      Shield Round Hex Collapse with splinters 512x512 BW_6: 2929499093930241281
+      Shield Round Hex Collapse with splinters 512x512 BW_60: -5634043550301680704
+      Shield Round Hex Collapse with splinters 512x512 BW_61: 1340104696705983847
+      Shield Round Hex Collapse with splinters 512x512 BW_62: 4430351461911247708
+      Shield Round Hex Collapse with splinters 512x512 BW_63: -2779313807029810962
+      Shield Round Hex Collapse with splinters 512x512 BW_64: -6147179299650567053
+      Shield Round Hex Collapse with splinters 512x512 BW_65: -8596156285081851446
+      Shield Round Hex Collapse with splinters 512x512 BW_66: 5414300352318436055
+      Shield Round Hex Collapse with splinters 512x512 BW_67: 195718284191765204
+      Shield Round Hex Collapse with splinters 512x512 BW_68: -7707941233286179592
+      Shield Round Hex Collapse with splinters 512x512 BW_69: 3582180400558123962
+      Shield Round Hex Collapse with splinters 512x512 BW_7: -5489506045604587235
+      Shield Round Hex Collapse with splinters 512x512 BW_70: -7690589456743019857
+      Shield Round Hex Collapse with splinters 512x512 BW_71: -5351931393491005919
+      Shield Round Hex Collapse with splinters 512x512 BW_72: 5624863203465756968
+      Shield Round Hex Collapse with splinters 512x512 BW_73: -866006494450399443
+      Shield Round Hex Collapse with splinters 512x512 BW_74: -5807437608708208996
+      Shield Round Hex Collapse with splinters 512x512 BW_75: -9188727919352815614
+      Shield Round Hex Collapse with splinters 512x512 BW_76: 4440850134358519499
+      Shield Round Hex Collapse with splinters 512x512 BW_77: 5253307640438271418
+      Shield Round Hex Collapse with splinters 512x512 BW_78: -7958000627103608677
+      Shield Round Hex Collapse with splinters 512x512 BW_79: 5767439902997915887
+      Shield Round Hex Collapse with splinters 512x512 BW_8: 8264167636899081759
+      Shield Round Hex Collapse with splinters 512x512 BW_80: 8803081554852952622
+      Shield Round Hex Collapse with splinters 512x512 BW_81: 1434208985658131299
+      Shield Round Hex Collapse with splinters 512x512 BW_82: -8811730892089309986
+      Shield Round Hex Collapse with splinters 512x512 BW_83: -2171157997469856163
+      Shield Round Hex Collapse with splinters 512x512 BW_84: 1571061359811840440
+      Shield Round Hex Collapse with splinters 512x512 BW_85: 550408777730325220
+      Shield Round Hex Collapse with splinters 512x512 BW_86: -5676017533538974246
+      Shield Round Hex Collapse with splinters 512x512 BW_87: -7352582915749300838
+      Shield Round Hex Collapse with splinters 512x512 BW_88: 6677901030616342727
+      Shield Round Hex Collapse with splinters 512x512 BW_89: 3220207124216621292
+      Shield Round Hex Collapse with splinters 512x512 BW_9: 8069839521416611765
+      Shield Round Hex Collapse with splinters 512x512 BW_90: -3339197424611352619
+      Shield Round Hex Collapse with splinters 512x512 BW_91: -5802997618980015124
+      Shield Round Hex Collapse with splinters 512x512 BW_92: 216138649199247229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 12fb7aa4a0ab9994989088aed65547f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3455318735519713600
+    second: Shield Round Magic Collapse 512x512 Blue_0
+  - first:
+      213: 2005640617560724329
+    second: Shield Round Magic Collapse 512x512 Blue_1
+  - first:
+      213: -2529336407460314010
+    second: Shield Round Magic Collapse 512x512 Blue_2
+  - first:
+      213: -4878241429864147964
+    second: Shield Round Magic Collapse 512x512 Blue_3
+  - first:
+      213: -8733491997569110379
+    second: Shield Round Magic Collapse 512x512 Blue_4
+  - first:
+      213: -145263013093881470
+    second: Shield Round Magic Collapse 512x512 Blue_5
+  - first:
+      213: 6315000337385415686
+    second: Shield Round Magic Collapse 512x512 Blue_6
+  - first:
+      213: 6416791162280478323
+    second: Shield Round Magic Collapse 512x512 Blue_7
+  - first:
+      213: -8480571288735910085
+    second: Shield Round Magic Collapse 512x512 Blue_8
+  - first:
+      213: -9133760874436276463
+    second: Shield Round Magic Collapse 512x512 Blue_9
+  - first:
+      213: 2420304343594193030
+    second: Shield Round Magic Collapse 512x512 Blue_10
+  - first:
+      213: -1027802239502458954
+    second: Shield Round Magic Collapse 512x512 Blue_11
+  - first:
+      213: 298657706330536963
+    second: Shield Round Magic Collapse 512x512 Blue_12
+  - first:
+      213: -2850927955858297903
+    second: Shield Round Magic Collapse 512x512 Blue_13
+  - first:
+      213: 4471600254246342277
+    second: Shield Round Magic Collapse 512x512 Blue_14
+  - first:
+      213: 7018596154308648629
+    second: Shield Round Magic Collapse 512x512 Blue_15
+  - first:
+      213: 5488678844805965761
+    second: Shield Round Magic Collapse 512x512 Blue_16
+  - first:
+      213: 5260943052032407342
+    second: Shield Round Magic Collapse 512x512 Blue_17
+  - first:
+      213: -5889166566245168118
+    second: Shield Round Magic Collapse 512x512 Blue_18
+  - first:
+      213: 7377901731750908448
+    second: Shield Round Magic Collapse 512x512 Blue_19
+  - first:
+      213: 3628688390286433334
+    second: Shield Round Magic Collapse 512x512 Blue_20
+  - first:
+      213: 5199776376723310329
+    second: Shield Round Magic Collapse 512x512 Blue_21
+  - first:
+      213: -8746907607391915767
+    second: Shield Round Magic Collapse 512x512 Blue_22
+  - first:
+      213: 8058452808760078435
+    second: Shield Round Magic Collapse 512x512 Blue_23
+  - first:
+      213: -3057537379943410231
+    second: Shield Round Magic Collapse 512x512 Blue_24
+  - first:
+      213: 6230034293448334173
+    second: Shield Round Magic Collapse 512x512 Blue_25
+  - first:
+      213: -6911180962462102160
+    second: Shield Round Magic Collapse 512x512 Blue_26
+  - first:
+      213: 4103418853466339426
+    second: Shield Round Magic Collapse 512x512 Blue_27
+  - first:
+      213: -4296710554425681205
+    second: Shield Round Magic Collapse 512x512 Blue_28
+  - first:
+      213: 944101747963027090
+    second: Shield Round Magic Collapse 512x512 Blue_29
+  - first:
+      213: -5962034037381726919
+    second: Shield Round Magic Collapse 512x512 Blue_30
+  - first:
+      213: -6031347703406743963
+    second: Shield Round Magic Collapse 512x512 Blue_31
+  - first:
+      213: -8154364871050282971
+    second: Shield Round Magic Collapse 512x512 Blue_32
+  - first:
+      213: 6322248271796941444
+    second: Shield Round Magic Collapse 512x512 Blue_33
+  - first:
+      213: -8857278241717640184
+    second: Shield Round Magic Collapse 512x512 Blue_34
+  - first:
+      213: 3679973393516237147
+    second: Shield Round Magic Collapse 512x512 Blue_35
+  - first:
+      213: -731561536837772381
+    second: Shield Round Magic Collapse 512x512 Blue_36
+  - first:
+      213: -1265377358573692278
+    second: Shield Round Magic Collapse 512x512 Blue_37
+  - first:
+      213: 4170916408025852301
+    second: Shield Round Magic Collapse 512x512 Blue_38
+  - first:
+      213: -7112343695180876598
+    second: Shield Round Magic Collapse 512x512 Blue_39
+  - first:
+      213: -7495798250813892168
+    second: Shield Round Magic Collapse 512x512 Blue_40
+  - first:
+      213: -4964925427416136470
+    second: Shield Round Magic Collapse 512x512 Blue_41
+  - first:
+      213: 591411512650671273
+    second: Shield Round Magic Collapse 512x512 Blue_42
+  - first:
+      213: 1276028701641998495
+    second: Shield Round Magic Collapse 512x512 Blue_43
+  - first:
+      213: -8652610154479167359
+    second: Shield Round Magic Collapse 512x512 Blue_44
+  - first:
+      213: -4283374200164128273
+    second: Shield Round Magic Collapse 512x512 Blue_45
+  - first:
+      213: 6722509972803603445
+    second: Shield Round Magic Collapse 512x512 Blue_46
+  - first:
+      213: 6662320459177954933
+    second: Shield Round Magic Collapse 512x512 Blue_47
+  - first:
+      213: 1806372254252059184
+    second: Shield Round Magic Collapse 512x512 Blue_48
+  - first:
+      213: 8908822282991746704
+    second: Shield Round Magic Collapse 512x512 Blue_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1608
+        width: 364
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67897caed3c00d0800000000000000
+      internalID: -3455318735519713600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1606
+        width: 368
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635dcce38775db10800000000000000
+      internalID: 2005640617560724329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1601
+        width: 364
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6648ddb30fdf5ecd0800000000000000
+      internalID: -2529336407460314010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1600
+        width: 371
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4049a5cf3410d4cb0800000000000000
+      internalID: -4878241429864147964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1086
+        width: 382
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e2d2cdc476cc680800000000000000
+      internalID: -8733491997569110379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1087
+        width: 381
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28949892f0cebfdf0800000000000000
+      internalID: -145263013093881470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1347
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604645a395363a750800000000000000
+      internalID: 6315000337385415686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1428
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376089180950d0950800000000000000
+      internalID: 6416791162280478323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1219
+        width: 214
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f48a4855fe4a80800000000000000
+      internalID: -8480571288735910085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1407
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f4ddf90ec5e3180800000000000000
+      internalID: -9133760874436276463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1348
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68054482af5a69120800000000000000
+      internalID: 2420304343594193030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1327
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfda170f438cb1f0800000000000000
+      internalID: -1027802239502458954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1233
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb34ff99b052400800000000000000
+      internalID: 298657706330536963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1223
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbe5d601287f68d0800000000000000
+      internalID: -2850927955858297903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1328
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e46eb5db05e0e30800000000000000
+      internalID: 4471600254246342277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1243
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5d772400176160800000000000000
+      internalID: 7018596154308648629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1320
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c76cde3454bb2c40800000000000000
+      internalID: 5488678844805965761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_17
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1298
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2773f705df920940800000000000000
+      internalID: 5260943052032407342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1281
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c89dbc53a754ea0800000000000000
+      internalID: -5889166566245168118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_19
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1277
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02290c40982936660800000000000000
+      internalID: 7377901731750908448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_20
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1288
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5b978dd0bb5230800000000000000
+      internalID: 3628688390286433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_21
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1290
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68f06a011592840800000000000000
+      internalID: 5199776376723310329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_22
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1282
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9013e3acfddbc9680800000000000000
+      internalID: -8746907607391915767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_23
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1280
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b461522065df60800000000000000
+      internalID: 8058452808760078435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_24
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1277
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c59ef4d3f17195d0800000000000000
+      internalID: -3057537379943410231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_25
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b5d778e27857650800000000000000
+      internalID: 6230034293448334173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_26
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d010a188d8610a0800000000000000
+      internalID: -6911180962462102160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_27
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1270
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2687085d4b542f830800000000000000
+      internalID: 4103418853466339426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1273
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca19c404840f54c0800000000000000
+      internalID: -4296710554425681205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_29
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1270
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e5927a98f1a1d00800000000000000
+      internalID: 944101747963027090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_30
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1269
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df21791a9924da0800000000000000
+      internalID: -5962034037381726919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_31
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1275
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea29d18395c4ca0800000000000000
+      internalID: -6031347703406743963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_32
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528bf1c7a50e5de80800000000000000
+      internalID: -8154364871050282971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_33
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1248
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b8467e432db750800000000000000
+      internalID: 6322248271796941444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_34
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1245
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804af95fd50a41580800000000000000
+      internalID: -8857278241717640184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_35
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1265
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519c67dd44e11330800000000000000
+      internalID: 3679973393516237147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_36
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1243
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab127188a8f8d5f0800000000000000
+      internalID: -731561536837772381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_37
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1253
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a94632ff9707ee0800000000000000
+      internalID: -1265377358573692278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_38
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1257
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89aa38ef5212e930800000000000000
+      internalID: 4170916408025852301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_39
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1242
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac431409711eb4d90800000000000000
+      internalID: -7112343695180876598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_40
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b95e30943399f790800000000000000
+      internalID: -7495798250813892168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_41
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1211
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48e8a01aa091bb0800000000000000
+      internalID: -4964925427416136470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_42
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ae9723ad153800800000000000000
+      internalID: 591411512650671273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_43
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1154
+        width: 83
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90039ce75d55b110800000000000000
+      internalID: 1276028701641998495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_44
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1090
+        width: 250
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188d45278e0cbe780800000000000000
+      internalID: -8652610154479167359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_45
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1135
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e427fbd56e84c0800000000000000
+      internalID: -4283374200164128273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_46
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1089
+        width: 175
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbcaffe3372b4d50800000000000000
+      internalID: 6722509972803603445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_47
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e8e1db821557c50800000000000000
+      internalID: 6662320459177954933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_48
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1131
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac0d2aef5811910800000000000000
+      internalID: 1806372254252059184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic Collapse 512x512 Blue_49
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1105
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ebec85aae72ab70800000000000000
+      internalID: 8908822282991746704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Magic Collapse 512x512 Blue_0: -3455318735519713600
+      Shield Round Magic Collapse 512x512 Blue_1: 2005640617560724329
+      Shield Round Magic Collapse 512x512 Blue_10: 2420304343594193030
+      Shield Round Magic Collapse 512x512 Blue_11: -1027802239502458954
+      Shield Round Magic Collapse 512x512 Blue_12: 298657706330536963
+      Shield Round Magic Collapse 512x512 Blue_13: -2850927955858297903
+      Shield Round Magic Collapse 512x512 Blue_14: 4471600254246342277
+      Shield Round Magic Collapse 512x512 Blue_15: 7018596154308648629
+      Shield Round Magic Collapse 512x512 Blue_16: 5488678844805965761
+      Shield Round Magic Collapse 512x512 Blue_17: 5260943052032407342
+      Shield Round Magic Collapse 512x512 Blue_18: -5889166566245168118
+      Shield Round Magic Collapse 512x512 Blue_19: 7377901731750908448
+      Shield Round Magic Collapse 512x512 Blue_2: -2529336407460314010
+      Shield Round Magic Collapse 512x512 Blue_20: 3628688390286433334
+      Shield Round Magic Collapse 512x512 Blue_21: 5199776376723310329
+      Shield Round Magic Collapse 512x512 Blue_22: -8746907607391915767
+      Shield Round Magic Collapse 512x512 Blue_23: 8058452808760078435
+      Shield Round Magic Collapse 512x512 Blue_24: -3057537379943410231
+      Shield Round Magic Collapse 512x512 Blue_25: 6230034293448334173
+      Shield Round Magic Collapse 512x512 Blue_26: -6911180962462102160
+      Shield Round Magic Collapse 512x512 Blue_27: 4103418853466339426
+      Shield Round Magic Collapse 512x512 Blue_28: -4296710554425681205
+      Shield Round Magic Collapse 512x512 Blue_29: 944101747963027090
+      Shield Round Magic Collapse 512x512 Blue_3: -4878241429864147964
+      Shield Round Magic Collapse 512x512 Blue_30: -5962034037381726919
+      Shield Round Magic Collapse 512x512 Blue_31: -6031347703406743963
+      Shield Round Magic Collapse 512x512 Blue_32: -8154364871050282971
+      Shield Round Magic Collapse 512x512 Blue_33: 6322248271796941444
+      Shield Round Magic Collapse 512x512 Blue_34: -8857278241717640184
+      Shield Round Magic Collapse 512x512 Blue_35: 3679973393516237147
+      Shield Round Magic Collapse 512x512 Blue_36: -731561536837772381
+      Shield Round Magic Collapse 512x512 Blue_37: -1265377358573692278
+      Shield Round Magic Collapse 512x512 Blue_38: 4170916408025852301
+      Shield Round Magic Collapse 512x512 Blue_39: -7112343695180876598
+      Shield Round Magic Collapse 512x512 Blue_4: -8733491997569110379
+      Shield Round Magic Collapse 512x512 Blue_40: -7495798250813892168
+      Shield Round Magic Collapse 512x512 Blue_41: -4964925427416136470
+      Shield Round Magic Collapse 512x512 Blue_42: 591411512650671273
+      Shield Round Magic Collapse 512x512 Blue_43: 1276028701641998495
+      Shield Round Magic Collapse 512x512 Blue_44: -8652610154479167359
+      Shield Round Magic Collapse 512x512 Blue_45: -4283374200164128273
+      Shield Round Magic Collapse 512x512 Blue_46: 6722509972803603445
+      Shield Round Magic Collapse 512x512 Blue_47: 6662320459177954933
+      Shield Round Magic Collapse 512x512 Blue_48: 1806372254252059184
+      Shield Round Magic Collapse 512x512 Blue_49: 8908822282991746704
+      Shield Round Magic Collapse 512x512 Blue_5: -145263013093881470
+      Shield Round Magic Collapse 512x512 Blue_6: 6315000337385415686
+      Shield Round Magic Collapse 512x512 Blue_7: 6416791162280478323
+      Shield Round Magic Collapse 512x512 Blue_8: -8480571288735910085
+      Shield Round Magic Collapse 512x512 Blue_9: -9133760874436276463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

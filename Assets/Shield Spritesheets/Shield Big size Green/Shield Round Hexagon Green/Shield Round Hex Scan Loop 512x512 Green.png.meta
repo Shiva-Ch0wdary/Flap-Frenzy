@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: a6b9a922353b8fc4db11f6a0d8f855aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4063080337554205837
+    second: Shield Round Hex Scan Loop 512x512 Green_0
+  - first:
+      213: -7962421096866534935
+    second: Shield Round Hex Scan Loop 512x512 Green_1
+  - first:
+      213: 7383580485695296307
+    second: Shield Round Hex Scan Loop 512x512 Green_2
+  - first:
+      213: -8667449694649213732
+    second: Shield Round Hex Scan Loop 512x512 Green_3
+  - first:
+      213: 2613434522482645743
+    second: Shield Round Hex Scan Loop 512x512 Green_4
+  - first:
+      213: 2887487475339790019
+    second: Shield Round Hex Scan Loop 512x512 Green_5
+  - first:
+      213: 306724887937702636
+    second: Shield Round Hex Scan Loop 512x512 Green_6
+  - first:
+      213: 5614408033724596970
+    second: Shield Round Hex Scan Loop 512x512 Green_7
+  - first:
+      213: -4749325497686808686
+    second: Shield Round Hex Scan Loop 512x512 Green_8
+  - first:
+      213: -6610801333271642995
+    second: Shield Round Hex Scan Loop 512x512 Green_9
+  - first:
+      213: -1039078529099884019
+    second: Shield Round Hex Scan Loop 512x512 Green_10
+  - first:
+      213: -3005061323801059425
+    second: Shield Round Hex Scan Loop 512x512 Green_11
+  - first:
+      213: 7257903551352894947
+    second: Shield Round Hex Scan Loop 512x512 Green_12
+  - first:
+      213: 3391019103928212881
+    second: Shield Round Hex Scan Loop 512x512 Green_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ceac53a06f26830800000000000000
+      internalID: 4063080337554205837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9a139f23ccf7190800000000000000
+      internalID: -7962421096866534935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333df54f45fb77660800000000000000
+      internalID: 7383580485695296307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc9dd1cc6807b780800000000000000
+      internalID: -8667449694649213732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea12540ad8c44420800000000000000
+      internalID: 2613434522482645743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6840d6f8a621820800000000000000
+      internalID: 2887487475339790019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea5c4519a4b14400800000000000000
+      internalID: 306724887937702636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_7
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2014a3c526aed40800000000000000
+      internalID: 5614408033724596970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2972ca37f91071eb0800000000000000
+      internalID: -4749325497686808686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c3aa18637b144a0800000000000000
+      internalID: -6610801333271642995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a144345937491f0800000000000000
+      internalID: -1039078529099884019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_11
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f9292c5a0eb46d0800000000000000
+      internalID: -3005061323801059425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e57f6073d049b460800000000000000
+      internalID: 7257903551352894947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Scan Loop 512x512 Green_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d543c98e15f0f20800000000000000
+      internalID: 3391019103928212881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Hex Scan Loop 512x512 Green_0: 4063080337554205837
+      Shield Round Hex Scan Loop 512x512 Green_1: -7962421096866534935
+      Shield Round Hex Scan Loop 512x512 Green_10: -1039078529099884019
+      Shield Round Hex Scan Loop 512x512 Green_11: -3005061323801059425
+      Shield Round Hex Scan Loop 512x512 Green_12: 7257903551352894947
+      Shield Round Hex Scan Loop 512x512 Green_13: 3391019103928212881
+      Shield Round Hex Scan Loop 512x512 Green_2: 7383580485695296307
+      Shield Round Hex Scan Loop 512x512 Green_3: -8667449694649213732
+      Shield Round Hex Scan Loop 512x512 Green_4: 2613434522482645743
+      Shield Round Hex Scan Loop 512x512 Green_5: 2887487475339790019
+      Shield Round Hex Scan Loop 512x512 Green_6: 306724887937702636
+      Shield Round Hex Scan Loop 512x512 Green_7: 5614408033724596970
+      Shield Round Hex Scan Loop 512x512 Green_8: -4749325497686808686
+      Shield Round Hex Scan Loop 512x512 Green_9: -6610801333271642995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

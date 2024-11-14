@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 3cf9d64f06fc8a64394a672893975208
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 770283179122921620
+    second: Shield Elliptic Magic Collapse 384x512 Blue_0
+  - first:
+      213: -1677014252137326926
+    second: Shield Elliptic Magic Collapse 384x512 Blue_1
+  - first:
+      213: -6164787307523929104
+    second: Shield Elliptic Magic Collapse 384x512 Blue_2
+  - first:
+      213: 7760511851256635141
+    second: Shield Elliptic Magic Collapse 384x512 Blue_3
+  - first:
+      213: -8553913341264560587
+    second: Shield Elliptic Magic Collapse 384x512 Blue_4
+  - first:
+      213: -6440319195843724423
+    second: Shield Elliptic Magic Collapse 384x512 Blue_5
+  - first:
+      213: 9138359935348504012
+    second: Shield Elliptic Magic Collapse 384x512 Blue_6
+  - first:
+      213: -2753396194800632789
+    second: Shield Elliptic Magic Collapse 384x512 Blue_7
+  - first:
+      213: -7301027222280083539
+    second: Shield Elliptic Magic Collapse 384x512 Blue_8
+  - first:
+      213: -5110599526401735709
+    second: Shield Elliptic Magic Collapse 384x512 Blue_9
+  - first:
+      213: -2262093935879185482
+    second: Shield Elliptic Magic Collapse 384x512 Blue_10
+  - first:
+      213: 6188349662903930195
+    second: Shield Elliptic Magic Collapse 384x512 Blue_11
+  - first:
+      213: 7430750306933989359
+    second: Shield Elliptic Magic Collapse 384x512 Blue_12
+  - first:
+      213: -9179810228142009382
+    second: Shield Elliptic Magic Collapse 384x512 Blue_13
+  - first:
+      213: -852479333157758048
+    second: Shield Elliptic Magic Collapse 384x512 Blue_14
+  - first:
+      213: 6043912212047383075
+    second: Shield Elliptic Magic Collapse 384x512 Blue_15
+  - first:
+      213: -2976197713829365999
+    second: Shield Elliptic Magic Collapse 384x512 Blue_16
+  - first:
+      213: -7614389007389139468
+    second: Shield Elliptic Magic Collapse 384x512 Blue_17
+  - first:
+      213: -4850839481038160407
+    second: Shield Elliptic Magic Collapse 384x512 Blue_18
+  - first:
+      213: 7588270732928978964
+    second: Shield Elliptic Magic Collapse 384x512 Blue_19
+  - first:
+      213: -5233464604000215966
+    second: Shield Elliptic Magic Collapse 384x512 Blue_20
+  - first:
+      213: 4505083193946341497
+    second: Shield Elliptic Magic Collapse 384x512 Blue_21
+  - first:
+      213: -7079027686244527644
+    second: Shield Elliptic Magic Collapse 384x512 Blue_22
+  - first:
+      213: -7076610576150946175
+    second: Shield Elliptic Magic Collapse 384x512 Blue_23
+  - first:
+      213: 3184170105158472951
+    second: Shield Elliptic Magic Collapse 384x512 Blue_24
+  - first:
+      213: -770267664976679193
+    second: Shield Elliptic Magic Collapse 384x512 Blue_25
+  - first:
+      213: 2752963708742228694
+    second: Shield Elliptic Magic Collapse 384x512 Blue_26
+  - first:
+      213: 2362904375159858935
+    second: Shield Elliptic Magic Collapse 384x512 Blue_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 584
+        width: 274
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909414687890ba00800000000000000
+      internalID: 770283179122921620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 582
+        width: 276
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b656124c6c0ab8e0800000000000000
+      internalID: -1677014252137326926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 578
+        width: 272
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb03333b96427aa0800000000000000
+      internalID: -6164787307523929104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 576
+        width: 277
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5c596960e2bb60800000000000000
+      internalID: 7760511851256635141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 287
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e737ef2256a4980800000000000000
+      internalID: -8553913341264560587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 63
+        width: 285
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bfa9b40d36f96a0800000000000000
+      internalID: -6440319195843724423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 326
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5fb10b1f9f1de70800000000000000
+      internalID: 9138359935348504012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 196
+        width: 157
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cfefabfb8f9c9d0800000000000000
+      internalID: -2753396194800632789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 326
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e9808c6a8daa90800000000000000
+      internalID: -7301027222280083539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 383
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e38b8fcec08319b0800000000000000
+      internalID: -5110599526401735709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 219
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb1b57ec8d6b90e0800000000000000
+      internalID: -2262093935879185482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 250
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d0c4b2b3f61e550800000000000000
+      internalID: 6188349662903930195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 200
+        width: 47
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefdc6bc8045f1760800000000000000
+      internalID: 7430750306933989359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 242
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad31916fb33ca9080800000000000000
+      internalID: -9179810228142009382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 246
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab15c820926b24f0800000000000000
+      internalID: -852479333157758048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 211
+        width: 88
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32acab4822a40e350800000000000000
+      internalID: 6043912212047383075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 259
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117fed5a2fb62b6d0800000000000000
+      internalID: -2976197713829365999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5ee06a81445690800000000000000
+      internalID: -7614389007389139468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 230
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb74e513b5eacb0800000000000000
+      internalID: -4850839481038160407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_19
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 224
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41099b7f604fe4960800000000000000
+      internalID: 7588270732928978964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_20
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 220
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c9cf5bbaffe57b0800000000000000
+      internalID: -5233464604000215966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_21
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 226
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97001c2cb45458e30800000000000000
+      internalID: 4505083193946341497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_22
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e15d3e53dd32cd90800000000000000
+      internalID: -7079027686244527644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_23
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 201
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e10caac24dacd90800000000000000
+      internalID: -7076610576150946175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_24
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 131
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4936617d1703c20800000000000000
+      internalID: 3184170105158472951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_25
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 66
+        width: 177
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee6817c3a57f45f0800000000000000
+      internalID: -770267664976679193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_26
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 65
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5f1348ed743620800000000000000
+      internalID: 2752963708742228694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Magic Collapse 384x512 Blue_27
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 108
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ae9f8209bac020800000000000000
+      internalID: 2362904375159858935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Magic Collapse 384x512 Blue_0: 770283179122921620
+      Shield Elliptic Magic Collapse 384x512 Blue_1: -1677014252137326926
+      Shield Elliptic Magic Collapse 384x512 Blue_10: -2262093935879185482
+      Shield Elliptic Magic Collapse 384x512 Blue_11: 6188349662903930195
+      Shield Elliptic Magic Collapse 384x512 Blue_12: 7430750306933989359
+      Shield Elliptic Magic Collapse 384x512 Blue_13: -9179810228142009382
+      Shield Elliptic Magic Collapse 384x512 Blue_14: -852479333157758048
+      Shield Elliptic Magic Collapse 384x512 Blue_15: 6043912212047383075
+      Shield Elliptic Magic Collapse 384x512 Blue_16: -2976197713829365999
+      Shield Elliptic Magic Collapse 384x512 Blue_17: -7614389007389139468
+      Shield Elliptic Magic Collapse 384x512 Blue_18: -4850839481038160407
+      Shield Elliptic Magic Collapse 384x512 Blue_19: 7588270732928978964
+      Shield Elliptic Magic Collapse 384x512 Blue_2: -6164787307523929104
+      Shield Elliptic Magic Collapse 384x512 Blue_20: -5233464604000215966
+      Shield Elliptic Magic Collapse 384x512 Blue_21: 4505083193946341497
+      Shield Elliptic Magic Collapse 384x512 Blue_22: -7079027686244527644
+      Shield Elliptic Magic Collapse 384x512 Blue_23: -7076610576150946175
+      Shield Elliptic Magic Collapse 384x512 Blue_24: 3184170105158472951
+      Shield Elliptic Magic Collapse 384x512 Blue_25: -770267664976679193
+      Shield Elliptic Magic Collapse 384x512 Blue_26: 2752963708742228694
+      Shield Elliptic Magic Collapse 384x512 Blue_27: 2362904375159858935
+      Shield Elliptic Magic Collapse 384x512 Blue_3: 7760511851256635141
+      Shield Elliptic Magic Collapse 384x512 Blue_4: -8553913341264560587
+      Shield Elliptic Magic Collapse 384x512 Blue_5: -6440319195843724423
+      Shield Elliptic Magic Collapse 384x512 Blue_6: 9138359935348504012
+      Shield Elliptic Magic Collapse 384x512 Blue_7: -2753396194800632789
+      Shield Elliptic Magic Collapse 384x512 Blue_8: -7301027222280083539
+      Shield Elliptic Magic Collapse 384x512 Blue_9: -5110599526401735709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

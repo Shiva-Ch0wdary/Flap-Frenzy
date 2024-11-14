@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 8f6d0d1740200554aa601fb7e3cb77e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5696422043724205441
+    second: Hit Sparks Vfx 256x256 Green_0
+  - first:
+      213: -1160951402373187952
+    second: Hit Sparks Vfx 256x256 Green_1
+  - first:
+      213: -4549353035421079585
+    second: Hit Sparks Vfx 256x256 Green_2
+  - first:
+      213: 8429639504883157572
+    second: Hit Sparks Vfx 256x256 Green_3
+  - first:
+      213: 6344966771542577478
+    second: Hit Sparks Vfx 256x256 Green_4
+  - first:
+      213: 6371565727098129170
+    second: Hit Sparks Vfx 256x256 Green_5
+  - first:
+      213: -998107314391691622
+    second: Hit Sparks Vfx 256x256 Green_6
+  - first:
+      213: -4157340728616195012
+    second: Hit Sparks Vfx 256x256 Green_7
+  - first:
+      213: 6489996801226736621
+    second: Hit Sparks Vfx 256x256 Green_8
+  - first:
+      213: 1556647002258215881
+    second: Hit Sparks Vfx 256x256 Green_9
+  - first:
+      213: -4674381944165986573
+    second: Hit Sparks Vfx 256x256 Green_10
+  - first:
+      213: 1894099410773638466
+    second: Hit Sparks Vfx 256x256 Green_11
+  - first:
+      213: -5565333226801595926
+    second: Hit Sparks Vfx 256x256 Green_12
+  - first:
+      213: -811470906688191445
+    second: Hit Sparks Vfx 256x256 Green_13
+  - first:
+      213: -3535879754246872778
+    second: Hit Sparks Vfx 256x256 Green_14
+  - first:
+      213: 4377956056076802590
+    second: Hit Sparks Vfx 256x256 Green_15
+  - first:
+      213: 6134564124859095277
+    second: Hit Sparks Vfx 256x256 Green_16
+  - first:
+      213: 2985106602232178383
+    second: Hit Sparks Vfx 256x256 Green_17
+  - first:
+      213: -274803807033337177
+    second: Hit Sparks Vfx 256x256 Green_18
+  - first:
+      213: 4615572233452621653
+    second: Hit Sparks Vfx 256x256 Green_19
+  - first:
+      213: -5818490820749998994
+    second: Hit Sparks Vfx 256x256 Green_20
+  - first:
+      213: -7240950402518936160
+    second: Hit Sparks Vfx 256x256 Green_21
+  - first:
+      213: 7807705831989100821
+    second: Hit Sparks Vfx 256x256 Green_22
+  - first:
+      213: -8376659132849958504
+    second: Hit Sparks Vfx 256x256 Green_23
+  - first:
+      213: -1542948251983193825
+    second: Hit Sparks Vfx 256x256 Green_24
+  - first:
+      213: 7532340372456429362
+    second: Hit Sparks Vfx 256x256 Green_25
+  - first:
+      213: 263871447661300780
+    second: Hit Sparks Vfx 256x256 Green_26
+  - first:
+      213: 2219586176037757866
+    second: Hit Sparks Vfx 256x256 Green_27
+  - first:
+      213: -597488983684207109
+    second: Hit Sparks Vfx 256x256 Green_28
+  - first:
+      213: -2450689932827149377
+    second: Hit Sparks Vfx 256x256 Green_29
+  - first:
+      213: 2922354199636150088
+    second: Hit Sparks Vfx 256x256 Green_30
+  - first:
+      213: -7724464584226507814
+    second: Hit Sparks Vfx 256x256 Green_31
+  - first:
+      213: 7609646443837755126
+    second: Hit Sparks Vfx 256x256 Green_32
+  - first:
+      213: 4999977460584578651
+    second: Hit Sparks Vfx 256x256 Green_33
+  - first:
+      213: -7833481484198829105
+    second: Hit Sparks Vfx 256x256 Green_34
+  - first:
+      213: -1421350653670317421
+    second: Hit Sparks Vfx 256x256 Green_35
+  - first:
+      213: 2793104582344556107
+    second: Hit Sparks Vfx 256x256 Green_36
+  - first:
+      213: 3090899623793533834
+    second: Hit Sparks Vfx 256x256 Green_37
+  - first:
+      213: 7007696704141413063
+    second: Hit Sparks Vfx 256x256 Green_38
+  - first:
+      213: -7538480788141952294
+    second: Hit Sparks Vfx 256x256 Green_39
+  - first:
+      213: -3554588239243249221
+    second: Hit Sparks Vfx 256x256 Green_40
+  - first:
+      213: 4523551156759570489
+    second: Hit Sparks Vfx 256x256 Green_41
+  - first:
+      213: 6905311938394860320
+    second: Hit Sparks Vfx 256x256 Green_42
+  - first:
+      213: 6352447446503247573
+    second: Hit Sparks Vfx 256x256 Green_43
+  - first:
+      213: -355967545360461293
+    second: Hit Sparks Vfx 256x256 Green_44
+  - first:
+      213: 6266534764444114969
+    second: Hit Sparks Vfx 256x256 Green_45
+  - first:
+      213: -8528501188393041533
+    second: Hit Sparks Vfx 256x256 Green_46
+  - first:
+      213: 1952707989236826447
+    second: Hit Sparks Vfx 256x256 Green_47
+  - first:
+      213: 7710462798598129446
+    second: Hit Sparks Vfx 256x256 Green_48
+  - first:
+      213: 1934542978849593775
+    second: Hit Sparks Vfx 256x256 Green_49
+  - first:
+      213: -8441906616705037689
+    second: Hit Sparks Vfx 256x256 Green_50
+  - first:
+      213: -4277068239186557325
+    second: Hit Sparks Vfx 256x256 Green_51
+  - first:
+      213: 1849019574540379290
+    second: Hit Sparks Vfx 256x256 Green_52
+  - first:
+      213: 2695027759067905833
+    second: Hit Sparks Vfx 256x256 Green_53
+  - first:
+      213: -7915662135671456011
+    second: Hit Sparks Vfx 256x256 Green_54
+  - first:
+      213: 486469153327898207
+    second: Hit Sparks Vfx 256x256 Green_55
+  - first:
+      213: -8723819033128818837
+    second: Hit Sparks Vfx 256x256 Green_56
+  - first:
+      213: 1431034661664339918
+    second: Hit Sparks Vfx 256x256 Green_57
+  - first:
+      213: -3089779431411746937
+    second: Hit Sparks Vfx 256x256 Green_58
+  - first:
+      213: 5246217844437276068
+    second: Hit Sparks Vfx 256x256 Green_59
+  - first:
+      213: -3852345452034090078
+    second: Hit Sparks Vfx 256x256 Green_60
+  - first:
+      213: -5362731636494273578
+    second: Hit Sparks Vfx 256x256 Green_61
+  - first:
+      213: -1618683409134481464
+    second: Hit Sparks Vfx 256x256 Green_62
+  - first:
+      213: 285612560492152355
+    second: Hit Sparks Vfx 256x256 Green_63
+  - first:
+      213: 593695705700723126
+    second: Hit Sparks Vfx 256x256 Green_64
+  - first:
+      213: -6692851777544517609
+    second: Hit Sparks Vfx 256x256 Green_65
+  - first:
+      213: -821794333910844457
+    second: Hit Sparks Vfx 256x256 Green_66
+  - first:
+      213: -5930144889359919870
+    second: Hit Sparks Vfx 256x256 Green_67
+  - first:
+      213: -4007337510047748574
+    second: Hit Sparks Vfx 256x256 Green_68
+  - first:
+      213: 9130801556340738418
+    second: Hit Sparks Vfx 256x256 Green_69
+  - first:
+      213: -7599111188830215018
+    second: Hit Sparks Vfx 256x256 Green_70
+  - first:
+      213: -9053905873498060425
+    second: Hit Sparks Vfx 256x256 Green_71
+  - first:
+      213: -6595020716197963323
+    second: Hit Sparks Vfx 256x256 Green_72
+  - first:
+      213: 1694233309571882951
+    second: Hit Sparks Vfx 256x256 Green_73
+  - first:
+      213: -4707293294404594038
+    second: Hit Sparks Vfx 256x256 Green_74
+  - first:
+      213: 4962649038964433185
+    second: Hit Sparks Vfx 256x256 Green_75
+  - first:
+      213: 2726572596068820610
+    second: Hit Sparks Vfx 256x256 Green_76
+  - first:
+      213: 5231174752463939444
+    second: Hit Sparks Vfx 256x256 Green_77
+  - first:
+      213: -6995227798557480229
+    second: Hit Sparks Vfx 256x256 Green_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 938
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723d19055e32f0b0800000000000000
+      internalID: -5696422043724205441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 957
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096fd0cb9d873efe0800000000000000
+      internalID: -1160951402373187952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_2
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 946
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a1ed84837dd0c0800000000000000
+      internalID: -4549353035421079585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_3
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 957
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a0921b7781cf470800000000000000
+      internalID: 8429639504883157572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 862
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d37169a9dd0850800000000000000
+      internalID: 6344966771542577478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 891
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bccb255495c6850800000000000000
+      internalID: 6371565727098129170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 911
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ec6fd8fa20622f0800000000000000
+      internalID: -998107314391691622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 938
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c619442a82e46c0800000000000000
+      internalID: -4157340728616195012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 927
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de38a8a84b9111a50800000000000000
+      internalID: 6489996801226736621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 926
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3174a73325a9510800000000000000
+      internalID: 1556647002258215881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 909
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe8c714362412fb0800000000000000
+      internalID: -4674381944165986573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 918
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7074f061394a10800000000000000
+      internalID: 1894099410773638466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 916
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ffc7aae6f3c2b0800000000000000
+      internalID: -5565333226801595926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 888
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24494d72831db4f0800000000000000
+      internalID: -811470906688191445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 888
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ae9fe8180eeec0800000000000000
+      internalID: -3535879754246872778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_15
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 887
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a5abc66df91cc30800000000000000
+      internalID: 4377956056076802590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 883
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8d41ab199522550800000000000000
+      internalID: 6134564124859095277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 881
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e8b293aa3d6920800000000000000
+      internalID: 2985106602232178383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_18
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 888
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa5adab463bf2cf0800000000000000
+      internalID: -274803807033337177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 895
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f8912fd7ecd0040800000000000000
+      internalID: 4615572233452621653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 848
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64435c1d61904fa0800000000000000
+      internalID: -5818490820749998994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 832
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a513ad19f9f28b90800000000000000
+      internalID: -7240950402518936160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 881
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511c472561b8a5c60800000000000000
+      internalID: 7807705831989100821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_23
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 881
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89152fd66e020cb80800000000000000
+      internalID: -8376659132849958504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 854
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f195bbd5db8569ae0800000000000000
+      internalID: -1542948251983193825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 854
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237599329af388860800000000000000
+      internalID: 7532340372456429362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_26
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 817
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c48300fa579a300800000000000000
+      internalID: 263871447661300780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_27
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 864
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa329130edd8dce10800000000000000
+      internalID: 2219586176037757866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 855
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd2b4a5fea45b7f0800000000000000
+      internalID: -597488983684207109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 839
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb363b8d766dfdd0800000000000000
+      internalID: -2450689932827149377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_30
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 833
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470f2949a94e8820800000000000000
+      internalID: 2922354199636150088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_31
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 813
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f719f2603dc490800000000000000
+      internalID: -7724464584226507814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_32
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 839
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe834f7f15ea9960800000000000000
+      internalID: 7609646443837755126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 821
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7a17620d736540800000000000000
+      internalID: 4999977460584578651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_34
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 825
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3aabbf712e94390800000000000000
+      internalID: -7833481484198829105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_35
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 800
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39226b27c19564ce0800000000000000
+      internalID: -1421350653670317421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 675
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb923b1d913c620800000000000000
+      internalID: 2793104582344556107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 677
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a832a90e4d415ea20800000000000000
+      internalID: 3090899623793533834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 680
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca46082607504160800000000000000
+      internalID: 7007696704141413063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 672
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad231bce9afe16790800000000000000
+      internalID: -7538480788141952294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_40
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 681
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9ff1554d09baec0800000000000000
+      internalID: -3554588239243249221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 675
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93826fd6fc1e6ce30800000000000000
+      internalID: 4523551156759570489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 643
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b2a4f3f9894df50800000000000000
+      internalID: 6905311938394860320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 660
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec92fbb4d682850800000000000000
+      internalID: 6352447446503247573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 669
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312d83b47695f0bf0800000000000000
+      internalID: -355967545360461293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 645
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e35faa2437f650800000000000000
+      internalID: 6266534764444114969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 651
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3810657ea5da4a980800000000000000
+      internalID: -8528501188393041533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_47
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 651
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4147800299691b10800000000000000
+      internalID: 1952707989236826447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_48
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 634
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6274e444011110b60800000000000000
+      internalID: 7710462798598129446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 630
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa95e01f690e8da10800000000000000
+      internalID: 1934542978849593775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_50
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 636
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac644c8a258da80800000000000000
+      internalID: -8441906616705037689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_51
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 624
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3760e2be81dc4a4c0800000000000000
+      internalID: -4277068239186557325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 615
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94293ba18909a910800000000000000
+      internalID: 1849019574540379290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 621
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f3f0fc779a66520800000000000000
+      internalID: 2695027759067905833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 619
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fefa410a3be52290800000000000000
+      internalID: -7915662135671456011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5b461e1940c600800000000000000
+      internalID: 486469153327898207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 608
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a0956fc4cee680800000000000000
+      internalID: -8723819033128818837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 601
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec736cd517e0cd310800000000000000
+      internalID: 1431034661664339918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 609
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f46c3af5ee15d0800000000000000
+      internalID: -3089779431411746937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 587
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5dff7755f4ec840800000000000000
+      internalID: 5246217844437276068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_60
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 583
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9a63d838b98ac0800000000000000
+      internalID: -3852345452034090078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_61
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 594
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d372055dffb395b0800000000000000
+      internalID: -5362731636494273578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 572
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf88baf3084989e0800000000000000
+      internalID: -1618683409134481464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 572
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326468b4c13b6f300800000000000000
+      internalID: 285612560492152355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_64
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 579
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b967fa491b3d3800800000000000000
+      internalID: 593695705700723126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 555
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180e11c4c63e13a0800000000000000
+      internalID: -6692851777544517609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 560
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb0d848666894f0800000000000000
+      internalID: -821794333910844457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 565
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2059a1374a4e3bda0800000000000000
+      internalID: -5930144889359919870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_68
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 553
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e618234c31368c0800000000000000
+      internalID: -4007337510047748574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_69
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 557
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279064073af17be70800000000000000
+      internalID: 9130801556340738418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 533
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6942415b2a88a8690800000000000000
+      internalID: -7599111188830215018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 526
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7794354e3901a5280800000000000000
+      internalID: -9053905873498060425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 527
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c99dacb997c974a0800000000000000
+      internalID: -6595020716197963323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_73
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 537
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9aa7f730238710800000000000000
+      internalID: 1694233309571882951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_74
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 546
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a869f6560b55caeb0800000000000000
+      internalID: -4707293294404594038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_75
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 540
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121a868f10fded440800000000000000
+      internalID: 4962649038964433185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 511
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2862ff2845bb6d520800000000000000
+      internalID: 2726572596068820610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_77
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 516
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ea9ea8bdd89840800000000000000
+      internalID: 5231174752463939444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 256x256 Green_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 511
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2b082165fbee90800000000000000
+      internalID: -6995227798557480229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit Sparks Vfx 256x256 Green_0: -5696422043724205441
+      Hit Sparks Vfx 256x256 Green_1: -1160951402373187952
+      Hit Sparks Vfx 256x256 Green_10: -4674381944165986573
+      Hit Sparks Vfx 256x256 Green_11: 1894099410773638466
+      Hit Sparks Vfx 256x256 Green_12: -5565333226801595926
+      Hit Sparks Vfx 256x256 Green_13: -811470906688191445
+      Hit Sparks Vfx 256x256 Green_14: -3535879754246872778
+      Hit Sparks Vfx 256x256 Green_15: 4377956056076802590
+      Hit Sparks Vfx 256x256 Green_16: 6134564124859095277
+      Hit Sparks Vfx 256x256 Green_17: 2985106602232178383
+      Hit Sparks Vfx 256x256 Green_18: -274803807033337177
+      Hit Sparks Vfx 256x256 Green_19: 4615572233452621653
+      Hit Sparks Vfx 256x256 Green_2: -4549353035421079585
+      Hit Sparks Vfx 256x256 Green_20: -5818490820749998994
+      Hit Sparks Vfx 256x256 Green_21: -7240950402518936160
+      Hit Sparks Vfx 256x256 Green_22: 7807705831989100821
+      Hit Sparks Vfx 256x256 Green_23: -8376659132849958504
+      Hit Sparks Vfx 256x256 Green_24: -1542948251983193825
+      Hit Sparks Vfx 256x256 Green_25: 7532340372456429362
+      Hit Sparks Vfx 256x256 Green_26: 263871447661300780
+      Hit Sparks Vfx 256x256 Green_27: 2219586176037757866
+      Hit Sparks Vfx 256x256 Green_28: -597488983684207109
+      Hit Sparks Vfx 256x256 Green_29: -2450689932827149377
+      Hit Sparks Vfx 256x256 Green_3: 8429639504883157572
+      Hit Sparks Vfx 256x256 Green_30: 2922354199636150088
+      Hit Sparks Vfx 256x256 Green_31: -7724464584226507814
+      Hit Sparks Vfx 256x256 Green_32: 7609646443837755126
+      Hit Sparks Vfx 256x256 Green_33: 4999977460584578651
+      Hit Sparks Vfx 256x256 Green_34: -7833481484198829105
+      Hit Sparks Vfx 256x256 Green_35: -1421350653670317421
+      Hit Sparks Vfx 256x256 Green_36: 2793104582344556107
+      Hit Sparks Vfx 256x256 Green_37: 3090899623793533834
+      Hit Sparks Vfx 256x256 Green_38: 7007696704141413063
+      Hit Sparks Vfx 256x256 Green_39: -7538480788141952294
+      Hit Sparks Vfx 256x256 Green_4: 6344966771542577478
+      Hit Sparks Vfx 256x256 Green_40: -3554588239243249221
+      Hit Sparks Vfx 256x256 Green_41: 4523551156759570489
+      Hit Sparks Vfx 256x256 Green_42: 6905311938394860320
+      Hit Sparks Vfx 256x256 Green_43: 6352447446503247573
+      Hit Sparks Vfx 256x256 Green_44: -355967545360461293
+      Hit Sparks Vfx 256x256 Green_45: 6266534764444114969
+      Hit Sparks Vfx 256x256 Green_46: -8528501188393041533
+      Hit Sparks Vfx 256x256 Green_47: 1952707989236826447
+      Hit Sparks Vfx 256x256 Green_48: 7710462798598129446
+      Hit Sparks Vfx 256x256 Green_49: 1934542978849593775
+      Hit Sparks Vfx 256x256 Green_5: 6371565727098129170
+      Hit Sparks Vfx 256x256 Green_50: -8441906616705037689
+      Hit Sparks Vfx 256x256 Green_51: -4277068239186557325
+      Hit Sparks Vfx 256x256 Green_52: 1849019574540379290
+      Hit Sparks Vfx 256x256 Green_53: 2695027759067905833
+      Hit Sparks Vfx 256x256 Green_54: -7915662135671456011
+      Hit Sparks Vfx 256x256 Green_55: 486469153327898207
+      Hit Sparks Vfx 256x256 Green_56: -8723819033128818837
+      Hit Sparks Vfx 256x256 Green_57: 1431034661664339918
+      Hit Sparks Vfx 256x256 Green_58: -3089779431411746937
+      Hit Sparks Vfx 256x256 Green_59: 5246217844437276068
+      Hit Sparks Vfx 256x256 Green_6: -998107314391691622
+      Hit Sparks Vfx 256x256 Green_60: -3852345452034090078
+      Hit Sparks Vfx 256x256 Green_61: -5362731636494273578
+      Hit Sparks Vfx 256x256 Green_62: -1618683409134481464
+      Hit Sparks Vfx 256x256 Green_63: 285612560492152355
+      Hit Sparks Vfx 256x256 Green_64: 593695705700723126
+      Hit Sparks Vfx 256x256 Green_65: -6692851777544517609
+      Hit Sparks Vfx 256x256 Green_66: -821794333910844457
+      Hit Sparks Vfx 256x256 Green_67: -5930144889359919870
+      Hit Sparks Vfx 256x256 Green_68: -4007337510047748574
+      Hit Sparks Vfx 256x256 Green_69: 9130801556340738418
+      Hit Sparks Vfx 256x256 Green_7: -4157340728616195012
+      Hit Sparks Vfx 256x256 Green_70: -7599111188830215018
+      Hit Sparks Vfx 256x256 Green_71: -9053905873498060425
+      Hit Sparks Vfx 256x256 Green_72: -6595020716197963323
+      Hit Sparks Vfx 256x256 Green_73: 1694233309571882951
+      Hit Sparks Vfx 256x256 Green_74: -4707293294404594038
+      Hit Sparks Vfx 256x256 Green_75: 4962649038964433185
+      Hit Sparks Vfx 256x256 Green_76: 2726572596068820610
+      Hit Sparks Vfx 256x256 Green_77: 5231174752463939444
+      Hit Sparks Vfx 256x256 Green_78: -6995227798557480229
+      Hit Sparks Vfx 256x256 Green_8: 6489996801226736621
+      Hit Sparks Vfx 256x256 Green_9: 1556647002258215881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

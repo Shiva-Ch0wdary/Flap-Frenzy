@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 6ee6cd92b1cb34841ba7822324a21dd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8668841655538697303
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_0
+  - first:
+      213: 5564162670938674435
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_1
+  - first:
+      213: -1417511874367538759
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_2
+  - first:
+      213: -8034161579836872713
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_3
+  - first:
+      213: 5399347557378738526
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_4
+  - first:
+      213: -3541386424136976706
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_5
+  - first:
+      213: -3990921382390033017
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_6
+  - first:
+      213: -5457781458186590839
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_7
+  - first:
+      213: -3121501399748256219
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_8
+  - first:
+      213: 8600676786623630607
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_9
+  - first:
+      213: 7075028175400623980
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_10
+  - first:
+      213: 3469932028307926450
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_11
+  - first:
+      213: 5208816565827955811
+    second: Shield Elliptic Hex Pulse Loop 96x128  Green_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544e746e89ed4870800000000000000
+      internalID: 8668841655538697303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305d9c11870e73d40800000000000000
+      internalID: 5564162670938674435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9bc67e57cf35ce0800000000000000
+      internalID: -1417511874367538759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 401
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76bb52c9ce08090800000000000000
+      internalID: -8034161579836872713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ce681ff55eea40800000000000000
+      internalID: 5399347557378738526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6bce07fc77adec0800000000000000
+      internalID: -3541386424136976706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7859124c5266d98c0800000000000000
+      internalID: -3990921382390033017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985231b2ea01244b0800000000000000
+      internalID: -5457781458186590839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ede1ee3033ea4d0800000000000000
+      internalID: -3121501399748256219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d46a618fdbb5770800000000000000
+      internalID: 8600676786623630607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f52a2f3ac8f2260800000000000000
+      internalID: 7075028175400623980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 145
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd6b069bcca72030800000000000000
+      internalID: 3469932028307926450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Pulse Loop 96x128  Green_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6852b11f694840800000000000000
+      internalID: 5208816565827955811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Hex Pulse Loop 96x128  Green_0: 8668841655538697303
+      Shield Elliptic Hex Pulse Loop 96x128  Green_1: 5564162670938674435
+      Shield Elliptic Hex Pulse Loop 96x128  Green_10: 7075028175400623980
+      Shield Elliptic Hex Pulse Loop 96x128  Green_11: 3469932028307926450
+      Shield Elliptic Hex Pulse Loop 96x128  Green_12: 5208816565827955811
+      Shield Elliptic Hex Pulse Loop 96x128  Green_2: -1417511874367538759
+      Shield Elliptic Hex Pulse Loop 96x128  Green_3: -8034161579836872713
+      Shield Elliptic Hex Pulse Loop 96x128  Green_4: 5399347557378738526
+      Shield Elliptic Hex Pulse Loop 96x128  Green_5: -3541386424136976706
+      Shield Elliptic Hex Pulse Loop 96x128  Green_6: -3990921382390033017
+      Shield Elliptic Hex Pulse Loop 96x128  Green_7: -5457781458186590839
+      Shield Elliptic Hex Pulse Loop 96x128  Green_8: -3121501399748256219
+      Shield Elliptic Hex Pulse Loop 96x128  Green_9: 8600676786623630607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

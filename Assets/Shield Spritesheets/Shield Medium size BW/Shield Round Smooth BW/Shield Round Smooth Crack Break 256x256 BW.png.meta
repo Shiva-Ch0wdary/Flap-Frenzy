@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 78255a83d772c3240a00df0beb0e5c75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8720648007158726739
+    second: Shield Round Smooth Crack Break 256x256 BW_0
+  - first:
+      213: 2604444156734168187
+    second: Shield Round Smooth Crack Break 256x256 BW_1
+  - first:
+      213: 4346765057811586693
+    second: Shield Round Smooth Crack Break 256x256 BW_2
+  - first:
+      213: 4210745315571757985
+    second: Shield Round Smooth Crack Break 256x256 BW_3
+  - first:
+      213: -8142762902190534321
+    second: Shield Round Smooth Crack Break 256x256 BW_4
+  - first:
+      213: 7958265813789715215
+    second: Shield Round Smooth Crack Break 256x256 BW_5
+  - first:
+      213: -8192491754555304977
+    second: Shield Round Smooth Crack Break 256x256 BW_6
+  - first:
+      213: -850881155959320269
+    second: Shield Round Smooth Crack Break 256x256 BW_7
+  - first:
+      213: 3511920825306227401
+    second: Shield Round Smooth Crack Break 256x256 BW_8
+  - first:
+      213: 2121716688274218248
+    second: Shield Round Smooth Crack Break 256x256 BW_9
+  - first:
+      213: -6174534869778228782
+    second: Shield Round Smooth Crack Break 256x256 BW_10
+  - first:
+      213: 5747546626110471543
+    second: Shield Round Smooth Crack Break 256x256 BW_11
+  - first:
+      213: 568285637342792901
+    second: Shield Round Smooth Crack Break 256x256 BW_12
+  - first:
+      213: 5432380749855689906
+    second: Shield Round Smooth Crack Break 256x256 BW_13
+  - first:
+      213: -6203879682418971882
+    second: Shield Round Smooth Crack Break 256x256 BW_14
+  - first:
+      213: 3094488641616329284
+    second: Shield Round Smooth Crack Break 256x256 BW_15
+  - first:
+      213: 6736505287278711393
+    second: Shield Round Smooth Crack Break 256x256 BW_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 796
+        width: 189
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daff51a67d80af680800000000000000
+      internalID: -8720648007158726739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 797
+        width: 189
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c5b7f5928d42420800000000000000
+      internalID: 2604444156734168187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 779
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e90f83acfc25c30800000000000000
+      internalID: 4346765057811586693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 946
+        width: 124
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a37b461e829f6a30800000000000000
+      internalID: 4210745315571757985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 896
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4154bc58481ffe80800000000000000
+      internalID: -8142762902190534321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_5
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 949
+        width: 121
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b221bc790717e60800000000000000
+      internalID: 7958265813789715215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 789
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31a68a72c6e4e80800000000000000
+      internalID: -8192491754555304977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 785
+        width: 104
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33198f8c8101134f0800000000000000
+      internalID: -850881155959320269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_8
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 779
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2aca73269dcb030800000000000000
+      internalID: 3511920825306227401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d5a9e261ad17d10800000000000000
+      internalID: 2121716688274218248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 697
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91b910045af4aa0800000000000000
+      internalID: -6174534869778228782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 641
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d3f43643363cf40800000000000000
+      internalID: 5747546626110471543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 698
+        width: 115
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc06c8b6c4f2e700800000000000000
+      internalID: 568285637342792901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 523
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc81df8281b36b40800000000000000
+      internalID: 5432380749855689906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 531
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b67246c4467e9a0800000000000000
+      internalID: -6203879682418971882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 518
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ab5053605d1fa20800000000000000
+      internalID: 3094488641616329284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Crack Break 256x256 BW_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 524
+        width: 107
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162d9c30edfdc7d50800000000000000
+      internalID: 6736505287278711393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Smooth Crack Break 256x256 BW_0: -8720648007158726739
+      Shield Round Smooth Crack Break 256x256 BW_1: 2604444156734168187
+      Shield Round Smooth Crack Break 256x256 BW_10: -6174534869778228782
+      Shield Round Smooth Crack Break 256x256 BW_11: 5747546626110471543
+      Shield Round Smooth Crack Break 256x256 BW_12: 568285637342792901
+      Shield Round Smooth Crack Break 256x256 BW_13: 5432380749855689906
+      Shield Round Smooth Crack Break 256x256 BW_14: -6203879682418971882
+      Shield Round Smooth Crack Break 256x256 BW_15: 3094488641616329284
+      Shield Round Smooth Crack Break 256x256 BW_16: 6736505287278711393
+      Shield Round Smooth Crack Break 256x256 BW_2: 4346765057811586693
+      Shield Round Smooth Crack Break 256x256 BW_3: 4210745315571757985
+      Shield Round Smooth Crack Break 256x256 BW_4: -8142762902190534321
+      Shield Round Smooth Crack Break 256x256 BW_5: 7958265813789715215
+      Shield Round Smooth Crack Break 256x256 BW_6: -8192491754555304977
+      Shield Round Smooth Crack Break 256x256 BW_7: -850881155959320269
+      Shield Round Smooth Crack Break 256x256 BW_8: 3511920825306227401
+      Shield Round Smooth Crack Break 256x256 BW_9: 2121716688274218248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

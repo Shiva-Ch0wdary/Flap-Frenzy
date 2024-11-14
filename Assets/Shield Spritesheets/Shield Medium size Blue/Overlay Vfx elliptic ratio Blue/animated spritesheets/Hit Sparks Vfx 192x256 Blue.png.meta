@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 5fd70eea0cc54314c864f84541e83d04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7496180921182160560
+    second: Hit Sparks Vfx 192x256 Blue_0
+  - first:
+      213: 7385391136338723360
+    second: Hit Sparks Vfx 192x256 Blue_1
+  - first:
+      213: 7117122645967242503
+    second: Hit Sparks Vfx 192x256 Blue_2
+  - first:
+      213: 243542795144376192
+    second: Hit Sparks Vfx 192x256 Blue_3
+  - first:
+      213: -5200363509801130559
+    second: Hit Sparks Vfx 192x256 Blue_4
+  - first:
+      213: 3239691262198039620
+    second: Hit Sparks Vfx 192x256 Blue_5
+  - first:
+      213: -6374287974096879854
+    second: Hit Sparks Vfx 192x256 Blue_6
+  - first:
+      213: -3562971695666261893
+    second: Hit Sparks Vfx 192x256 Blue_7
+  - first:
+      213: 1061550708751052062
+    second: Hit Sparks Vfx 192x256 Blue_8
+  - first:
+      213: -7487374620292634388
+    second: Hit Sparks Vfx 192x256 Blue_9
+  - first:
+      213: -2493330688586013891
+    second: Hit Sparks Vfx 192x256 Blue_10
+  - first:
+      213: 1468074553999402447
+    second: Hit Sparks Vfx 192x256 Blue_11
+  - first:
+      213: 3191973814845540993
+    second: Hit Sparks Vfx 192x256 Blue_12
+  - first:
+      213: -2732418953344924593
+    second: Hit Sparks Vfx 192x256 Blue_13
+  - first:
+      213: -6276674245110712779
+    second: Hit Sparks Vfx 192x256 Blue_14
+  - first:
+      213: -3786346207327077735
+    second: Hit Sparks Vfx 192x256 Blue_15
+  - first:
+      213: 3926018912735736708
+    second: Hit Sparks Vfx 192x256 Blue_16
+  - first:
+      213: -7222968069319609265
+    second: Hit Sparks Vfx 192x256 Blue_17
+  - first:
+      213: 903105606514980449
+    second: Hit Sparks Vfx 192x256 Blue_18
+  - first:
+      213: 1093297242176325994
+    second: Hit Sparks Vfx 192x256 Blue_19
+  - first:
+      213: -6426479226473299553
+    second: Hit Sparks Vfx 192x256 Blue_20
+  - first:
+      213: -5370077717521640959
+    second: Hit Sparks Vfx 192x256 Blue_21
+  - first:
+      213: 7584916113423905846
+    second: Hit Sparks Vfx 192x256 Blue_22
+  - first:
+      213: 3792636134338442287
+    second: Hit Sparks Vfx 192x256 Blue_23
+  - first:
+      213: 7319025489677968323
+    second: Hit Sparks Vfx 192x256 Blue_24
+  - first:
+      213: -7744392043387538367
+    second: Hit Sparks Vfx 192x256 Blue_25
+  - first:
+      213: 944730416949750689
+    second: Hit Sparks Vfx 192x256 Blue_26
+  - first:
+      213: -6303237090340411663
+    second: Hit Sparks Vfx 192x256 Blue_27
+  - first:
+      213: -362707443091992597
+    second: Hit Sparks Vfx 192x256 Blue_28
+  - first:
+      213: 3985880426927706140
+    second: Hit Sparks Vfx 192x256 Blue_29
+  - first:
+      213: 3118503156608720512
+    second: Hit Sparks Vfx 192x256 Blue_30
+  - first:
+      213: -7517313684103402631
+    second: Hit Sparks Vfx 192x256 Blue_31
+  - first:
+      213: -1646545351094502468
+    second: Hit Sparks Vfx 192x256 Blue_32
+  - first:
+      213: 689516792097247708
+    second: Hit Sparks Vfx 192x256 Blue_33
+  - first:
+      213: 3089051463352697373
+    second: Hit Sparks Vfx 192x256 Blue_34
+  - first:
+      213: 9107976890952089470
+    second: Hit Sparks Vfx 192x256 Blue_35
+  - first:
+      213: -5721191158422035721
+    second: Hit Sparks Vfx 192x256 Blue_36
+  - first:
+      213: -6420525924643621733
+    second: Hit Sparks Vfx 192x256 Blue_37
+  - first:
+      213: 1016433328735470121
+    second: Hit Sparks Vfx 192x256 Blue_38
+  - first:
+      213: 6427724157531627235
+    second: Hit Sparks Vfx 192x256 Blue_39
+  - first:
+      213: -4540912242789861496
+    second: Hit Sparks Vfx 192x256 Blue_40
+  - first:
+      213: 1638623055771568964
+    second: Hit Sparks Vfx 192x256 Blue_41
+  - first:
+      213: 2842795807157164383
+    second: Hit Sparks Vfx 192x256 Blue_42
+  - first:
+      213: 1241669006499980578
+    second: Hit Sparks Vfx 192x256 Blue_43
+  - first:
+      213: -6719134977417050305
+    second: Hit Sparks Vfx 192x256 Blue_44
+  - first:
+      213: 1997179872320839941
+    second: Hit Sparks Vfx 192x256 Blue_45
+  - first:
+      213: -6074658415412675444
+    second: Hit Sparks Vfx 192x256 Blue_46
+  - first:
+      213: 3596358600639201404
+    second: Hit Sparks Vfx 192x256 Blue_47
+  - first:
+      213: -3025677651673001617
+    second: Hit Sparks Vfx 192x256 Blue_48
+  - first:
+      213: 4727426624137831713
+    second: Hit Sparks Vfx 192x256 Blue_49
+  - first:
+      213: -2114129911315894657
+    second: Hit Sparks Vfx 192x256 Blue_50
+  - first:
+      213: 9174102957690409590
+    second: Hit Sparks Vfx 192x256 Blue_51
+  - first:
+      213: -8574216500968531915
+    second: Hit Sparks Vfx 192x256 Blue_52
+  - first:
+      213: 5044302592875929896
+    second: Hit Sparks Vfx 192x256 Blue_53
+  - first:
+      213: 9105966878545620856
+    second: Hit Sparks Vfx 192x256 Blue_54
+  - first:
+      213: 3470103570101646738
+    second: Hit Sparks Vfx 192x256 Blue_55
+  - first:
+      213: 6701484954273775729
+    second: Hit Sparks Vfx 192x256 Blue_56
+  - first:
+      213: -3141896361837881952
+    second: Hit Sparks Vfx 192x256 Blue_57
+  - first:
+      213: 1186561019514512929
+    second: Hit Sparks Vfx 192x256 Blue_58
+  - first:
+      213: 2455539867911405923
+    second: Hit Sparks Vfx 192x256 Blue_59
+  - first:
+      213: 3727834177148021496
+    second: Hit Sparks Vfx 192x256 Blue_60
+  - first:
+      213: -6651039310542357350
+    second: Hit Sparks Vfx 192x256 Blue_61
+  - first:
+      213: 2567501675560591377
+    second: Hit Sparks Vfx 192x256 Blue_62
+  - first:
+      213: 2836168175984793209
+    second: Hit Sparks Vfx 192x256 Blue_63
+  - first:
+      213: 4341660714685893467
+    second: Hit Sparks Vfx 192x256 Blue_64
+  - first:
+      213: 4705188969387601734
+    second: Hit Sparks Vfx 192x256 Blue_65
+  - first:
+      213: 8434155005386614721
+    second: Hit Sparks Vfx 192x256 Blue_66
+  - first:
+      213: 3841761496705546497
+    second: Hit Sparks Vfx 192x256 Blue_67
+  - first:
+      213: 1113891798734948358
+    second: Hit Sparks Vfx 192x256 Blue_68
+  - first:
+      213: -336378305902683637
+    second: Hit Sparks Vfx 192x256 Blue_69
+  - first:
+      213: -5239060860402193318
+    second: Hit Sparks Vfx 192x256 Blue_70
+  - first:
+      213: -6106462075238738718
+    second: Hit Sparks Vfx 192x256 Blue_71
+  - first:
+      213: -8581894204957539387
+    second: Hit Sparks Vfx 192x256 Blue_72
+  - first:
+      213: 1793137844462662350
+    second: Hit Sparks Vfx 192x256 Blue_73
+  - first:
+      213: -4467444719186852036
+    second: Hit Sparks Vfx 192x256 Blue_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 426
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b68f13d4d8c70860800000000000000
+      internalID: 7496180921182160560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 445
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022c9c8eb1e2e7660800000000000000
+      internalID: 7385391136338723360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 434
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70504cf965915c260800000000000000
+      internalID: 7117122645967242503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 351
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08faf20c1ec316300800000000000000
+      internalID: 243542795144376192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 380
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c56667c0f894d7b0800000000000000
+      internalID: -5200363509801130559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 399
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4444041d902b5fc20800000000000000
+      internalID: 3239691262198039620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 426
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f39e72cdaf987a0800000000000000
+      internalID: -6374287974096879854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 415
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709a07ce18cd8ec0800000000000000
+      internalID: -3562971695666261893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 414
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dab2aceb26bbe00800000000000000
+      internalID: 1061550708751052062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 398
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8ae21e370871890800000000000000
+      internalID: -7487374620292634388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 398
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33204fe2f8e56dd0800000000000000
+      internalID: -2493330688586013891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 404
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5ace65706af5410800000000000000
+      internalID: 1468074553999402447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 376
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a8736d54b2c4c20800000000000000
+      internalID: 3191973814845540993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 388
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44c45c507f741ad0800000000000000
+      internalID: -2732418953344924593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 371
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53635518706c4e8a0800000000000000
+      internalID: -6276674245110712779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 376
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3f937f22347bc0800000000000000
+      internalID: -3786346207327077735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 376
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483341376650c7630800000000000000
+      internalID: 3926018912735736708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 383
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4437345fccd2cb90800000000000000
+      internalID: -7222968069319609265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 337
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663df6a3c9788c00800000000000000
+      internalID: 903105606514980449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 377
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6985d99c0c2c2f00800000000000000
+      internalID: 1093297242176325994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 376
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c1a5413f80d6a0800000000000000
+      internalID: -6426479226473299553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d1ee84c6a975b0800000000000000
+      internalID: -5370077717521640959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 369
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634b4cfb409034960800000000000000
+      internalID: 7584916113423905846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 320
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bd8d487622a430800000000000000
+      internalID: 3792636134338442287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_24
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3e84ea7e6629560800000000000000
+      internalID: 7319025489677968323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 343
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1443684d774668490800000000000000
+      internalID: -7744392043387538367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 354
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abebce0f4b5c1d00800000000000000
+      internalID: 944730416949750689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 342
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6613723476688a0800000000000000
+      internalID: -6303237090340411663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 305
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8c11908767faf0800000000000000
+      internalID: -362707443091992597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 352
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1055345121b05730800000000000000
+      internalID: 3985880426927706140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 343
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed8903916274b20800000000000000
+      internalID: 3118503156608720512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 327
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b65d168032da790800000000000000
+      internalID: -7517313684103402631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_32
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 322
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbf0791abb4629e0800000000000000
+      internalID: -1646545351094502468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 328
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd19f938ed7a19900800000000000000
+      internalID: 689516792097247708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_34
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 309
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c90e70f38eda20800000000000000
+      internalID: 3089051463352697373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_35
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 301
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f7aa7e9b8066e70800000000000000
+      internalID: 9107976890952089470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_36
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 313
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2262e14fe3a90b0800000000000000
+      internalID: -5721191158422035721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_37
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 289
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b943e6e50b5b5e6a0800000000000000
+      internalID: -6420525924643621733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 163
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92245292ab81b1e00800000000000000
+      internalID: 1016433328735470121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee9ed3d01dd33950800000000000000
+      internalID: 6427724157531627235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 169
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887b94cbf507bf0c0800000000000000
+      internalID: -4540912242789861496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b8708ccfe8db610800000000000000
+      internalID: 1638623055771568964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 164
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59929e89b3a37720800000000000000
+      internalID: 2842795807157164383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 132
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2252b0df16b4b3110800000000000000
+      internalID: 1241669006499980578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 158
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3787296656d0c2a0800000000000000
+      internalID: -6719134977417050305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 149
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016e3a238867bb10800000000000000
+      internalID: 1997179872320839941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 122
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7d792b5a72bba0800000000000000
+      internalID: -6074658415412675444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 134
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70450cc715d8e130800000000000000
+      internalID: 3596358600639201404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 139
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61513fd432a206d0800000000000000
+      internalID: -3025677651673001617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125a579b7713b9140800000000000000
+      internalID: 4727426624137831713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 124
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eecfafb0a19a2e0800000000000000
+      internalID: -2114129911315894657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6725ff59806f05f70800000000000000
+      internalID: 9174102957690409590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 109
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5385a704583420980800000000000000
+      internalID: -8574216500968531915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a3fb7b76f00640800000000000000
+      internalID: 5044302592875929896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2f2c61a4ee5e70800000000000000
+      internalID: 9105966878545620856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29539b5cfc8482030800000000000000
+      internalID: 3470103570101646738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 89
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700d175f05700d50800000000000000
+      internalID: 6701484954273775729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a59f87c7edb564d0800000000000000
+      internalID: -3141896361837881952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 75
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126ec78e5f2877010800000000000000
+      internalID: 1186561019514512929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3614ba6ff74d31220800000000000000
+      internalID: 2455539867911405923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_60
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae776ee6debb330800000000000000
+      internalID: 3727834177148021496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 61
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cb6fb5cf2c2b3a0800000000000000
+      internalID: -6651039310542357350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 60
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1106204bb2991a320800000000000000
+      internalID: 2567501675560591377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97657dcede71c5720800000000000000
+      internalID: 2836168175984793209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 43
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b0f1aba6da04c30800000000000000
+      internalID: 4341660714685893467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 48
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2f6140703c4140800000000000000
+      internalID: 4705188969387601734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e6a49a432c0570800000000000000
+      internalID: 8434155005386614721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 42
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10938ea0abda05530800000000000000
+      internalID: 3841761496705546497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_68
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 45
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60841d570b6557f00800000000000000
+      internalID: 1113891798734948358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 22
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad58686b1f45bf0800000000000000
+      internalID: -336378305902683637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 14
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c231bb7ed1b47b0800000000000000
+      internalID: -5239060860402193318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e41003981d714ba0800000000000000
+      internalID: -6106462075238738718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_72
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 25
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3c58d70bcf6e880800000000000000
+      internalID: -8581894204957539387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b18c7e5182e810800000000000000
+      internalID: 1793137844462662350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit Sparks Vfx 192x256 Blue_74
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 28
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c374c2b82b27002c0800000000000000
+      internalID: -4467444719186852036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit Sparks Vfx 192x256 Blue_0: 7496180921182160560
+      Hit Sparks Vfx 192x256 Blue_1: 7385391136338723360
+      Hit Sparks Vfx 192x256 Blue_10: -2493330688586013891
+      Hit Sparks Vfx 192x256 Blue_11: 1468074553999402447
+      Hit Sparks Vfx 192x256 Blue_12: 3191973814845540993
+      Hit Sparks Vfx 192x256 Blue_13: -2732418953344924593
+      Hit Sparks Vfx 192x256 Blue_14: -6276674245110712779
+      Hit Sparks Vfx 192x256 Blue_15: -3786346207327077735
+      Hit Sparks Vfx 192x256 Blue_16: 3926018912735736708
+      Hit Sparks Vfx 192x256 Blue_17: -7222968069319609265
+      Hit Sparks Vfx 192x256 Blue_18: 903105606514980449
+      Hit Sparks Vfx 192x256 Blue_19: 1093297242176325994
+      Hit Sparks Vfx 192x256 Blue_2: 7117122645967242503
+      Hit Sparks Vfx 192x256 Blue_20: -6426479226473299553
+      Hit Sparks Vfx 192x256 Blue_21: -5370077717521640959
+      Hit Sparks Vfx 192x256 Blue_22: 7584916113423905846
+      Hit Sparks Vfx 192x256 Blue_23: 3792636134338442287
+      Hit Sparks Vfx 192x256 Blue_24: 7319025489677968323
+      Hit Sparks Vfx 192x256 Blue_25: -7744392043387538367
+      Hit Sparks Vfx 192x256 Blue_26: 944730416949750689
+      Hit Sparks Vfx 192x256 Blue_27: -6303237090340411663
+      Hit Sparks Vfx 192x256 Blue_28: -362707443091992597
+      Hit Sparks Vfx 192x256 Blue_29: 3985880426927706140
+      Hit Sparks Vfx 192x256 Blue_3: 243542795144376192
+      Hit Sparks Vfx 192x256 Blue_30: 3118503156608720512
+      Hit Sparks Vfx 192x256 Blue_31: -7517313684103402631
+      Hit Sparks Vfx 192x256 Blue_32: -1646545351094502468
+      Hit Sparks Vfx 192x256 Blue_33: 689516792097247708
+      Hit Sparks Vfx 192x256 Blue_34: 3089051463352697373
+      Hit Sparks Vfx 192x256 Blue_35: 9107976890952089470
+      Hit Sparks Vfx 192x256 Blue_36: -5721191158422035721
+      Hit Sparks Vfx 192x256 Blue_37: -6420525924643621733
+      Hit Sparks Vfx 192x256 Blue_38: 1016433328735470121
+      Hit Sparks Vfx 192x256 Blue_39: 6427724157531627235
+      Hit Sparks Vfx 192x256 Blue_4: -5200363509801130559
+      Hit Sparks Vfx 192x256 Blue_40: -4540912242789861496
+      Hit Sparks Vfx 192x256 Blue_41: 1638623055771568964
+      Hit Sparks Vfx 192x256 Blue_42: 2842795807157164383
+      Hit Sparks Vfx 192x256 Blue_43: 1241669006499980578
+      Hit Sparks Vfx 192x256 Blue_44: -6719134977417050305
+      Hit Sparks Vfx 192x256 Blue_45: 1997179872320839941
+      Hit Sparks Vfx 192x256 Blue_46: -6074658415412675444
+      Hit Sparks Vfx 192x256 Blue_47: 3596358600639201404
+      Hit Sparks Vfx 192x256 Blue_48: -3025677651673001617
+      Hit Sparks Vfx 192x256 Blue_49: 4727426624137831713
+      Hit Sparks Vfx 192x256 Blue_5: 3239691262198039620
+      Hit Sparks Vfx 192x256 Blue_50: -2114129911315894657
+      Hit Sparks Vfx 192x256 Blue_51: 9174102957690409590
+      Hit Sparks Vfx 192x256 Blue_52: -8574216500968531915
+      Hit Sparks Vfx 192x256 Blue_53: 5044302592875929896
+      Hit Sparks Vfx 192x256 Blue_54: 9105966878545620856
+      Hit Sparks Vfx 192x256 Blue_55: 3470103570101646738
+      Hit Sparks Vfx 192x256 Blue_56: 6701484954273775729
+      Hit Sparks Vfx 192x256 Blue_57: -3141896361837881952
+      Hit Sparks Vfx 192x256 Blue_58: 1186561019514512929
+      Hit Sparks Vfx 192x256 Blue_59: 2455539867911405923
+      Hit Sparks Vfx 192x256 Blue_6: -6374287974096879854
+      Hit Sparks Vfx 192x256 Blue_60: 3727834177148021496
+      Hit Sparks Vfx 192x256 Blue_61: -6651039310542357350
+      Hit Sparks Vfx 192x256 Blue_62: 2567501675560591377
+      Hit Sparks Vfx 192x256 Blue_63: 2836168175984793209
+      Hit Sparks Vfx 192x256 Blue_64: 4341660714685893467
+      Hit Sparks Vfx 192x256 Blue_65: 4705188969387601734
+      Hit Sparks Vfx 192x256 Blue_66: 8434155005386614721
+      Hit Sparks Vfx 192x256 Blue_67: 3841761496705546497
+      Hit Sparks Vfx 192x256 Blue_68: 1113891798734948358
+      Hit Sparks Vfx 192x256 Blue_69: -336378305902683637
+      Hit Sparks Vfx 192x256 Blue_7: -3562971695666261893
+      Hit Sparks Vfx 192x256 Blue_70: -5239060860402193318
+      Hit Sparks Vfx 192x256 Blue_71: -6106462075238738718
+      Hit Sparks Vfx 192x256 Blue_72: -8581894204957539387
+      Hit Sparks Vfx 192x256 Blue_73: 1793137844462662350
+      Hit Sparks Vfx 192x256 Blue_74: -4467444719186852036
+      Hit Sparks Vfx 192x256 Blue_8: 1061550708751052062
+      Hit Sparks Vfx 192x256 Blue_9: -7487374620292634388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

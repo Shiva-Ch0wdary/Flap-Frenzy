@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: bec2c7d7ab986e3478e6dea1c87677cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9135280921936718689
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_0
+  - first:
+      213: -2051733271136641348
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_1
+  - first:
+      213: -3470835710675374552
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_2
+  - first:
+      213: -2587958894686174330
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_3
+  - first:
+      213: -421421824007591706
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_4
+  - first:
+      213: 753622545926423231
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_5
+  - first:
+      213: -5664608395975624833
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_6
+  - first:
+      213: -4547345752852400340
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_7
+  - first:
+      213: -5550567109841387556
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_8
+  - first:
+      213: -4823063256386344375
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_9
+  - first:
+      213: -802270219999559385
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_10
+  - first:
+      213: 3166936506887852763
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_11
+  - first:
+      213: 1910438977455338200
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_12
+  - first:
+      213: -4678813908786521896
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_13
+  - first:
+      213: -3606871108698243263
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_14
+  - first:
+      213: 7520120964921630522
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_15
+  - first:
+      213: -5041914961280844033
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_16
+  - first:
+      213: -5581456259865549808
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_17
+  - first:
+      213: -80784636606615295
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_18
+  - first:
+      213: -236967528277526928
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_19
+  - first:
+      213: -2680914519215469839
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_20
+  - first:
+      213: -2263792630919176576
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_21
+  - first:
+      213: 2097451583728092501
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_22
+  - first:
+      213: 2246920558998316678
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_23
+  - first:
+      213: 2893711726695850404
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_24
+  - first:
+      213: 8197005952084653272
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_25
+  - first:
+      213: 8558904351372501901
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_26
+  - first:
+      213: 1967332620554540880
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_27
+  - first:
+      213: -5453050023982971374
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_28
+  - first:
+      213: 3742134241909333573
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_29
+  - first:
+      213: -6729377884813244213
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_30
+  - first:
+      213: -360549045090525771
+    second: Spell casting Magic Symbol 01 Small 128x128 Blue_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 476
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f941f8cf666f83180800000000000000
+      internalID: -9135280921936718689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 482
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbedc00e577c683e0800000000000000
+      internalID: -2051733271136641348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 473
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e24777f4d15dfc0800000000000000
+      internalID: -3470835710675374552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 481
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6830becc819b51cd0800000000000000
+      internalID: -2587958894686174330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e82e67751fc62af0800000000000000
+      internalID: -421421824007591706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 403
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28ba076b7657a00800000000000000
+      internalID: 753622545926423231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 458
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f777d2e1da44361b0800000000000000
+      internalID: -5664608395975624833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 462
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f952712594e0c0800000000000000
+      internalID: -4547345752852400340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 458
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfffeb2f9c68f2b0800000000000000
+      internalID: -5550567109841387556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 454
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6ad1a589011db0800000000000000
+      internalID: -4823063256386344375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 461
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214d0b4c73cdd4f0800000000000000
+      internalID: -802270219999559385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 455
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2544f49f733fb20800000000000000
+      internalID: 3166936506887852763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 450
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d23948c02e338a10800000000000000
+      internalID: 1910438977455338200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 436
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d85f941a83811fb0800000000000000
+      internalID: -4678813908786521896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 417
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ffb6f26d1d1fdc0800000000000000
+      internalID: -3606871108698243263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 435
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f1f1e9c26dc5860800000000000000
+      internalID: 7520120964921630522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 418
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb0215e05870ab0800000000000000
+      internalID: -5041914961280844033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 414
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014655d7a1faa82b0800000000000000
+      internalID: -5581456259865549808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 432
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f0cf0dcef0eef0800000000000000
+      internalID: -80784636606615295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 415
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07637bdd94f16bcf0800000000000000
+      internalID: -236967528277526928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 420
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa89f8e27a7bcad0800000000000000
+      internalID: -2680914519215469839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 420
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5ae4a8946590e0800000000000000
+      internalID: -2263792630919176576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 403
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55581b54a15ab1d10800000000000000
+      internalID: 2097451583728092501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 403
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686ed9df75aae2f10800000000000000
+      internalID: 2246920558998316678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a610eb77882820800000000000000
+      internalID: 2893711726695850404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 275
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b4cbdb7d91c170800000000000000
+      internalID: 8197005952084653272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 275
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d836a1a192657c670800000000000000
+      internalID: 8558904351372501901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 275
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0571133589e5d4b10800000000000000
+      internalID: 1967332620554540880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 275
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2164f0a05efd254b0800000000000000
+      internalID: -5453050023982971374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 147
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed4de244bbee330800000000000000
+      internalID: 3742134241909333573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 147
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84650b7727c92a0800000000000000
+      internalID: -6729377884813244213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell casting Magic Symbol 01 Small 128x128 Blue_31
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 147
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd543cd821ffaf0800000000000000
+      internalID: -360549045090525771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell casting Magic Symbol 01 Small 128x128 Blue_0: -9135280921936718689
+      Spell casting Magic Symbol 01 Small 128x128 Blue_1: -2051733271136641348
+      Spell casting Magic Symbol 01 Small 128x128 Blue_10: -802270219999559385
+      Spell casting Magic Symbol 01 Small 128x128 Blue_11: 3166936506887852763
+      Spell casting Magic Symbol 01 Small 128x128 Blue_12: 1910438977455338200
+      Spell casting Magic Symbol 01 Small 128x128 Blue_13: -4678813908786521896
+      Spell casting Magic Symbol 01 Small 128x128 Blue_14: -3606871108698243263
+      Spell casting Magic Symbol 01 Small 128x128 Blue_15: 7520120964921630522
+      Spell casting Magic Symbol 01 Small 128x128 Blue_16: -5041914961280844033
+      Spell casting Magic Symbol 01 Small 128x128 Blue_17: -5581456259865549808
+      Spell casting Magic Symbol 01 Small 128x128 Blue_18: -80784636606615295
+      Spell casting Magic Symbol 01 Small 128x128 Blue_19: -236967528277526928
+      Spell casting Magic Symbol 01 Small 128x128 Blue_2: -3470835710675374552
+      Spell casting Magic Symbol 01 Small 128x128 Blue_20: -2680914519215469839
+      Spell casting Magic Symbol 01 Small 128x128 Blue_21: -2263792630919176576
+      Spell casting Magic Symbol 01 Small 128x128 Blue_22: 2097451583728092501
+      Spell casting Magic Symbol 01 Small 128x128 Blue_23: 2246920558998316678
+      Spell casting Magic Symbol 01 Small 128x128 Blue_24: 2893711726695850404
+      Spell casting Magic Symbol 01 Small 128x128 Blue_25: 8197005952084653272
+      Spell casting Magic Symbol 01 Small 128x128 Blue_26: 8558904351372501901
+      Spell casting Magic Symbol 01 Small 128x128 Blue_27: 1967332620554540880
+      Spell casting Magic Symbol 01 Small 128x128 Blue_28: -5453050023982971374
+      Spell casting Magic Symbol 01 Small 128x128 Blue_29: 3742134241909333573
+      Spell casting Magic Symbol 01 Small 128x128 Blue_3: -2587958894686174330
+      Spell casting Magic Symbol 01 Small 128x128 Blue_30: -6729377884813244213
+      Spell casting Magic Symbol 01 Small 128x128 Blue_31: -360549045090525771
+      Spell casting Magic Symbol 01 Small 128x128 Blue_4: -421421824007591706
+      Spell casting Magic Symbol 01 Small 128x128 Blue_5: 753622545926423231
+      Spell casting Magic Symbol 01 Small 128x128 Blue_6: -5664608395975624833
+      Spell casting Magic Symbol 01 Small 128x128 Blue_7: -4547345752852400340
+      Spell casting Magic Symbol 01 Small 128x128 Blue_8: -5550567109841387556
+      Spell casting Magic Symbol 01 Small 128x128 Blue_9: -4823063256386344375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

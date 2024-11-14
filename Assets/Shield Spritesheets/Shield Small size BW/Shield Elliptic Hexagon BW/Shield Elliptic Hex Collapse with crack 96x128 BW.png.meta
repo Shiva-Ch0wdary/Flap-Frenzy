@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f483a9f72905663428a7af13fe1939d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6404247539975779903
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_0
+  - first:
+      213: 8831964659174070030
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_1
+  - first:
+      213: 3843627037728588896
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_2
+  - first:
+      213: 626094354213550161
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_3
+  - first:
+      213: -4257068258278872588
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_4
+  - first:
+      213: -2912186489843489636
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_5
+  - first:
+      213: 8670085225663490343
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_6
+  - first:
+      213: 5195463398584078083
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_7
+  - first:
+      213: 7115518332609181787
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_8
+  - first:
+      213: -6658474816962148834
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_9
+  - first:
+      213: 5952633259265567742
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_10
+  - first:
+      213: 429598959276466756
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_11
+  - first:
+      213: 3487390539745526974
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_12
+  - first:
+      213: 7860501297865074226
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_13
+  - first:
+      213: -5987365873568459679
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_14
+  - first:
+      213: 1661126001997739521
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_15
+  - first:
+      213: 4472269504110448894
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_16
+  - first:
+      213: 9109560956274927345
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_17
+  - first:
+      213: 5878583014655928766
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_18
+  - first:
+      213: -816716064522457009
+    second: Shield Elliptic Hex Collapse with crack 96x128 BW_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36fce9d43570e850800000000000000
+      internalID: 6404247539975779903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07dfd25011719a70800000000000000
+      internalID: 8831964659174070030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 143
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06446e82d6e475530800000000000000
+      internalID: 3843627037728588896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 143
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b6ca7f7550b800800000000000000
+      internalID: 626094354213550161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f962b859fadbe4c0800000000000000
+      internalID: -4257068258278872588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94ef2121d5d597d0800000000000000
+      internalID: -2912186489843489636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729e800a394525870800000000000000
+      internalID: 8670085225663490343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc52c2f6ef91840800000000000000
+      internalID: 5195463398584078083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 87
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5833ff49366fb260800000000000000
+      internalID: 7115518332609181787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 75
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16461d9e685893a0800000000000000
+      internalID: -6658474816962148834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 86
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb23b039600c9250800000000000000
+      internalID: 5952633259265567742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 33
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4422d833afd36f500800000000000000
+      internalID: 429598959276466756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 51
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4079a0833b56030800000000000000
+      internalID: 3487390539745526974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236aebf984c161d60800000000000000
+      internalID: 7860501297865074226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164d7add57a98eca0800000000000000
+      internalID: -5987365873568459679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 36
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067d3c3c418d0710800000000000000
+      internalID: 1661126001997739521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 36
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d05c3b61b01e30800000000000000
+      internalID: 4472269504110448894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6e88adc69ab6e70800000000000000
+      internalID: 9109560956274927345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb926331b1ce49150800000000000000
+      internalID: 5878583014655928766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Elliptic Hex Collapse with crack 96x128 BW_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 13
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b8c301117aa4f0800000000000000
+      internalID: -816716064522457009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Elliptic Hex Collapse with crack 96x128 BW_0: 6404247539975779903
+      Shield Elliptic Hex Collapse with crack 96x128 BW_1: 8831964659174070030
+      Shield Elliptic Hex Collapse with crack 96x128 BW_10: 5952633259265567742
+      Shield Elliptic Hex Collapse with crack 96x128 BW_11: 429598959276466756
+      Shield Elliptic Hex Collapse with crack 96x128 BW_12: 3487390539745526974
+      Shield Elliptic Hex Collapse with crack 96x128 BW_13: 7860501297865074226
+      Shield Elliptic Hex Collapse with crack 96x128 BW_14: -5987365873568459679
+      Shield Elliptic Hex Collapse with crack 96x128 BW_15: 1661126001997739521
+      Shield Elliptic Hex Collapse with crack 96x128 BW_16: 4472269504110448894
+      Shield Elliptic Hex Collapse with crack 96x128 BW_17: 9109560956274927345
+      Shield Elliptic Hex Collapse with crack 96x128 BW_18: 5878583014655928766
+      Shield Elliptic Hex Collapse with crack 96x128 BW_19: -816716064522457009
+      Shield Elliptic Hex Collapse with crack 96x128 BW_2: 3843627037728588896
+      Shield Elliptic Hex Collapse with crack 96x128 BW_3: 626094354213550161
+      Shield Elliptic Hex Collapse with crack 96x128 BW_4: -4257068258278872588
+      Shield Elliptic Hex Collapse with crack 96x128 BW_5: -2912186489843489636
+      Shield Elliptic Hex Collapse with crack 96x128 BW_6: 8670085225663490343
+      Shield Elliptic Hex Collapse with crack 96x128 BW_7: 5195463398584078083
+      Shield Elliptic Hex Collapse with crack 96x128 BW_8: 7115518332609181787
+      Shield Elliptic Hex Collapse with crack 96x128 BW_9: -6658474816962148834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

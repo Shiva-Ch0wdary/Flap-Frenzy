@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: aefd83525d6fdd346855972efc744087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8757319995671967371
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_0
+  - first:
+      213: -8696201378347410033
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_1
+  - first:
+      213: -7678823567936071688
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_2
+  - first:
+      213: -1805822230808167847
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_3
+  - first:
+      213: 4140939178104307476
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_4
+  - first:
+      213: 396096906215743335
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_5
+  - first:
+      213: -9207920861468114477
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_6
+  - first:
+      213: 6402529270055359931
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_7
+  - first:
+      213: -8352045281012437252
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_8
+  - first:
+      213: -2424608432033795174
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_9
+  - first:
+      213: -1399427529730220310
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_10
+  - first:
+      213: -694579430453794217
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_11
+  - first:
+      213: 1640921517992192291
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_12
+  - first:
+      213: -3541595229182575477
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_13
+  - first:
+      213: -432497481374580061
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_14
+  - first:
+      213: -4281086077609391398
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_15
+  - first:
+      213: 3992058376442412886
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_16
+  - first:
+      213: -3700705229690122658
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_17
+  - first:
+      213: 4663703889397565066
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_18
+  - first:
+      213: 5779766577400356550
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_19
+  - first:
+      213: -5152266223336783405
+    second: Shield Round Hex Collapse with cracks 128x128 Blue_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86f3764320488970800000000000000
+      internalID: 8757319995671967371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 400
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d175cbbe2e05780800000000000000
+      internalID: -8696201378347410033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 399
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d54c26a65f6590800000000000000
+      internalID: -7678823567936071688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 399
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afc2daf3e60f6e0800000000000000
+      internalID: -1805822230808167847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 267
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb76b2e32977930800000000000000
+      internalID: 4140939178104307476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 320
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fde9f99083f7500800000000000000
+      internalID: 396096906215743335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 286
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c84c13c4e63080800000000000000
+      internalID: -9207920861468114477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5d0b5f27a5ad850800000000000000
+      internalID: 6402529270055359931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 289
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfea6456113971c80800000000000000
+      internalID: -8352045281012437252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 343
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9375392a7f0a5ed0800000000000000
+      internalID: -2424608432033795174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 331
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee1781831c349ce0800000000000000
+      internalID: -1399427529730220310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a228320bb5c56f0800000000000000
+      internalID: -694579430453794217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 338
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32928383d69b5c610800000000000000
+      internalID: 1640921517992192291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 321
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cba5a37e9b9dec0800000000000000
+      internalID: -3541595229182575477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 291
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2ca6805d57ff9f0800000000000000
+      internalID: -432497481374580061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 291
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac83305e68694c0800000000000000
+      internalID: -4281086077609391398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 291
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff87a41f3a66730800000000000000
+      internalID: 3992058376442412886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 307
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec3e5633474acc0800000000000000
+      internalID: -3700705229690122658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 296
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8646216afdc8b040800000000000000
+      internalID: 4663703889397565066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 273
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9f92641bd53050800000000000000
+      internalID: 5779766577400356550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Hex Collapse with cracks 128x128 Blue_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 269
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d184c1fa297f78b0800000000000000
+      internalID: -5152266223336783405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Hex Collapse with cracks 128x128 Blue_0: 8757319995671967371
+      Shield Round Hex Collapse with cracks 128x128 Blue_1: -8696201378347410033
+      Shield Round Hex Collapse with cracks 128x128 Blue_10: -1399427529730220310
+      Shield Round Hex Collapse with cracks 128x128 Blue_11: -694579430453794217
+      Shield Round Hex Collapse with cracks 128x128 Blue_12: 1640921517992192291
+      Shield Round Hex Collapse with cracks 128x128 Blue_13: -3541595229182575477
+      Shield Round Hex Collapse with cracks 128x128 Blue_14: -432497481374580061
+      Shield Round Hex Collapse with cracks 128x128 Blue_15: -4281086077609391398
+      Shield Round Hex Collapse with cracks 128x128 Blue_16: 3992058376442412886
+      Shield Round Hex Collapse with cracks 128x128 Blue_17: -3700705229690122658
+      Shield Round Hex Collapse with cracks 128x128 Blue_18: 4663703889397565066
+      Shield Round Hex Collapse with cracks 128x128 Blue_19: 5779766577400356550
+      Shield Round Hex Collapse with cracks 128x128 Blue_2: -7678823567936071688
+      Shield Round Hex Collapse with cracks 128x128 Blue_20: -5152266223336783405
+      Shield Round Hex Collapse with cracks 128x128 Blue_3: -1805822230808167847
+      Shield Round Hex Collapse with cracks 128x128 Blue_4: 4140939178104307476
+      Shield Round Hex Collapse with cracks 128x128 Blue_5: 396096906215743335
+      Shield Round Hex Collapse with cracks 128x128 Blue_6: -9207920861468114477
+      Shield Round Hex Collapse with cracks 128x128 Blue_7: 6402529270055359931
+      Shield Round Hex Collapse with cracks 128x128 Blue_8: -8352045281012437252
+      Shield Round Hex Collapse with cracks 128x128 Blue_9: -2424608432033795174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 94d2af812c3920240a58ed0a7a198866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4986721773827173781
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_0
+  - first:
+      213: -5197406819681814431
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_1
+  - first:
+      213: -7953884349058492382
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_2
+  - first:
+      213: 7103364553207874972
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_3
+  - first:
+      213: -5528669545404983606
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_4
+  - first:
+      213: -6541764360187587363
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_5
+  - first:
+      213: 2348758253565358827
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_6
+  - first:
+      213: 5698675988420897668
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_7
+  - first:
+      213: -4402389468934958401
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_8
+  - first:
+      213: -2027845061955328697
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_9
+  - first:
+      213: 7074465095620991064
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_10
+  - first:
+      213: 3279484160439014419
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_11
+  - first:
+      213: -8015964098002757383
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_12
+  - first:
+      213: 5332553195555397252
+    second: Shield Round Smooth Scan Loop V1 512x512 Blue_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59daca25805643540800000000000000
+      internalID: 4986721773827173781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1683ca7d80a1fd7b0800000000000000
+      internalID: -5197406819681814431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22854d573502e9190800000000000000
+      internalID: -7953884349058492382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1608
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c958e080d68349260800000000000000
+      internalID: 7103364553207874972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac69d9137583643b0800000000000000
+      internalID: -5528669545404983606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd455b269fbf635a0800000000000000
+      internalID: -6541764360187587363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b707ff27789020800000000000000
+      internalID: 2348758253565358827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_7
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1096
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b20eb5e93c51f40800000000000000
+      internalID: 5698675988420897668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb216355a1297e2c0800000000000000
+      internalID: -4402389468934958401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456f9ef8a5abd3e0800000000000000
+      internalID: -2027845061955328697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589368b58c8d2260800000000000000
+      internalID: 7074465095620991064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_11
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 584
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314dc7de771138d20800000000000000
+      internalID: 3279484160439014419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8d24e8f1391c090800000000000000
+      internalID: -8015964098002757383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Smooth Scan Loop V1 512x512 Blue_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e14f6d0e8010a40800000000000000
+      internalID: 5332553195555397252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Round Smooth Scan Loop V1 512x512 Blue_0: 4986721773827173781
+      Shield Round Smooth Scan Loop V1 512x512 Blue_1: -5197406819681814431
+      Shield Round Smooth Scan Loop V1 512x512 Blue_10: 7074465095620991064
+      Shield Round Smooth Scan Loop V1 512x512 Blue_11: 3279484160439014419
+      Shield Round Smooth Scan Loop V1 512x512 Blue_12: -8015964098002757383
+      Shield Round Smooth Scan Loop V1 512x512 Blue_13: 5332553195555397252
+      Shield Round Smooth Scan Loop V1 512x512 Blue_2: -7953884349058492382
+      Shield Round Smooth Scan Loop V1 512x512 Blue_3: 7103364553207874972
+      Shield Round Smooth Scan Loop V1 512x512 Blue_4: -5528669545404983606
+      Shield Round Smooth Scan Loop V1 512x512 Blue_5: -6541764360187587363
+      Shield Round Smooth Scan Loop V1 512x512 Blue_6: 2348758253565358827
+      Shield Round Smooth Scan Loop V1 512x512 Blue_7: 5698675988420897668
+      Shield Round Smooth Scan Loop V1 512x512 Blue_8: -4402389468934958401
+      Shield Round Smooth Scan Loop V1 512x512 Blue_9: -2027845061955328697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
