@@ -11,6 +11,8 @@ public class Areoplane : MonoBehaviour
 
     private float initialYPosition;          // To store the initial vertical position at spawn
 
+
+
     private void Start()
     {
         // Destroy the airplane after its lifespan expires
