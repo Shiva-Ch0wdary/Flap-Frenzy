@@ -42,4 +42,9 @@ public class ScoreManager : MonoBehaviour
     {
         scoreTextNow.text = Mathf.Round(currentScorenNow).ToString();
     }
+    public void ResetScore()
+    {
+        currentScorenNow = 0f; // Reset the score to 0
+        UpdateScoreTextNow(); // Update the UI with the reset score
+    }
 }

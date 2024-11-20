@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+using UnityEngine.UI;
 public class Player : MonoBehaviour
 {
     public Sprite[] sprites;
@@ -38,17 +38,42 @@ public class Player : MonoBehaviour
     public float powerUpMinHeight = -2f; // Min height when power-ups are active
     private bool isPowerUpActive = false; // To track if any power-up is currently active
 
+    //declaration of variables of the Coins Spawn
+    public int coinCount = 0;
+    public Text coinTextNow; 
+
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         originalSize = transform.localScale.x;
         playerCollider = GetComponent<Collider2D>();
+        //ResetCoinCount();
+        // Load the saved coin count from PlayerPrefs
+        coinCount = PlayerPrefs.GetInt("TotalCoins", 0); // Ensure we use the correct key "TotalCoins"
+        UpdateCoinUI();
     }
-
     private void Start()
     {
         InvokeRepeating(nameof(AnimateSprite), 0.15f, 0.15f);
+        // Load the saved coin count from PlayerPrefs
+        coinCount = PlayerPrefs.GetInt("TotalCoins", 0);
+        UpdateCoinUI();
     }
+    public void UpdateCoinUI()
+    {
+        if (coinTextNow != null)
+        {
+            coinTextNow.text = coinCount.ToString();
+        }
+        PlayerPrefs.SetInt("TotalCoins", coinCount);
+        PlayerPrefs.Save();
+    }//code to reset the coins to zero call in the awake method
+
+    //private void ResetCoinCount()
+    //{
+    //    PlayerPrefs.SetInt("TotalCoins", 0); // Set the coin count to zero
+    //    PlayerPrefs.Save(); // Save the changes
+    //}
 
     private void Update()
     {
@@ -149,7 +174,7 @@ public class Player : MonoBehaviour
                 GameManager.Instance.GameOver();
             }
         }
-        
+
         else if (other.gameObject.CompareTag("PowerUp"))
         {
             PowerUp powerUp = other.GetComponent<PowerUp>();
@@ -159,8 +184,22 @@ public class Player : MonoBehaviour
                 Destroy(other.gameObject);
             }
         }
-    }
+        else if (other.CompareTag("Coin"))
+        {
+            // Increase the coin count
+            coinCount++;
 
+            // Save the updated coin count
+            PlayerPrefs.SetInt("TotalCoins", coinCount);
+            PlayerPrefs.Save();
+
+            // Update the UI
+            UpdateCoinUI();
+
+            // Destroy the coin object
+            Destroy(other.gameObject);
+        }
+    }
     public void ActivatePowerUp(PowerUpType powerUpType, float duration)
     {
         isPowerUpActive = true; // Mark power-up as active

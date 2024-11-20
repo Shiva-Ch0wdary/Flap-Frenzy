@@ -31,26 +31,86 @@ public class GameManager : MonoBehaviour
     [SerializeField] private ProgressBar progressBar;
 
 
-    public int score { get; private set; } = 0;
-
     private void Awake()
     {
-        if (Instance != null)
+        if (Instance != null )
         {
             DestroyImmediate(gameObject);
         }
         else
         {
             Instance = this;
+            DontDestroyOnLoad(gameObject);
         }
-    }
 
+    }
+    public void IncreaseCoinCount()
+    {
+        player.coinCount++; // Access the coinCount in Player script
+        PlayerPrefs.SetInt("CoinCount", player.coinCount); // Save updated coin count
+        PlayerPrefs.Save();
+        player.UpdateCoinUI(); // Update UI with the new coin count
+    }
+    public int GetCoinCount()
+    {
+        return player.coinCount; // Get coin count directly from Player script
+    }
     private void OnDestroy()
     {
         if (Instance == this)
         {
             Instance = null;
         }
+    }
+    private void OnEnable()
+    {
+        // Subscribe to the sceneLoaded event
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        // Unsubscribe from the sceneLoaded event
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        // Check if the loaded scene is "Day Caves"
+        if (scene.name == "Day Caves")
+        {
+            // Disable the progress bar for the "DayCaves" scene
+            if (progressBar != null)
+            {
+                progressBar.gameObject.SetActive(false); // Disable the progress bar
+            }
+        }
+        else
+        {
+            // Ensure the progress bar is active for other scenes
+            if (progressBar != null)
+            {
+                progressBar.gameObject.SetActive(true); // Enable the progress bar
+            }
+        }
+
+        // Disable the ScoreManager in "DaySunny" and "DayWinter" scenes
+        if (scene.name == "Day Sunny" || scene.name == "Day Winter")
+        {
+            if (scoreManager != null)
+            {
+                scoreManager.gameObject.SetActive(false); // Disable the ScoreManager
+            }
+        }
+        else
+        {
+            // Enable the ScoreManager in other scenes
+            if (scoreManager != null)
+            {
+                scoreManager.gameObject.SetActive(true); // Enable the ScoreManager
+            }
+        }
+  
     }
 
     private void Start()
@@ -97,8 +157,8 @@ public class GameManager : MonoBehaviour
             restartButton.onClick.AddListener(RestartGame);
         }//change pause
     }
-
-    public void Pause()
+   
+public void Pause()
     {
         Time.timeScale = 0f;
         player.enabled = false;
@@ -176,10 +236,11 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
+      
         //change pause
-        if (gameOverDialog != null)
+        if (gameOver != null)
         {
-            gameOverDialog.SetActive(true);
+            gameOver.SetActive(true);
         }
 
         Time.timeScale = 0f; // Pause the game
@@ -283,4 +344,5 @@ public class GameManager : MonoBehaviour
 
         powerUpTimerText.text = "";
     }
+    
 }
