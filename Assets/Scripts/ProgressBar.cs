@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class ProgressBar : MonoBehaviour
 {
     public Slider progressBar;
-    public float targetDuration = 60f; // Set the time in seconds for the progress bar to fill
+    public float targetDuration = 120; // Set the time in seconds for the progress bar to fill
     private float elapsedTime = 0f;
 
     private void Update()

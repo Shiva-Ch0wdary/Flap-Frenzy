@@ -11,6 +11,9 @@ TagManager:
   - SpeedPowerUp
   - playerWinter
   - PowerUp
+  - ice
+  - PlayerCaves
+  - Coin
   layers:
   - Default
   - TransparentFX
