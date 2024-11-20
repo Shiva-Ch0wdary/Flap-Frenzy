@@ -1674,10 +1674,64 @@ PrefabInstance:
       propertyPath: m_Name
       value: gamePauseDialog
       objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1408847647}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1408847647}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnRespawnClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: OnRespawnClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: RespawnButtonHandler, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: RespawnButtonHandler, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874898213470754075, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5345321793341027394, guid: 59bfeea52275633489b50967db56d028,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1408847647}
   m_SourcePrefab: {fileID: 100100000, guid: 59bfeea52275633489b50967db56d028, type: 3}
 --- !u!224 &1408847642 stripped
 RectTransform:
@@ -1703,7 +1757,7 @@ MonoBehaviour:
     type: 3}
   m_PrefabInstance: {fileID: 1408847641}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1408847646}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -1715,6 +1769,24 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1408847641}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1408847646 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5345321793341027394, guid: 59bfeea52275633489b50967db56d028,
+    type: 3}
+  m_PrefabInstance: {fileID: 1408847641}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1408847647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408847646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49f6de9f346c814fa5d63544ab35be7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1474871341
 GameObject:
   m_ObjectHideFlags: 0
