@@ -86,10 +86,10 @@ public class GameManager : MonoBehaviour
         }
 
         // Hook up the respawn button event
-        if (respawnButton != null)
-        {
-            respawnButton.onClick.AddListener(Respawn);
-        }
+
+        //commented respawn button condition
+        //if (respawnButton != null)
+        //{respawnButton.onClick.AddListener(Respawn);}
 
         // Hook up the restart button event
         if (restartButton != null)
@@ -195,7 +195,11 @@ public class GameManager : MonoBehaviour
         AudioManager.Instance.PlaySFX("gameover");
 
         gameOver.SetActive(true);
-        Pause();
+
+        //commented paise() method here
+        //Pause();
+
+        
         //progressbar
         EndGame();
 
@@ -211,11 +215,15 @@ public class GameManager : MonoBehaviour
     //change pause
     public void Respawn()
     {
-        ResumeGame();
+        //commented resumegame()
+        //ResumeGame();
         if (player != null)
         {
             // Restore the player's saved position
             player.transform.position = savedPosition;
+
+            //added resumegame() here
+            ResumeGame();
         }
     }
 
