@@ -40,7 +40,7 @@ public class GameManager : MonoBehaviour
         else
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject);
+            //DontDestroyOnLoad(gameObject);
         }
 
     }
@@ -291,7 +291,7 @@ public void Pause()
     public void RestartGame()
     {
         ResumeGame();
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reload the current scene
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);// Reload the current scene
     }
 
     private void ResumeGame()
