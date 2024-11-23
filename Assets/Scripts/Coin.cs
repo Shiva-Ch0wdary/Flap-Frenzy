@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Speed at which the coin moves
+    public float moveSpeed = 5f; // Speed at which the coin moves0
+
     private void Update()
     {
         // Move the coin to the left

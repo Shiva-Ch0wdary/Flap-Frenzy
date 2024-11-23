@@ -1,11 +1,18 @@
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public class ProgressBar : MonoBehaviour
 {
     public Slider progressBar;
-    public float targetDuration = 120; // Set the time in seconds for the progress bar to fill
+    public float targetDuration; // Remove the default value
     private float elapsedTime = 0f;
+
+    private void Start()
+    {
+        // Set the targetDuration based on the current scene
+        SetTargetDuration();
+        ResetProgress(); // Optionally reset the progress when the game starts
+    }
 
     private void Update()
     {
@@ -35,5 +42,24 @@ public class ProgressBar : MonoBehaviour
     {
         elapsedTime = 0f;
         progressBar.value = 0f;
+    }
+
+    // Method to set the target duration based on the current scene
+    private void SetTargetDuration()
+    {
+        string currentSceneName = SceneManager.GetActiveScene().name;
+
+        if (currentSceneName == "Day Sunny")
+        {
+            targetDuration = 120f; // 2 minutes
+        }
+        else if (currentSceneName == "Day Winter")
+        {
+            targetDuration = 240f; // 4 minutes
+        }
+        else
+        {
+            targetDuration = 120f; // Default duration if scene is not recognized
+        }
     }
 }
