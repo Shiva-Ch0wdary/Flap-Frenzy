@@ -3,11 +3,12 @@ using UnityEngine.SceneManagement;
 
 public class LevelSelector : MonoBehaviour
 {
+ 
 
     public void LoadCavesLevel()
     {
         AudioManager.Instance.PlayGameplayMusic();
-        SceneManager.LoadScene("Day Caves");  
+        SceneManager.LoadScene("Day Caves");
     }
 
     public void LoadWinterLevel()
@@ -21,5 +22,4 @@ public class LevelSelector : MonoBehaviour
         AudioManager.Instance.PlayGameplayMusic();
         SceneManager.LoadScene("Day Sunny");
     }
-
 }
