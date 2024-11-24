@@ -321,6 +321,15 @@ MonoBehaviour:
   restartButton: {fileID: 449113796}
   scoreManager: {fileID: 234744953}
   progressBar: {fileID: 896956720}
+  playerPrefabs:
+  - {fileID: 6916802593568008534, guid: fd709051b31137849b3247cc4fa0e165, type: 3}
+  - {fileID: 8525535161326996712, guid: 2263dcb2d7a41d5438854e6cace0240b, type: 3}
+  - {fileID: 4820717863927171336, guid: 0f9db660725291d409d4c3599e2777ed, type: 3}
+  - {fileID: 5248945561319445803, guid: aea0db20a5c65744bb79974985fd7de6, type: 3}
+  - {fileID: 2551256468413517871, guid: 0251826e37a68074f8796d6210f0e24d, type: 3}
+  - {fileID: 6630671413330807583, guid: 56725b6f6deda2149acd09720c6013ba, type: 3}
+  characterIndex: 0
+  SelectedCharacter: {fileID: 0}
 --- !u!4 &149568775
 Transform:
   m_ObjectHideFlags: 0
@@ -1334,7 +1343,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &527830924
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -5,19 +5,19 @@ public class LevelSelector : MonoBehaviour
 {
  
 
-    public void LoadCavesLevel()
+    public void LoadLevel1()
     {
         AudioManager.Instance.PlayGameplayMusic();
         SceneManager.LoadScene("Day Caves");
     }
 
-    public void LoadWinterLevel()
+    public void LoadLevel2()
     {
         AudioManager.Instance.PlayGameplayMusic();
         SceneManager.LoadScene("Day Winter");
     }
 
-    public void LoadSunnyLevel()
+    public void LoadLevel3()
     {
         AudioManager.Instance.PlayGameplayMusic();
         SceneManager.LoadScene("Day Sunny");
