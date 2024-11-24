@@ -31,8 +31,23 @@ public class GameManager : MonoBehaviour
     [SerializeField] private ProgressBar progressBar;
 
 
+
+    //character
+    [SerializeField] private GameObject[] playerPrefabs;
+    [SerializeField] private int characterIndex;
+    [SerializeField] private static Vector2 lastCheckPointPos=new Vector2(-3,0);
+    public GameObject SelectedCharacter;
+    //character
+
+    public int score { get; private set; } = 0;
+
     private void Awake()
     {
+        //character
+        characterIndex = PlayerPrefs.GetInt("SelectedCharacter", 0);
+        Instantiate(playerPrefabs[characterIndex],lastCheckPointPos, Quaternion.identity);
+        //character
+
         if (Instance != null )
         {
             DestroyImmediate(gameObject);
@@ -353,4 +368,11 @@ public void Pause()
         powerUpTimerText.text = "";
     }
     
+
+    //character
+    public void SelectCharacter(GameObject character)
+    {
+        SelectedCharacter = character; // Assign selected character
+    }
+    //character
 }
