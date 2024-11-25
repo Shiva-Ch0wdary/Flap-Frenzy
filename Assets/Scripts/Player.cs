@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using System.Collections.Generic;
 public class Player : MonoBehaviour
 {
     public Sprite[] sprites;
@@ -26,9 +27,9 @@ public class Player : MonoBehaviour
     private float lastClickTime = 0.0f;
 
     private float originalSize;
-    public GameObject shieldObject;
+   // public GameObject shieldObject;
     public GameObject invisibilityEffect;
-    public GameObject invisibleBirdPrefab; // Reference to the invisible bird prefab
+   // public GameObject invisibleBirdPrefab; // Reference to the invisible bird prefab
 
     private Collider2D playerCollider;
     private GameObject invisibleBirdInstance;
@@ -40,7 +41,17 @@ public class Player : MonoBehaviour
 
     //declaration of variables of the Coins Spawn
     public int coinCount = 0;
-    public Text coinTextNow; 
+    public Text coinTextNow;
+
+    // NEW: Add Particle System for Speed Boost
+    public GameObject speedBoostEffect; // Reference to Speed Boost particle effect
+    public List<GameObject> shieldEffects; // Add all your shield effect prefabs here
+    private List<GameObject> activeShieldEffects = new List<GameObject>();
+
+    public GameObject destroyEffectPrefab; // Particle effect prefab for obstacle destruction
+
+    public ProgressBar powerUpProgressBar; // Reference to the power-up progress bar
+
 
     private void Awake()
     {
@@ -167,6 +178,11 @@ public class Player : MonoBehaviour
         {
             if (isGrowActive)
             {
+                // Instantiate the destroy effect at the obstacle's position
+                if (destroyEffectPrefab != null)
+                {
+                    Instantiate(destroyEffectPrefab, other.transform.position, Quaternion.identity);
+                }
                 Destroy(other.gameObject); // Destroy the obstacle if Grow power-up is active
             }
             else if (!hasShield)
@@ -203,34 +219,33 @@ public class Player : MonoBehaviour
     public void ActivatePowerUp(PowerUpType powerUpType, float duration)
     {
         isPowerUpActive = true; // Mark power-up as active
-        StartCoroutine(GameManager.Instance.DisplayPowerUpTimer(duration));
+        // StartCoroutine(GameManager.Instance.DisplayPowerUpTimer(duration));
+        powerUpProgressBar.ActivateProgressBar(duration); // Activate the power-up progress bar
+
 
         switch (powerUpType)
         {
             case PowerUpType.Invisibility:
                 StartCoroutine(HandleInvisibility(duration));
-                AudioManager.Instance.PlaySFX("powerup");
+               // AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.SpeedBoost:
                 StartCoroutine(HandleSpeedBoost(duration));
-                AudioManager.Instance.PlaySFX("powerup");
+               // AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.Shield:
                 StartCoroutine(HandleShield(duration));
-                AudioManager.Instance.PlaySFX("powerup");
+               // AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.Shrink:
                 StartCoroutine(HandleShrink(duration));
-                AudioManager.Instance.PlaySFX("powerup");
+               // AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.Grow:
                 StartCoroutine(HandleGrow(duration));
-                AudioManager.Instance.PlaySFX("powerup");
+               // AudioManager.Instance.PlaySFX("powerup");
                 break;
-            case PowerUpType.CameraZoomOut:
-                StartCoroutine(HandleCameraZoomOut(duration));
-                AudioManager.Instance.PlaySFX("powerup");
-                break;
+
         }
 
         // Reset the flag after the power-up duration
@@ -241,6 +256,9 @@ public class Player : MonoBehaviour
     {
         yield return new WaitForSeconds(duration);
         isPowerUpActive = false;
+
+        powerUpProgressBar.DeactivateProgressBar(); // Hide progress bar when power-up ends
+
     }
 
     private IEnumerator HandleInvisibility(float duration)
@@ -250,13 +268,6 @@ public class Player : MonoBehaviour
         // Disable the player’s sprite and collider
         spriteRenderer.enabled = false;
         if (playerCollider != null) playerCollider.enabled = false;
-
-        // Instantiate the invisible bird at the player’s position
-        if (invisibleBirdPrefab != null)
-        {
-            invisibleBirdInstance = Instantiate(invisibleBirdPrefab, transform.position, Quaternion.identity);
-            invisibleBirdInstance.transform.parent = transform; // Optional: Parent it to the player if it should follow
-        }
 
         if (invisibilityEffect != null) invisibilityEffect.SetActive(true);
 
@@ -278,20 +289,73 @@ public class Player : MonoBehaviour
         float originalSpeed = normalSpeed;
         normalSpeed *= speedBoostMultiplier;
 
+        // Activate and play the Speed Boost Particle Effect
+        if (speedBoostEffect != null)
+        {
+            speedBoostEffect.SetActive(true);
+
+            // Ensure the particle system starts playing
+            ParticleSystem particleSystem = speedBoostEffect.GetComponent<ParticleSystem>();
+            if (particleSystem != null && !particleSystem.isPlaying)
+            {
+                particleSystem.Play();
+            }
+        }
+        else
+        {
+            Debug.LogWarning("Speed Boost effect is not assigned or missing!");
+        }
+
         yield return new WaitForSeconds(duration);
 
+        // Revert speed and stop the particle effect
         normalSpeed = originalSpeed;
+
+        if (speedBoostEffect != null)
+        {
+            Debug.Log("Activating Speed Boost effect!");
+            ParticleSystem particleSystem = speedBoostEffect.GetComponent<ParticleSystem>();
+            if (particleSystem != null && particleSystem.isPlaying)
+            {
+                particleSystem.Stop();
+            }
+            speedBoostEffect.SetActive(false);
+        }
     }
 
     private IEnumerator HandleShield(float duration)
     {
+        Debug.Log("Shield Activated"); // Debug to confirm this is called
         hasShield = true;
-        if (shieldObject != null) shieldObject.SetActive(true);
+
+        // Instantiate and activate all shield effects
+        foreach (GameObject shieldPrefab in shieldEffects)
+        {
+            if (shieldPrefab != null)
+            {
+                GameObject shieldInstance = Instantiate(shieldPrefab, transform.position, Quaternion.identity);
+                shieldInstance.transform.SetParent(transform); // Parent to the player
+                activeShieldEffects.Add(shieldInstance); // Keep track of active shields
+            }
+            else
+            {
+                Debug.LogError("Shield prefab is null!");
+            }
+        }
 
         yield return new WaitForSeconds(duration);
 
+        // Deactivate and destroy all shield effects
         hasShield = false;
-        if (shieldObject != null) shieldObject.SetActive(false);
+        foreach (GameObject shieldInstance in activeShieldEffects)
+        {
+            if (shieldInstance != null)
+            {
+                Destroy(shieldInstance); // Destroy the shield instance
+            }
+        }
+
+        activeShieldEffects.Clear(); // Clear the list of active shields
     }
 
     private IEnumerator HandleShrink(float duration)
@@ -314,32 +378,4 @@ public class Player : MonoBehaviour
         isGrowActive = false; // Reset the Grow flag after the duration
     }
 
-    private IEnumerator HandleCameraZoomOut(float duration)
-    {
-        float originalFOV = Camera.main.fieldOfView; // Store the original FOV
-        float targetFOV = 160f; // Set your desired zoomed-out FOV
-
-        // Gradually zoom out by increasing the FOV
-        float elapsedTime = 0f;
-        while (elapsedTime < duration / 2)
-        {
-            Camera.main.fieldOfView = Mathf.Lerp(originalFOV, targetFOV, elapsedTime / (duration / 2));
-            elapsedTime += Time.deltaTime;
-            yield return null;
-        }
-
-        // Wait for the duration of the power-up effect
-        yield return new WaitForSeconds(duration / 2);
-
-        // Gradually zoom back in to the original FOV
-        elapsedTime = 0f;
-        while (elapsedTime < duration / 2)
-        {
-            Camera.main.fieldOfView = Mathf.Lerp(targetFOV, originalFOV, elapsedTime / (duration / 2));
-            elapsedTime += Time.deltaTime;
-            yield return null;
-        }
-
-        Camera.main.fieldOfView = originalFOV; // Ensure the FOV is reset
-    }
 }

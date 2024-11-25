@@ -11,9 +11,9 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private Player player;
     [SerializeField] private Spawner spawner;
-    [SerializeField] private Text scoreText;
+   // [SerializeField] private Text scoreText;
     [SerializeField] private GameObject gameOver;
-    [SerializeField] private Text powerUpTimerText;
+   // [SerializeField] private Text powerUpTimerText;
     // [SerializeField] private ScoreManager scoreManager;
     // [SerializeField] private ProgessBar progessBar;
 
@@ -28,7 +28,7 @@ public class GameManager : MonoBehaviour
 
     //progress bar
     [SerializeField] private ScoreManager scoreManager;
-    [SerializeField] private ProgressBar progressBar;
+    //[SerializeField] private ProgressBar progressBar;
 
 
 
@@ -91,23 +91,23 @@ public class GameManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Check if the loaded scene is "Day Caves"
-        if (scene.name == "Day Caves")
-        {
-            // Disable the progress bar for the "DayCaves" scene
-            if (progressBar != null)
-            {
-                progressBar.gameObject.SetActive(false); // Disable the progress bar
-            }
-        }
-        else
-        {
-            // Ensure the progress bar is active for other scenes
-            if (progressBar != null)
-            {
-                progressBar.gameObject.SetActive(true); // Enable the progress bar
-            }
-        }
+        //// Check if the loaded scene is "Day Caves"
+        //if (scene.name == "Day Caves")
+        //{
+        //    // Disable the progress bar for the "DayCaves" scene
+        //    if (progressBar != null)
+        //    {
+        //        progressBar.gameObject.SetActive(false); // Disable the progress bar
+        //    }
+        //}
+        //else
+        //{
+        //    // Ensure the progress bar is active for other scenes
+        //    if (progressBar != null)
+        //    {
+        //        progressBar.gameObject.SetActive(true); // Enable the progress bar
+        //    }
+        //}
 
         // Disable the ScoreManager in "DaySunny" and "DayWinter" scenes
         if (scene.name == "Day Sunny" || scene.name == "Day Winter")
@@ -237,7 +237,7 @@ public void Pause()
         gameOver.SetActive(false);
         //progressbar
         scoreManager.RestartGameCoinsNow();
-        progressBar.ResetProgress();
+       // progressBar.ResetProgress();
 
         Time.timeScale = 1f;
         player.enabled = true;
@@ -360,12 +360,12 @@ public void Pause()
 
         while (timeLeft > 0)
         {
-            powerUpTimerText.text = $"Powerup: {timeLeft:F1}s";
+            //powerUpTimerText.text = $"Powerup: {timeLeft:F1}s";
             yield return new WaitForSeconds(0.1f);
             timeLeft -= 0.1f;
         }
 
-        powerUpTimerText.text = "";
+       // powerUpTimerText.text = "";
     }
     
 

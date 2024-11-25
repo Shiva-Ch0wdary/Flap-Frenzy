@@ -181,14 +181,15 @@ MonoBehaviour:
   slideSpeed: 5
   groundLevel: -3
   doubleClickThreshold: 0.25
-  shieldObject: {fileID: 5303819795997056968}
   invisibilityEffect: {fileID: 1493120746200580616}
-  invisibleBirdPrefab: {fileID: 0}
   powerUpMaxHeight: 4
   powerUpMinHeight: -2
   coinCount: 0
   coinTextNow: {fileID: 7953074686478134135, guid: cb1c472bdd54e094696e33bd90712433,
     type: 3}
+  speedBoostEffect: {fileID: 0}
+  shieldEffects: []
+  destroyEffectPrefab: {fileID: 0}
 --- !u!95 &8035558755454740340
 Animator:
   serializedVersion: 7
@@ -279,12 +280,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 891598f01d117714aad1ba84081cb281, type: 3}
---- !u!1 &5303819795997056968 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 76959074969420563, guid: 891598f01d117714aad1ba84081cb281,
-    type: 3}
-  m_PrefabInstance: {fileID: 5227445369719053531}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6838445855150653323 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1615833045731009360, guid: 891598f01d117714aad1ba84081cb281,

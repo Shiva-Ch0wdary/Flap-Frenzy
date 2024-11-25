@@ -4,6 +4,5 @@ public enum PowerUpType
     SpeedBoost,
     Shield,
     Shrink,
-    Grow,
-    CameraZoomOut
+    Grow
 }

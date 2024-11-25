@@ -313,9 +313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 527830929}
   spawner: {fileID: 2105631072}
-  scoreText: {fileID: 1474871343}
   gameOver: {fileID: 943546276}
-  powerUpTimerText: {fileID: 455876152}
   pauseBoard: {fileID: 2009805371}
   gameOverDialog: {fileID: 943546276}
   respawnPoint: {fileID: 55615831}
@@ -323,14 +321,13 @@ MonoBehaviour:
   respawnButton: {fileID: 2009805369}
   restartButton: {fileID: 2009805370}
   scoreManager: {fileID: 211868619}
-  progressBar: {fileID: 715393901}
   playerPrefabs:
-  - {fileID: 6916802593568008534, guid: fd709051b31137849b3247cc4fa0e165, type: 3}
-  - {fileID: 8525535161326996712, guid: 2263dcb2d7a41d5438854e6cace0240b, type: 3}
-  - {fileID: 4820717863927171336, guid: 0f9db660725291d409d4c3599e2777ed, type: 3}
-  - {fileID: 5248945561319445803, guid: aea0db20a5c65744bb79974985fd7de6, type: 3}
-  - {fileID: 2551256468413517871, guid: 0251826e37a68074f8796d6210f0e24d, type: 3}
-  - {fileID: 6630671413330807583, guid: 56725b6f6deda2149acd09720c6013ba, type: 3}
+  - {fileID: 4198180987875074931, guid: 262fe3f298aa88e4b8c571cdeaf99afd, type: 3}
+  - {fileID: 2172100190827949095, guid: 9e06411272385e443b13de6b1ddd442a, type: 3}
+  - {fileID: 114780505743988403, guid: 29aa4b7135b3ef24596216e7ff550897, type: 3}
+  - {fileID: 6028597566306487863, guid: 3538ff5177fb23248a28c92757059197, type: 3}
+  - {fileID: 1034922802870766498, guid: 5d9e730296df07446a6f0749fc53141c, type: 3}
+  - {fileID: 117751077942578492, guid: e995bfdd5afeaef46910fdf350c37138, type: 3}
   characterIndex: 0
   SelectedCharacter: {fileID: 0}
 --- !u!1001 &184541455
@@ -962,13 +959,15 @@ MonoBehaviour:
   slideSpeed: 5
   groundLevel: -3
   doubleClickThreshold: 0.25
-  shieldObject: {fileID: 1347598026}
   invisibilityEffect: {fileID: 1552532914}
-  invisibleBirdPrefab: {fileID: 0}
   powerUpMaxHeight: 4
   powerUpMinHeight: -2
   coinCount: 0
   coinTextNow: {fileID: 614346906}
+  speedBoostEffect: {fileID: 0}
+  shieldEffects: []
+  destroyEffectPrefab: {fileID: 0}
+  powerUpProgressBar: {fileID: 0}
 --- !u!1001 &614346905
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1332,7 +1331,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   progressBar: {fileID: 184541457}
-  targetDuration: 60
 --- !u!1001 &926966132
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1948,12 +1946,6 @@ PrefabInstance:
 --- !u!4 &1347598025 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1615833045731009360, guid: 891598f01d117714aad1ba84081cb281,
-    type: 3}
-  m_PrefabInstance: {fileID: 1347598024}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1347598026 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 76959074969420563, guid: 891598f01d117714aad1ba84081cb281,
     type: 3}
   m_PrefabInstance: {fileID: 1347598024}
   m_PrefabAsset: {fileID: 0}
