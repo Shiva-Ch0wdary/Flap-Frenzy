@@ -7,7 +7,7 @@ public class CoinsUnlock : MonoBehaviour
     public Button cavesPlayButton;   // Play button for Caves
     public Button winterUnlockButton; // Unlock button for Winter
     public Button winterPlayButton;   // Play button for Winter
-
+    public PopupManager popupManager;
     public int coinsRequiredForCaves =10; // Coins needed to unlock Caves
     public int coinsRequiredForWinter = 5; // Coins needed to unlock Winter
 
@@ -43,7 +43,7 @@ public class CoinsUnlock : MonoBehaviour
         }
         else
         {
-            Debug.Log("Not enough coins to unlock Caves level!");
+            popupManager.ShowPopup("Not enough coins to unlock this level!");
         }
     }
 
@@ -61,7 +61,7 @@ public class CoinsUnlock : MonoBehaviour
         }
         else
         {
-            Debug.Log("Not enough coins to unlock Winter level!");
+            popupManager.ShowPopup("Not enough coins to unlock this level!");
         }
     }
 
@@ -73,7 +73,7 @@ public class CoinsUnlock : MonoBehaviour
         }
         else
         {
-            Debug.Log("Caves level is locked!");
+            popupManager.ShowPopup("Caves level is locked!");
         }
     }
 
@@ -85,7 +85,7 @@ public class CoinsUnlock : MonoBehaviour
         }
         else
         {
-            Debug.Log("Winter level is locked!");
+            popupManager.ShowPopup("Winter level is locked!");
         }
     }
     public void ResetLocks()
@@ -100,7 +100,7 @@ public class CoinsUnlock : MonoBehaviour
         // Save changes
         PlayerPrefs.Save();
 
-        Debug.Log("Game locks have been reset!");
+        popupManager.ShowPopup("Game locks have been reset!");
         UpdateUI(); // Update UI to reflect changes
     }
 
