@@ -180,9 +180,9 @@ MonoBehaviour:
   targetIsSelf: 1
   targetGO: {fileID: 0}
   tweenTargetIsTargetGO: 1
-  delay: 0
-  duration: 2
-  easeType: 23
+  delay: 1
+  duration: 4
+  easeType: 29
   easeCurve:
     serializedVersion: 2
     m_Curve:
@@ -208,7 +208,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   loopType: 0
-  loops: 1
+  loops: -1
   id: 
   isRelative: 0
   isFrom: 0
