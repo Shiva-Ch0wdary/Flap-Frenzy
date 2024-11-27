@@ -10,9 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8738948068582480060}
   - component: {fileID: 1864388099660079435}
-  - component: {fileID: 6837048059599281004}
-  - component: {fileID: 662388074346779379}
-  - component: {fileID: 4062411545477062866}
+  - component: {fileID: 3264320933350800940}
   m_Layer: 0
   m_Name: Rock_03_1
   m_TagString: Obstacle
@@ -91,8 +89,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &6837048059599281004
-BoxCollider2D:
+--- !u!68 &3264320933350800940
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -125,110 +123,43 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.934721}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.91, y: 4.41}
-    newSize: {x: 2.91, y: 4.41}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 2.91, y: 2.5405579}
+  m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
---- !u!61 &662388074346779379
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874960999450224649}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.08637099, y: 1.2680329}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.91, y: 4.41}
-    newSize: {x: 2.91, y: 4.41}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.69091547, y: 1.9029181}
-  m_EdgeRadius: 0
---- !u!61 &4062411545477062866
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874960999450224649}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: -0.4783655, y: 0.9062544}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.91, y: 4.41}
-    newSize: {x: 2.91, y: 4.41}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.46501964, y: 1.1793602}
-  m_EdgeRadius: 0
+  m_Points:
+  - {x: -1.4570297, y: -2.197389}
+  - {x: -1.4405575, y: -1.4834124}
+  - {x: -1.4365194, y: -1.390246}
+  - {x: -1.4091189, y: -0.75808114}
+  - {x: -1.4613177, y: -0.008350134}
+  - {x: -1.2466428, y: 0.3495593}
+  - {x: -0.9437739, y: 0.31037182}
+  - {x: -0.68064594, y: 0.45011365}
+  - {x: -0.27825782, y: 1.7934668}
+  - {x: -0.21331488, y: 1.800482}
+  - {x: -0.18330322, y: 1.713115}
+  - {x: -0.14896502, y: 1.6877997}
+  - {x: -0.13694708, y: 1.7853782}
+  - {x: -0.004821712, y: 2.212828}
+  - {x: 0.03415359, y: 2.0491593}
+  - {x: 0.03451756, y: 1.8844355}
+  - {x: 0.15866499, y: 1.7676157}
+  - {x: 0.2348434, y: 1.5298625}
+  - {x: 0.31066826, y: 1.1914546}
+  - {x: 0.3771236, y: 0.79568404}
+  - {x: 0.509397, y: 0.03467393}
+  - {x: 0.63500446, y: -1.4707879}
+  - {x: 0.752327, y: -0.8400741}
+  - {x: 0.83664626, y: 0.08005949}
+  - {x: 0.80492646, y: 0.9273694}
+  - {x: 0.84634393, y: 0.9386512}
+  - {x: 1.2241524, y: -0.28507408}
+  - {x: 1.4163073, y: -0.99086905}
+  - {x: 1.4447017, y: -1.8231646}
+  - {x: 1.390834, y: -2.200393}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!1 &2577767000557775647
 GameObject:
   m_ObjectHideFlags: 0
@@ -368,10 +299,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1869254244413280362}
   - component: {fileID: 1697616593560068865}
-  - component: {fileID: 1586412125524099569}
-  - component: {fileID: 791410805558597434}
-  - component: {fileID: 3288633193511798295}
-  - component: {fileID: 6501724785833501860}
+  - component: {fileID: 7875921792083452375}
   m_Layer: 0
   m_Name: Rock_05_0
   m_TagString: Obstacle
@@ -450,8 +378,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &1586412125524099569
-BoxCollider2D:
+--- !u!68 &7875921792083452375
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -484,153 +412,32 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.62436044, y: -0.5174871}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.85, y: 4.77}
-    newSize: {x: 2.85, y: 4.77}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1.5112813, y: 3.7350264}
+  m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
---- !u!61 &791410805558597434
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5203853808134919987}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.24922723, y: 1.7663684}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.85, y: 4.77}
-    newSize: {x: 2.85, y: 4.77}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.6611892, y: 0.76321316}
-  m_EdgeRadius: 0
---- !u!61 &3288633193511798295
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5203853808134919987}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.5652738, y: 1.8618704}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.85, y: 4.77}
-    newSize: {x: 2.85, y: 4.77}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.0555197, y: 1.0462596}
-  m_EdgeRadius: 0
---- !u!61 &6501724785833501860
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5203853808134919987}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.87594175, y: 1.6880276}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.85, y: 4.77}
-    newSize: {x: 2.85, y: 4.77}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.55349874, y: 0.680758}
-  m_EdgeRadius: 0
+  m_Points:
+  - {x: -1.4055237, y: -2.338184}
+  - {x: -1.2917548, y: -1.9264444}
+  - {x: -1.1118379, y: -1.3251075}
+  - {x: -0.9859437, y: -1.2787293}
+  - {x: -0.9208672, y: -1.3214736}
+  - {x: -0.765901, y: -1.0438248}
+  - {x: -0.5641668, y: -0.66380775}
+  - {x: -0.43692535, y: -0.49475986}
+  - {x: -0.31483287, y: -0.9049108}
+  - {x: -0.22035201, y: -0.87956697}
+  - {x: -0.06407477, y: -1.0756161}
+  - {x: -0.08034754, y: -0.88890123}
+  - {x: -0.10720174, y: 1.9205363}
+  - {x: 0.5596638, y: 2.376072}
+  - {x: 1.2777365, y: 1.5595907}
+  - {x: 1.4245073, y: -0.075827}
+  - {x: 1.2894833, y: -1.2826015}
+  - {x: 1.0933648, y: -2.0431387}
+  - {x: 1.1482532, y: -2.0876694}
+  - {x: 1.2036465, y: -1.7939512}
+  - {x: 1.3234243, y: -1.937257}
+  - {x: 1.4010412, y: -2.3675907}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0

@@ -10,7 +10,7 @@ public class LoadingScene : MonoBehaviour
     [SerializeField] private GameObject loadingScreen; // The background or container of the loading UI
 
     private string sceneToLoad;
-    private float loadDuration = 3f; // Set the loading duration to 10 seconds
+    private float loadDuration = 1.5f; // Set the loading duration to 10 seconds
     private float elapsedTime = 0f;  // Time elapsed since the loading started
 
     private void Start()

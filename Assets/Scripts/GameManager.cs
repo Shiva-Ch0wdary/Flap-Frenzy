@@ -26,11 +26,24 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Button restartButton;   // Assign the RestartButton in the Inspector
     private Vector3 savedPosition; // Store the player's position
 
+    //revive button
+    [SerializeField] private Button reviveButton; // Add this to the Inspector
+    private bool isRevived = false;
+    //revive button ends
+    //revive button-obstacle delay
+    private bool isInvincible = false;
+    [SerializeField] private float invincibilityDuration = 25f; // Duration of obstacle delay after revival
+    public bool IsInvincible => isInvincible;
+    //revive button-obstacle delay ends
+
+
     //progress bar
     [SerializeField] private ScoreManager scoreManager;
     //[SerializeField] private ProgressBar progressBar;
 
-
+    [SerializeField] private Text currentScoreText; // UI Text for current score
+    [SerializeField] private Text highScoreText;
+    [SerializeField] private Text highScore;    // UI Text for high score
 
     //character
     [SerializeField] private GameObject[] playerPrefabs;
@@ -64,6 +77,13 @@ public class GameManager : MonoBehaviour
         player.coinCount++; // Access the coinCount in Player script
         PlayerPrefs.SetInt("CoinCount", player.coinCount); // Save updated coin count
         PlayerPrefs.Save();
+
+        // Update the score in ScoreManager
+    if (scoreManager != null)
+    {
+        scoreManager.RestartGameCoinsNow(); // Call to reflect score updates
+    }
+
         player.UpdateCoinUI(); // Update UI with the new coin count
     }
     public int GetCoinCount()
@@ -89,47 +109,22 @@ public class GameManager : MonoBehaviour
         SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 
-    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        //// Check if the loaded scene is "Day Caves"
-        //if (scene.name == "Day Caves")
-        //{
-        //    // Disable the progress bar for the "DayCaves" scene
-        //    if (progressBar != null)
-        //    {
-        //        progressBar.gameObject.SetActive(false); // Disable the progress bar
-        //    }
-        //}
-        //else
-        //{
-        //    // Ensure the progress bar is active for other scenes
-        //    if (progressBar != null)
-        //    {
-        //        progressBar.gameObject.SetActive(true); // Enable the progress bar
-        //    }
-        //}
-
-        // Disable the ScoreManager in "DaySunny" and "DayWinter" scenes
-        if (scene.name == "Day Sunny" || scene.name == "Day Winter")
-        {
-            if (scoreManager != null)
-            {
-                scoreManager.gameObject.SetActive(false); // Disable the ScoreManager
-            }
-        }
-        else
-        {
-            // Enable the ScoreManager in other scenes
-            if (scoreManager != null)
+      if (scoreManager != null)
             {
                 scoreManager.gameObject.SetActive(true); // Enable the ScoreManager
             }
-        }
-  
     }
 
     private void Start()
     {
+        
+          if (reviveButton != null)
+        {
+            reviveButton.onClick.AddListener(Revive);
+            reviveButton.gameObject.SetActive(false); // Initially hidden
+        }
         //change pause
         if (pauseBoard != null)
         {
@@ -249,35 +244,102 @@ public void Pause()
         }
     }
 
-    public void GameOver()
+    public void Revive()
     {
-      
-        //change pause
+        if (reviveButton != null)
+        {
+            reviveButton.gameObject.SetActive(false); // Hide the revive button
+        }
+
+        isRevived = true; // Mark as revived
+        Time.timeScale = 1f; // Resume the game
+        player.enabled = true;
+
+        // Reset player to the saved position or checkpoint
+        if (player != null)
+        {
+            player.transform.position = lastCheckPointPos;
+            player.direction = Vector3.zero; // Reset movement
+        }
+
+        // Hide game-over UI
         if (gameOver != null)
         {
-            gameOver.SetActive(true);
+            gameOver.SetActive(false);
         }
+        //enable temporary invicibility
+        //revive button-obstacle delay
+        StartCoroutine(EnableInvincibility());
+        //revive button-obstacle delay ends
+    }
+    //revive button ends
+
+    public void GameOver()
+    {
+        
+
+        if (!isRevived)
+        {
+            if (gameOver != null)
+            {
+                gameOver.SetActive(true);
+            }
+        //change pause
+        /*if (gameOver != null)
+        {
+            gameOver.SetActive(true);
+        }*/
 
         Time.timeScale = 0f; // Pause the game
         player.enabled = false;
+
+         highScore.gameObject.SetActive(false);
+
+        // Update the score and high score
+        if (scoreManager != null)
+        {
+            scoreManager.EndGameCoinsNow(); // Ensure score is saved
+            float currentScore = PlayerPrefs.GetFloat("CurrentScore", 0f);
+            string highScoreKey = "HighScore_" + SceneManager.GetActiveScene().name;
+            float highScore = PlayerPrefs.GetFloat(highScoreKey, 0f);
+
+            // Update UI elements
+            if (currentScoreText != null)
+                currentScoreText.text = "Score: " + Mathf.Round(currentScore).ToString();
+
+            if (highScoreText != null)
+                highScoreText.text = "High Score: " + Mathf.Round(highScore).ToString();
+        }
+
 
         if (pauseButton != null)
         {
             pauseButton.gameObject.SetActive(false);
         }//change pause
 
+         if (reviveButton != null)
+            {
+                reviveButton.gameObject.SetActive(true);
+            }
+
+         scoreManager.EndGameCoinsNow();
         //sound
         AudioManager.Instance.StopMusic();
         AudioManager.Instance.PlaySFX("gameover");
-
-        gameOver.SetActive(true);
+        }
+        else
+        {
+             isRevived = false; 
+        
+        //gameOver.SetActive(true);
 
         //commented paise() method here
         //Pause();
 
         
         //progressbar
-        EndGame();
+            EndGame();
+        }
 
     }
 
@@ -287,6 +349,9 @@ public void Pause()
         scoreManager.EndGameCoinsNow(); // Save the score when the game is over
     }
 
+
+    //revive button
+    
 
     //change pause
     public void Respawn()
@@ -375,4 +440,23 @@ public void Pause()
         SelectedCharacter = character; // Assign selected character
     }
     //character
+
+
+    //revive button-obstacle delay
+    private IEnumerator EnableInvincibility()
+    {
+        isInvincible = true; // Enable invincibility
+
+        // Optionally, visually indicate invincibility (e.g., make the bird flash)
+        float elapsed = 0f;
+        while (elapsed < invincibilityDuration)
+        {
+            elapsed += Time.deltaTime;
+            // Add visual feedback here if needed, like toggling the sprite renderer
+            yield return null;
+        }
+
+        isInvincible = false; // Disable invincibility
+    }
+    //revive button-obstacle delay ends
 }
