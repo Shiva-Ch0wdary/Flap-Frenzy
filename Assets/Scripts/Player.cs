@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using System.Collections.Generic;
 public class Player : MonoBehaviour
 {
+    private bool isInvincible = false; 
     public Sprite[] sprites;
     public float strength = 5f;
     public float gravity = -9.81f;
@@ -16,7 +17,7 @@ public class Player : MonoBehaviour
     public float doubleClickThreshold = 0.25f; // Time within which a double click is detected
 
     private SpriteRenderer spriteRenderer;
-    private Vector3 direction;
+    public Vector3 direction;
     private int spriteIndex;
 
     private float normalSpeed = 5f;
@@ -134,6 +135,8 @@ public class Player : MonoBehaviour
             }
         }
 
+         transform.position = new Vector3(transform.position.x, Mathf.Clamp(transform.position.y, -3f, 7f), transform.position.z);
+
         // Tilt the player based on the direction
         Vector3 rotation = transform.eulerAngles;
         rotation.z = direction.y * tilt;
@@ -174,6 +177,16 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        
+         //revive button obstacle delay
+        // Check if the player is invincible and if the collision is with the ground (based on name)
+        if (other.gameObject.CompareTag("Obstacle") && !isInvincible)
+        {
+            GameManager.Instance.GameOver();
+            //if(GameManager.Instance.IsInvincible){return; // Ignore pipe collisions while invincible}
+        }
+        //revive button obstacle delay ends
+
         if (other.gameObject.CompareTag("Obstacle"))
         {
             if (isGrowActive)

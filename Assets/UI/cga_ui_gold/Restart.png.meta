@@ -129,10 +129,10 @@ TextureImporter:
       name: Restart_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 14
-        width: 835
-        height: 819
+        x: 2
+        y: 2
+        width: 124
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c03d7048cd87ff04eb0c4ba1f12a43f7
     internalID: 0
     vertices: []
     indices: 
