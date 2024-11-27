@@ -77,7 +77,14 @@ We welcome contributions! Please open a pull request or issue if you have sugges
 ---
 
 ## 📧 Contact Us
-For support or feedback, reach out at **flapfrenzy@support.com**.
+For support or feedback, reach out at **shivachowdary753@gmail.com**& **wildgamecreativestudios@gmail.com**.
+
+---
+
+
+## ⚖️ Copyright
+**Flap Frenzy** © 2024. All rights reserved.  
+This software and its source code are the property of the developers of *Flap Frenzy*. Unauthorized use, reproduction, or distribution of this software is strictly prohibited. Please contact us for licensing or collaboration inquiries.
 
 ---
 
