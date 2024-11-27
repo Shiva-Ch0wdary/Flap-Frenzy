@@ -3435,8 +3435,8 @@ MonoBehaviour:
   winterUnlockButton: {fileID: 1201218026}
   winterPlayButton: {fileID: 5227679761770109216}
   popupManager: {fileID: 1396602251}
-  coinsRequiredForCaves: 1
-  coinsRequiredForWinter: 1
+  coinsRequiredForCaves: 10
+  coinsRequiredForWinter: 100
 --- !u!4 &1449029303
 Transform:
   m_ObjectHideFlags: 0
