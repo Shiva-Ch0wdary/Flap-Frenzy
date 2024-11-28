@@ -8,18 +8,22 @@ public class StartMenuCoins : MonoBehaviour
     {
 
         // Load the saved coin count from PlayerPrefs
+        UpdateCoinDisplay();
+    }
+    // Display the coin count in the Start Menu
+    public void UpdateCoinDisplay()
+    {
         int totalCoins = PlayerPrefs.GetInt("TotalCoins", 0);
 
-        // Display the coin count in the Start Menu
         if (coinTextStartMenu != null)
         {
-            coinTextStartMenu.text = totalCoins.ToString(); // Display only the numerical value
+            coinTextStartMenu.text = totalCoins.ToString();
         }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
