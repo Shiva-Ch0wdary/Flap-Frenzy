@@ -40,6 +40,7 @@ public class CoinsUnlock : MonoBehaviour
             PlayerPrefs.Save(); // Save changes to PlayerPrefs
             Debug.Log("Caves level unlocked!");
             UpdateUI(); // Refresh UI
+            popupManager.ShowPopup("Hurray Sucessfully Unlocked This Level!");
         }
         else
         {
@@ -58,6 +59,8 @@ public class CoinsUnlock : MonoBehaviour
             PlayerPrefs.Save(); // Save changes to PlayerPrefs
             Debug.Log("Winter level unlocked!");
             UpdateUI(); // Refresh UI
+            popupManager.ShowPopup("Hurray Sucessfully Unlocked This Level!");
+
         }
         else
         {
