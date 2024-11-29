@@ -9,15 +9,15 @@ public class AudioManager : MonoBehaviour
     public Sound[] musicSounds, sfxSounds;
     public AudioSource musicSource, sfxSource;
 
-    private string currentMusicName = "Theme"; // Keeps track of the currently playing music
+    private string currentMusicName = ""; // Keeps track of the currently playing music
 
-    void Awake()
+    private void Awake()
     {
-        // Ensure there is only one instance of AudioManager
+        // Singleton pattern to ensure only one AudioManager exists
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // Keeps AudioManager when switching scenes
+            DontDestroyOnLoad(gameObject); // Persist across scenes
         }
         else
         {
@@ -27,19 +27,21 @@ public class AudioManager : MonoBehaviour
 
     private void Start()
     {
-        
-        PlayMainMenuMusic(); // Play the main menu music initially
+        // Play the start menu music when the game starts
+        PlayMainMenuMusic();
+
+        // Subscribe to sceneLoaded event to handle music changes
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Play the appropriate music when a scene is loaded
+        // Check the scene name and play the appropriate music
         if (scene.name == "Start Menu")
         {
             PlayMainMenuMusic();
         }
-        else // Adjust to the actual name of your gameplay scene
+        else if (scene.name == "Gameplay") // Replace with your gameplay scene's name
         {
             PlayGameplayMusic();
         }
@@ -47,18 +49,17 @@ public class AudioManager : MonoBehaviour
 
     public void PlayMainMenuMusic()
     {
-        PlayMusic("Theme"); // Play the main menu background music
+        PlayMusic("Theme"); // Ensure "Theme" is the correct name for your main menu music
     }
 
     public void PlayGameplayMusic()
     {
-        musicSource.Stop();  // Stop any currently playing music   
-        PlayMusic("Levels"); // Play the gameplay background music
+        PlayMusic("Levels"); // Ensure "Levels" is the correct name for your gameplay music
     }
 
     public void PlayMusic(string name)
     {
-        // If the requested music is already playing, don't restart it
+        // If the requested music is already playing, do nothing
         if (currentMusicName == name && musicSource.isPlaying)
         {
             return;
@@ -67,13 +68,11 @@ public class AudioManager : MonoBehaviour
         Sound s = Array.Find(musicSounds, x => x.name == name);
         if (s == null)
         {
-            Debug.Log("Sound not Found");
+            Debug.LogWarning("Music not found: " + name);
             return;
         }
 
-        // Update the current music track name
         currentMusicName = name;
-
         musicSource.clip = s.clip;
         musicSource.loop = true; // Ensure the music loops
         musicSource.Play();
@@ -86,7 +85,6 @@ public class AudioManager : MonoBehaviour
             musicSource.Stop();
             currentMusicName = "";
         }
-
     }
 
     public void PlaySFX(string name)

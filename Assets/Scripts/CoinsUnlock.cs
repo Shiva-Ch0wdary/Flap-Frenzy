@@ -44,9 +44,45 @@ public class CoinsUnlock : MonoBehaviour
         }
         else
         {
-            popupManager.ShowPopup("Not enough coins to unlock this level!");
+            popupManager.ShowPopup("Not Have enough coins to unlock this level!");
         }
     }
+
+    public void ResetLocks()
+{
+    // Resetting level locks
+    PlayerPrefs.SetInt("CavesUnlocked", 0); // Lock Caves
+    PlayerPrefs.SetInt("WinterUnlocked", 0); // Lock Winter
+
+    // Resetting character locks
+    CharacterSelect characterSelect = FindObjectOfType<CharacterSelect>();
+    if (characterSelect != null)
+    {
+        for (int i = 1; i < characterSelect.skins.Length; i++) // Starting from 1 since the first character is always unlocked
+        {
+            PlayerPrefs.SetInt("CharacterUnlocked" + i, 0); // Lock all characters except the first
+        }
+
+        // Reset selected character to default
+        PlayerPrefs.SetInt("SelectedCharacter", 0); // Reset to the first character
+        characterSelect.ResetCharacterUI(); // Update character UI
+    }
+    else
+    {
+        Debug.LogWarning("CharacterSelect instance not found. Character locks not reset.");
+    }
+
+    // Optionally reset total coins (if needed)
+    PlayerPrefs.SetInt("TotalCoins", 0); // Reset coin count
+
+    // Save changes
+    PlayerPrefs.Save();
+
+    popupManager.ShowPopup("Game locks have been reset!");
+    UpdateUI(); // Update level UI
+}
+
+
 
     public void UnlockWinter()
     {
@@ -91,7 +127,7 @@ public class CoinsUnlock : MonoBehaviour
             popupManager.ShowPopup("Winter level is locked!");
         }
     }
-    public void ResetLocks()
+    public void ResetAllLocks()
     {
         // Resetting lock states
         PlayerPrefs.SetInt("CavesUnlocked", 0); // Lock Caves

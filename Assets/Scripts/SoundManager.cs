@@ -3,86 +3,78 @@ using UnityEngine.UI;
 
 public class SoundManager : MonoBehaviour
 {
-    [SerializeField] private Image soundOnIcon;
-    [SerializeField] private Image soundOffIcon;
-    [SerializeField] private AudioSource gameplayMusic;  // Add reference to the AudioSource
+    [SerializeField] private Image soundOnIcon;  // Reference to the "Sound On" icon
+    [SerializeField] private Image soundOffIcon; // Reference to the "Sound Off" icon
+    [SerializeField] private AudioSource gameplayMusic; // Reference to the gameplay music AudioSource
 
-    private bool muted = false;
+    private bool isMuted = false;
 
-    void Start()
+    private void Start()
     {
-        AudioListener[] listeners = FindObjectsOfType<AudioListener>();
-        if (listeners.Length > 1)
-        {
-            for (int i = 1; i < listeners.Length; i++)
-            {
-                Destroy(listeners[i]);
-            }
-        }
+        // Load the mute state from PlayerPrefs
+        LoadMuteState();
 
-        if (!PlayerPrefs.HasKey("muted"))
-        {
-            PlayerPrefs.SetInt("muted", 0);
-            Load();
-        }
-        else
-        {
-            Load();
-        }
+        // Apply the mute state
+        ApplyMuteState();
 
-        //UpdateButtonIcon();
-        AudioListener.pause = muted;  // Pause or unpause all audio based on the mute state
-        if (muted)
-        {
-            gameplayMusic.Pause();  // If muted, pause the gameplay music
-        }
-        else
-        {
-            gameplayMusic.Play();   // If not muted, play the gameplay music
-        }
+        // Update the button icons
         UpdateButtonIcon();
     }
 
     public void OnButtonPress()
     {
-        muted = !muted;
+        // Toggle mute state
+        isMuted = !isMuted;
 
-        // Pause or play audio accordingly
-        AudioListener.pause = muted;
-        if (muted)
-        {
-            gameplayMusic.Pause();  // Pause the gameplay music if muted
-        }
-        else
-        {
-            gameplayMusic.Play();   // Play the gameplay music if unmuted
-        }
+        // Apply the mute state
+        ApplyMuteState();
 
-        Save(); // Save the mute state
-        UpdateButtonIcon(); // Update the icon
+        // Save the mute state
+        SaveMuteState();
+
+        // Update the button icons
+        UpdateButtonIcon();
+    }
+
+    private void ApplyMuteState()
+    {
+        // Mute or unmute audio
+        AudioListener.pause = isMuted;
+
+        // Pause or play the gameplay music
+        if (gameplayMusic != null)
+        {
+            if (isMuted)
+            {
+                gameplayMusic.Pause();
+            }
+            else
+            {
+                gameplayMusic.Play();
+            }
+        }
     }
 
     private void UpdateButtonIcon()
     {
-        if (muted)
+        if (soundOnIcon != null && soundOffIcon != null)
         {
-            soundOnIcon.enabled = false;
-            soundOffIcon.enabled = true;
-        }
-        else
-        {
-            soundOnIcon.enabled = true;
-            soundOffIcon.enabled = false;
+            // Set the visibility of the icons based on mute state
+            soundOnIcon.enabled = !isMuted;  // Show sound on icon if not muted
+            soundOffIcon.enabled = isMuted;  // Show sound off icon if muted
         }
     }
 
-    private void Load()
+    private void LoadMuteState()
     {
-        muted = PlayerPrefs.GetInt("muted") == 1;
+        // Load the mute state from PlayerPrefs (1 = muted, 0 = unmuted)
+        isMuted = PlayerPrefs.GetInt("muted", 0) == 1;
     }
 
-    private void Save()
+    private void SaveMuteState()
     {
-        PlayerPrefs.SetInt("muted", muted ? 1 : 0);
+        // Save the mute state to PlayerPrefs
+        PlayerPrefs.SetInt("muted", isMuted ? 1 : 0);
+        PlayerPrefs.Save();
     }
 }
