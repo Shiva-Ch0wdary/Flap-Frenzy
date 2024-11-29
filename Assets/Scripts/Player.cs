@@ -240,23 +240,23 @@ public class Player : MonoBehaviour
         {
             case PowerUpType.Invisibility:
                 StartCoroutine(HandleInvisibility(duration));
-               // AudioManager.Instance.PlaySFX("powerup");
+                AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.SpeedBoost:
                 StartCoroutine(HandleSpeedBoost(duration));
-               // AudioManager.Instance.PlaySFX("powerup");
+                AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.Shield:
                 StartCoroutine(HandleShield(duration));
-               // AudioManager.Instance.PlaySFX("powerup");
+                AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.Shrink:
                 StartCoroutine(HandleShrink(duration));
-               // AudioManager.Instance.PlaySFX("powerup");
+                AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.Grow:
                 StartCoroutine(HandleGrow(duration));
-               // AudioManager.Instance.PlaySFX("powerup");
+                AudioManager.Instance.PlaySFX("powerup");
                 break;
 
         }
