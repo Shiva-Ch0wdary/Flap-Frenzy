@@ -11,6 +11,10 @@ public class CoinsUnlock : MonoBehaviour
     public int coinsRequiredForCaves =10; // Coins needed to unlock Caves
     public int coinsRequiredForWinter = 5; // Coins needed to unlock Winter
 
+    private string sunnyKey = "HighScore_Day Sunny";
+    private string winterKey = "HighScore_Day Winter";
+    private string cavesKey = "HighScore_Day Caves";
+
     void Start()
     {
         UpdateUI();
@@ -99,10 +103,18 @@ public class CoinsUnlock : MonoBehaviour
 
         // Optionally reset total coins (if needed)
         PlayerPrefs.SetInt("TotalCoins", 0); // Reset coin count
-
+        PlayerPrefs.SetFloat(sunnyKey, 0f); // Reset Sunny high score
+        PlayerPrefs.SetFloat(winterKey, 0f); // Reset Winter high score
+        PlayerPrefs.SetFloat(cavesKey, 0f); // Reset Caves high score
         // Save changes
         PlayerPrefs.Save();
 
+        // Assuming you have a reference to StartMenuHighScores
+        StartMenuHighScores highScores = FindObjectOfType<StartMenuHighScores>();
+        if (highScores != null)
+        {
+            highScores.UpdateHighScores(); // Update the high score UI
+        }
         popupManager.ShowPopup("Game locks have been reset!");
         UpdateUI(); // Update UI to reflect changes
     }

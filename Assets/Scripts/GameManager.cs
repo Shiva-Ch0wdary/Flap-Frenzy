@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private static Vector2 lastCheckPointPos=new Vector2(-3,0);
     public GameObject SelectedCharacter;
     //character
-
+    private int scoreAtRevive;
     public int score { get; private set; } = 0;
 
     private void Awake()
@@ -261,7 +261,10 @@ public void Pause()
             player.transform.position = lastCheckPointPos;
             player.direction = Vector3.zero; // Reset movement
         }
-
+        if (scoreManager != null)
+        {
+            scoreManager.RestartGameCoinsNow(isReviving: true);
+        }
         // Hide game-over UI
         if (gameOver != null)
         {
@@ -273,10 +276,61 @@ public void Pause()
         //revive button-obstacle delay ends
     }
     //revive button ends
+    public void ReviveScore()
+    {
+        if (reviveButton != null)
+        {
+            reviveButton.gameObject.SetActive(false); // Hide the revive button
+        }
+
+        isRevived = true; // Mark as revived
+        Time.timeScale = 1f; // Resume the game
+        player.enabled = true;
+
+        // Reset player to the saved position or checkpoint
+        if (player != null)
+        {
+            player.transform.position = lastCheckPointPos;
+            player.direction = Vector3.zero; // Reset movement
+        }
+
+        // Hide game-over UI
+        if (gameOver != null)
+        {
+            gameOver.SetActive(false);
+        }
+
+        // Restore the score to the scoreAtRevive value
+        if (scoreManager != null)
+        {
+            scoreManager.ContinueGameFromScore(scoreAtRevive); // Pass the saved score
+        }
+
+        UpdateScoreUI(); // Update the UI to reflect the current score
+        StartCoroutine(EnableInvincibility());
+    }
+    private void UpdateScoreUI()
+    {
+        if (currentScoreText != null)
+        {
+            currentScoreText.text = "Score: " + score.ToString(); // Update current score display
+        }
+        // Additional UI updates for high score can be added here if needed
+    }
 
     public void GameOver()
     {
-        
+        if (!isRevived)
+        {
+            // Save the current score before game over
+            scoreAtRevive = score; // Store the score at the moment of game over
+            // Update other UI elements...
+        }
+        else
+        {
+            isRevived = false;
+            EndGame();
+        }
 
         if (!isRevived)
         {
