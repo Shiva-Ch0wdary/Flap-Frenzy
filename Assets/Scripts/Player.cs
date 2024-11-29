@@ -175,32 +175,29 @@ public class Player : MonoBehaviour
         spriteRenderer.sprite = sprites[spriteIndex];
     }
 
+    //new method
+    public void SetInvincibility(bool state)
+    {
+        isInvincible = state;
+    }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        
-         //revive button obstacle delay
-        // Check if the player is invincible and if the collision is with the ground (based on name)
-        if (other.gameObject.CompareTag("Obstacle") && !isInvincible)
-        {
-            GameManager.Instance.GameOver();
-            //if(GameManager.Instance.IsInvincible){return; // Ignore pipe collisions while invincible}
-        }
-        //revive button obstacle delay ends
 
-        if (other.gameObject.CompareTag("Obstacle"))
+        if (other.CompareTag("Obstacle") || other.CompareTag("Pipe"))
         {
             if (isGrowActive)
             {
-                // Instantiate the destroy effect at the obstacle's position
-                if (destroyEffectPrefab != null)
-                {
-                    Instantiate(destroyEffectPrefab, other.transform.position, Quaternion.identity);
-                }
-                Destroy(other.gameObject); // Destroy the obstacle if Grow power-up is active
+                // If Grow power-up is active, destroy the obstacle
+                Destroy(other.gameObject);
             }
-            else if (!hasShield)
+            else if (!isInvincible && !GameManager.Instance.IsInvincible && !hasShield)
             {
                 GameManager.Instance.GameOver();
+            }
+            else if (isInvincible)
+            {
+                // Optional: Handle obstacle interaction during invincibility, like bouncing or destroying
+                Debug.Log("Obstacle ignored due to invincibility!");
             }
         }
 

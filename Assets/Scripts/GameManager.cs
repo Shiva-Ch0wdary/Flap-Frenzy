@@ -31,11 +31,15 @@ public class GameManager : MonoBehaviour
     private bool isRevived = false;
     //revive button ends
     //revive button-obstacle delay
+    //revive max 3 times
+    private int reviveCount = 0; // Tracks the number of revives used
+    private const int maxRevives = 3; // Maximum allowed revives
+    //revive max 3 times ends
     private bool isInvincible = false;
     [SerializeField] private float invincibilityDuration = 25f; // Duration of obstacle delay after revival
-    public bool IsInvincible => isInvincible;
-    //revive button-obstacle delay ends
-
+            // public bool IsInvincible => isInvincible;
+                                           //revive button-obstacle delay ends
+    public bool IsInvincible { get { return isInvincible; } }
 
     //progress bar
     [SerializeField] private ScoreManager scoreManager;
@@ -246,35 +250,62 @@ public void Pause()
 
     public void Revive()
     {
-        if (reviveButton != null)
+        if (reviveCount < maxRevives)
         {
-            reviveButton.gameObject.SetActive(false); // Hide the revive button
-        }
+            reviveCount++; // Increment revive count
 
-        isRevived = true; // Mark as revived
-        Time.timeScale = 1f; // Resume the game
-        player.enabled = true;
+            if (reviveButton != null)
+            {
+                reviveButton.gameObject.SetActive(false); // Hide the revive button
+            }
 
-        // Reset player to the saved position or checkpoint
-        if (player != null)
-        {
-            player.transform.position = lastCheckPointPos;
-            player.direction = Vector3.zero; // Reset movement
+            isRevived = true; // Mark as revived
+            Time.timeScale = 1f; // Resume the game
+            player.enabled = true;
+
+            // Reset player to the saved position or checkpoint
+            if (player != null)
+            {
+                player.transform.position = lastCheckPointPos;
+                player.direction = Vector3.zero; // Reset movement
+                player.SetInvincibility(true); // Call the new method in Player script
+            }
+            if (scoreManager != null)
+            {
+                scoreManager.RestartGameCoinsNow(isReviving: true);
+            }
+            // Hide game-over UI
+            // Hide game-over UI
+            if (gameOver != null)
+            {
+                gameOver.SetActive(false);
+            }
+            //enable temporary invicibility
+            //revive button-obstacle delay
+            StartCoroutine(EnableInvincibility());
+            //revive button-obstacle delay ends
+
+            ResumeGame();
+            player.SetInvincibility(true);
+
+            //Player.Instance.SetInvincibility(true); // Make the player invincible temporarily
+            //
+            //Invoke("DisableInvincibility", 2f); // Disable invincibility after 2 seconds
+            Invoke(nameof(DisableInvincibility), invincibilityDuration);
         }
-        if (scoreManager != null)
+        else
         {
-            scoreManager.RestartGameCoinsNow(isReviving: true);
+            Debug.Log("No revives left!");
+            // Disable the revive button
+            if (reviveButton != null)
+            {
+                reviveButton.interactable = false;
+            }
         }
-        // Hide game-over UI
-        if (gameOver != null)
-        {
-            gameOver.SetActive(false);
-        }
-        //enable temporary invicibility
-        //revive button-obstacle delay
-        StartCoroutine(EnableInvincibility());
-        //revive button-obstacle delay ends
     }
+    //revive button ends
+    //revive max 3 times
+    //revive max 3 times ends
     //revive button ends
     public void ReviveScore()
     {
@@ -497,12 +528,47 @@ public void Pause()
 
 
     //revive button-obstacle delay
+    //revive button-obstacle delay
+    private Coroutine invincibilityCoroutine;
+
     private IEnumerator EnableInvincibility()
     {
-        isInvincible = true; // Enable invincibility
+        if (invincibilityCoroutine != null)
+        {
+            StopCoroutine(invincibilityCoroutine); // Stop any running coroutine
+        }
 
-        // Optionally, visually indicate invincibility (e.g., make the bird flash)
-        float elapsed = 0f;
+        invincibilityCoroutine = StartCoroutine(HandleInvincibility());
+        yield return invincibilityCoroutine;
+    }
+
+    private IEnumerator HandleInvincibility()
+    {
+        isInvincible = true;
+
+        // Wait for the specified duration
+        yield return new WaitForSeconds(invincibilityDuration);
+
+        isInvincible = false;
+        if (player != null)
+        {
+            player.SetInvincibility(false);
+        }
+
+        invincibilityCoroutine = null; // Clear reference when done
+    }
+
+    /*private IEnumerator EnableInvincibility()
+    {
+        isInvincible = true; // Enable invincibility
+        //
+        yield return new WaitForSeconds(invincibilityDuration);
+        isInvincible = false;
+        if(player != null)
+        {
+            player.SetInvincibility(false);
+        }
+        /*float elapsed = 0f;
         while (elapsed < invincibilityDuration)
         {
             elapsed += Time.deltaTime;
@@ -510,7 +576,17 @@ public void Pause()
             yield return null;
         }
 
-        isInvincible = false; // Disable invincibility
+        isInvincible = false; // Disable invincibility*/
+    //}
+    private void DisableInvincibility()
+    {
+        isInvincible = false;
+
+        if (player != null)
+        {
+            player.SetInvincibility(false);
+        }
     }
+
     //revive button-obstacle delay ends
 }
