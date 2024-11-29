@@ -7,6 +7,7 @@ public class ScoreManager : MonoBehaviour
     [SerializeField] private Text highScoreText; // Text for displaying the high score
     private float currentScoreNow;
     private bool isGameActiveNow;
+    private float scoreAtRevive; // To store score before reviving
 
     void Start()
     {
@@ -36,30 +37,48 @@ public class ScoreManager : MonoBehaviour
     {
         isGameActiveNow = false;
 
-    // Generate a unique key for the current scene
-    string highScoreKey = "HighScore_" + UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+        // Generate a unique key for the current scene
+        string highScoreKey = "HighScore_" + UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
 
-    // Load the current high score for the scene
-    float highScore = PlayerPrefs.GetFloat(highScoreKey, 0f);
+        // Save current score as the score at revive
+        scoreAtRevive = currentScoreNow;
 
-    if (currentScoreNow > highScore)
-    {
-        highScore = currentScoreNow; // Update the high score
-        PlayerPrefs.SetFloat(highScoreKey, highScore); // Save the new high score
+        // Update and save high score
+        float highScore = PlayerPrefs.GetFloat(highScoreKey, 0f);
+        if (currentScoreNow > highScore)
+        {
+            highScore = currentScoreNow;
+            PlayerPrefs.SetFloat(highScoreKey, highScore);
+        }
+
+        PlayerPrefs.SetFloat("CurrentScore", currentScoreNow);
+        PlayerPrefs.Save();
+
+        UpdateHighScoreText(highScore);
     }
-
-    PlayerPrefs.SetFloat("CurrentScore", currentScoreNow);
-    PlayerPrefs.Save();
-
-    UpdateHighScoreText(highScore); // Update the high score UI
-    }
-
-    public void RestartGameCoinsNow()
+    public void ContinueGameFromScore(float savedScore)
     {
-        isGameActiveNow = true;
-        currentScoreNow = 0f; // Reset the current score
+        currentScoreNow = savedScore; // Resume the score from the saved value
+        isGameActiveNow = true; // Resume the game
         UpdateScoreTextNow(); // Update the score UI
     }
+    public void RestartGameCoinsNow(bool isReviving = false)
+    {
+
+        isGameActiveNow = true;
+
+        if (isReviving)
+        {
+            currentScoreNow = scoreAtRevive; // Continue from where it stopped
+        }
+        else
+        {
+            currentScoreNow = 0f; // Reset score if not reviving
+        }
+
+        UpdateScoreTextNow(); // Update the score UI
+    }
+
 
     public void ResetScore()
     {
