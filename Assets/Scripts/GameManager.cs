@@ -258,6 +258,7 @@ public void Pause()
         // Reset player to the saved position or checkpoint
         if (player != null)
         {
+            AudioManager.Instance.PlayGameplayMusic();
             player.transform.position = lastCheckPointPos;
             player.direction = Vector3.zero; // Reset movement
         }
@@ -370,6 +371,7 @@ public void Pause()
 
     public void RestartGame()
     {
+        AudioManager.Instance.PlayGameplayMusic();
         ResumeGame();
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);// Reload the current scene
     }

@@ -339,7 +339,7 @@ MonoBehaviour:
   highScoreText: {fileID: 7953074686051151757}
   highScore: {fileID: 1443941729}
   playerPrefabs:
-  - {fileID: 2139722326456305528, guid: 262fe3f298aa88e4b8c571cdeaf99afd, type: 3}
+  - {fileID: 7476013629448843981, guid: 262fe3f298aa88e4b8c571cdeaf99afd, type: 3}
   - {fileID: 7428510040196647044, guid: 9e06411272385e443b13de6b1ddd442a, type: 3}
   - {fileID: 8564254343174850270, guid: 29aa4b7135b3ef24596216e7ff550897, type: 3}
   - {fileID: 4055909807628869418, guid: 3538ff5177fb23248a28c92757059197, type: 3}

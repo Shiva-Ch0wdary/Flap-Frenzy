@@ -225,6 +225,9 @@ public class Player : MonoBehaviour
             // Update the UI
             UpdateCoinUI();
 
+            // Play the coin sound
+            AudioManager.Instance.PlaySFX("coin");
+
             // Destroy the coin object
             Destroy(other.gameObject);
         }
@@ -240,7 +243,7 @@ public class Player : MonoBehaviour
         {
             case PowerUpType.Invisibility:
                 StartCoroutine(HandleInvisibility(duration));
-                AudioManager.Instance.PlaySFX("powerup");
+                //AudioManager.Instance.PlaySFX("powerup");
                 break;
             case PowerUpType.SpeedBoost:
                 StartCoroutine(HandleSpeedBoost(duration));
