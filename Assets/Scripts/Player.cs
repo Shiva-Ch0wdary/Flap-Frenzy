@@ -222,6 +222,9 @@ public class Player : MonoBehaviour
             // Update the UI
             UpdateCoinUI();
 
+            // Play the coin sound
+            AudioManager.Instance.PlaySFX("coin");
+
             // Destroy the coin object
             Destroy(other.gameObject);
         }

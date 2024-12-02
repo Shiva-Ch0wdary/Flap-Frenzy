@@ -578,11 +578,11 @@ MonoBehaviour:
   highScoreText: {fileID: 1068365846}
   highScore: {fileID: 165327508}
   playerPrefabs:
-  - {fileID: 2139722326456305528, guid: 262fe3f298aa88e4b8c571cdeaf99afd, type: 3}
+  - {fileID: 9043724404228701647, guid: 262fe3f298aa88e4b8c571cdeaf99afd, type: 3}
   - {fileID: 7428510040196647044, guid: 9e06411272385e443b13de6b1ddd442a, type: 3}
   - {fileID: 8564254343174850270, guid: 29aa4b7135b3ef24596216e7ff550897, type: 3}
   - {fileID: 4055909807628869418, guid: 3538ff5177fb23248a28c92757059197, type: 3}
-  - {fileID: 5157845255000219312, guid: 5d9e730296df07446a6f0749fc53141c, type: 3}
+  - {fileID: 6527615358223489414, guid: 5d9e730296df07446a6f0749fc53141c, type: 3}
   - {fileID: 6176490032907177774, guid: e995bfdd5afeaef46910fdf350c37138, type: 3}
   characterIndex: 0
   SelectedCharacter: {fileID: 0}
@@ -3061,6 +3061,9 @@ MonoBehaviour:
     type: 3}
   spawnRate: 3
   spawnRadius: 0.5
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!222 &2582511227759566497
 CanvasRenderer:
   m_ObjectHideFlags: 0
