@@ -161,9 +161,16 @@ public class Player : MonoBehaviour
         // Trigger game-over if the player hits the ground when not sliding
         if (transform.position.y < groundLevel && !isSliding)
         {
-            GameManager.Instance.GameOver();
+            //adding if condition
+            if (!isInvincible && !GameManager.Instance.IsInvincible)
+            {
+                GameManager.Instance.GameOver();
+            }
+            //adding if condition ends
+            //GameManager.Instance.GameOver();
         }
     }
+
 
     private void AnimateSprite()
     {
